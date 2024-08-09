@@ -58,7 +58,7 @@
 | Third Round | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Víkingur/Víkingur_icon.png' alt='Víkingur' width='20' height='20' /> Víkingur | **1:1** | FC Flora <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/FC Flora/FC Flora_icon.png' alt='FC Flora' width='20' height='20' /> |
 | Third Round | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/NK Maribor/NK Maribor_icon.png' alt='NK Maribor' width='20' height='20' /> NK Maribor | **2:1** | Vojvodina <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Vojvodina/Vojvodina_icon.png' alt='Vojvodina' width='20' height='20' /> |
 | Third Round | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Spartak Trnava/Spartak Trnava_icon.png' alt='Spartak Trnava' width='20' height='20' /> Spartak Trnava | **3:1** | Wisla Kraków <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Wisla Kraków/Wisla Kraków_icon.png' alt='Wisla Kraków' width='20' height='20' /> |
-| Third Round | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/St. Pat__s/St. Pat\'s_icon.png' alt='St. Pat\'s' width='20' height='20' /> St. Pat\'s | **1:0** | Sabah FK <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Sabah FK/Sabah FK_icon.png' alt='Sabah FK' width='20' height='20' /> |
+| Third Round | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/St. Pat/St. Pat__s_icon.png' alt='St. Pat\'s' width='20' height='20' /> St. Pat\'s | **1:0** | Sabah FK <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Sabah FK/Sabah FK_icon.png' alt='Sabah FK' width='20' height='20' /> |
 | Third Round | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/St. Mirren/St. Mirren_icon.png' alt='St. Mirren' width='20' height='20' /> St. Mirren | **1:1** | Brann <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Brann/Brann_icon.png' alt='Brann' width='20' height='20' /> |
 ## <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Copa do Brasil/Copa do Brasil_icon.png' alt='Copa do Brasil' width='30' height='30' /> Copa do Brasil
 
@@ -84,12 +84,12 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 14 | <img src='' alt='PPJ/Ruoholahti' width='20' height='20' /> PPJ/Ruoholahti | **0:0** | HooGee <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/HooGee/HooGee_icon.png' alt='HooGee' width='20' height='20' /> |
+| matchday 14 | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/PPJ/PPJ_Ruoholahti_icon.png' alt='PPJ/Ruoholahti' width='20' height='20' /> PPJ/Ruoholahti | **0:0** | HooGee <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/HooGee/HooGee_icon.png' alt='HooGee' width='20' height='20' /> |
 ## <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Kolmonen Etelä Group C/Kolmonen Etelä Group C_icon.png' alt='Kolmonen Etelä Group C' width='30' height='30' /> Kolmonen Etelä Group C
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 14 | <img src='' alt='Gnistan/Ogeli' width='20' height='20' /> Gnistan/Ogeli | **2:4** | TiPS <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/TiPS/TiPS_icon.png' alt='TiPS' width='20' height='20' /> |
+| matchday 14 | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Gnistan/Gnistan_Ogeli_icon.png' alt='Gnistan/Ogeli' width='20' height='20' /> Gnistan/Ogeli | **2:4** | TiPS <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/TiPS/TiPS_icon.png' alt='TiPS' width='20' height='20' /> |
 ## <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Landespokal Hamburg/Landespokal Hamburg_icon.png' alt='Landespokal Hamburg' width='30' height='30' /> Landespokal Hamburg
 
 | Round | Home Team | Score | Away Team |
@@ -159,7 +159,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | First Round | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Solröd FC/Solröd FC_icon.png' alt='Solröd FC' width='20' height='20' /> Solröd FC | **4:1** | FC Nakskov <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/FC Nakskov/FC Nakskov_icon.png' alt='FC Nakskov' width='20' height='20' /> |
-| First Round | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/FC BiH Odense/FC BiH Odense_icon.png' alt='FC BiH Odense' width='20' height='20' /> FC BiH Odense | **1:4** | Saedding/G. IF <img src='' alt='Saedding/G. IF' width='20' height='20' /> |
+| First Round | <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/FC BiH Odense/FC BiH Odense_icon.png' alt='FC BiH Odense' width='20' height='20' /> FC BiH Odense | **1:4** | Saedding/G. IF <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Saedding/Saedding_G. IF_icon.png' alt='Saedding/G. IF' width='20' height='20' /> |
 ## <img src='/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/icons/Primera División Clausura/Primera División Clausura_icon.png' alt='Primera División Clausura' width='30' height='30' /> Primera División Clausura
 
 | Round | Home Team | Score | Away Team |
