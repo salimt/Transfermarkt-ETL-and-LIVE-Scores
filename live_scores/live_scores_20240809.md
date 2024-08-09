@@ -173,7 +173,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 11' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Lahti/FC Lahti_icon.png' alt='FC Lahti' width='20' height='20' /> FC Lahti | **1:0** | Ekenäs IF <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Ekenäs IF/Ekenäs IF_icon.png' alt='Ekenäs IF' width='20' height='20' /> |
+| 14' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Lahti/FC Lahti_icon.png' alt='FC Lahti' width='20' height='20' /> FC Lahti | **1:0** | Ekenäs IF <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Ekenäs IF/Ekenäs IF_icon.png' alt='Ekenäs IF' width='20' height='20' /> |
 
 </div>
 
@@ -1183,7 +1183,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Alashkert FC/Alashkert FC_icon.png' alt='Alashkert FC' width='20' height='20' /> Alashkert FC | **1:1** | FC Van <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Van/FC Van_icon.png' alt='FC Van' width='20' height='20' /> |
-| 11' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='20' height='20' /> West Armenia | **0:0** | BKMA Yerevan <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/BKMA Yerevan/BKMA Yerevan_icon.png' alt='BKMA Yerevan' width='20' height='20' /> |
+| 13' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='20' height='20' /> West Armenia | **0:0** | BKMA Yerevan <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/BKMA Yerevan/BKMA Yerevan_icon.png' alt='BKMA Yerevan' width='20' height='20' /> |
 
 </div>
 
