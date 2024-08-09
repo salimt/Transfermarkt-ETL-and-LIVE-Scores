@@ -2,6 +2,12 @@
 
 [See yesterday's scores (2024-08-08)](/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/live_scores_20240808.md)
 
+## Calendar
+
+[August 09](/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/live_scores_20240809.md) <table style='border-collapse: collapse;'>
+<tr><td style='padding: 5px;'>August 09</td></tr>
+</table>
+
 ## <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Championship/Championship_icon.png' alt='Championship' width='30' height='30' /> Championship
 
 <div align='center'>
@@ -173,7 +179,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 14' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Lahti/FC Lahti_icon.png' alt='FC Lahti' width='20' height='20' /> FC Lahti | **1:0** | Ekenäs IF <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Ekenäs IF/Ekenäs IF_icon.png' alt='Ekenäs IF' width='20' height='20' /> |
+| 18' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Lahti/FC Lahti_icon.png' alt='FC Lahti' width='20' height='20' /> FC Lahti | **1:0** | Ekenäs IF <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Ekenäs IF/Ekenäs IF_icon.png' alt='Ekenäs IF' width='20' height='20' /> |
 
 </div>
 
@@ -752,7 +758,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 1 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Zlin U19/Zlin U19_icon.png' alt='Zlin U19' width='20' height='20' /> Zlin U19 | **3:1** | Jihlava U19 <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Jihlava U19/Jihlava U19_icon.png' alt='Jihlava U19' width='20' height='20' /> |
-| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SFC Opava U19/SFC Opava U19_icon.png' alt='SFC Opava U19' width='20' height='20' /> SFC Opava U19 | **3:00 PM** | Pardubice U19 <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Pardubice U19/Pardubice U19_icon.png' alt='Pardubice U19' width='20' height='20' /> |
+| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SFC Opava U19/SFC Opava U19_icon.png' alt='SFC Opava U19' width='20' height='20' /> SFC Opava U19 | **2:2** | Pardubice U19 <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Pardubice U19/Pardubice U19_icon.png' alt='Pardubice U19' width='20' height='20' /> |
 
 </div>
 
@@ -1183,7 +1189,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Alashkert FC/Alashkert FC_icon.png' alt='Alashkert FC' width='20' height='20' /> Alashkert FC | **1:1** | FC Van <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Van/FC Van_icon.png' alt='FC Van' width='20' height='20' /> |
-| 13' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='20' height='20' /> West Armenia | **0:0** | BKMA Yerevan <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/BKMA Yerevan/BKMA Yerevan_icon.png' alt='BKMA Yerevan' width='20' height='20' /> |
+| 18' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='20' height='20' /> West Armenia | **1:0** | BKMA Yerevan <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/BKMA Yerevan/BKMA Yerevan_icon.png' alt='BKMA Yerevan' width='20' height='20' /> |
 
 </div>
 
