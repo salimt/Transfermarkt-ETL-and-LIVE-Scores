@@ -1,4 +1,6 @@
-# Live Scores
+# Live Scores - 2024-08-09
+
+[See yesterday's scores](/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/live_scores_20240808.md)
 
 ## <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/UEFA Europa League Qualifying/UEFA Europa League Qualifying_icon.png' alt='UEFA Europa League Qualifying' width='30' height='30' /> UEFA Europa League Qualifying
 
