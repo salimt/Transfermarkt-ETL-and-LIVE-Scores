@@ -39,7 +39,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/1.FC K/1.FC K_lautern_icon.png' alt='1.FC K\lautern' width='20' height='20' /> 1.FC K\lautern | **6:30 PM** | Greuther Fürth <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Greuther Fürth/Greuther Fürth_icon.png' alt='Greuther Fürth' width='20' height='20' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/1.FC K/1.FC K_lautern_icon.png' alt='1.FC K\lautern' width='20' height='20' /> 1.FC K\lautern | **6:30 PM** | Greuther Fürth <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Greuther Fürth/Greuther Fürth_icon.png' alt='Greuther Fürth' width='20' height='20' /> |
 | matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/J. Regensburg/J. Regensburg_icon.png' alt='J. Regensburg' width='20' height='20' /> J. Regensburg | **6:30 PM** | SSV Ulm 1846 <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SSV Ulm 1846/SSV Ulm 1846_icon.png' alt='SSV Ulm 1846' width='20' height='20' /> |
 
 </div>
@@ -70,7 +70,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Pari NN/Pari NN_icon.png' alt='Pari NN' width='20' height='20' /> Pari NN | **5:30 PM** | Khimki <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Khimki/Khimki_icon.png' alt='Khimki' width='20' height='20' /> |
+| 4' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Pari NN/Pari NN_icon.png' alt='Pari NN' width='20' height='20' /> Pari NN | **0:0** | Khimki <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Khimki/Khimki_icon.png' alt='Khimki' width='20' height='20' /> |
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Rostov/Rostov_icon.png' alt='Rostov' width='20' height='20' /> Rostov | **7:45 PM** | Rubin Kazan <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Rubin Kazan/Rubin Kazan_icon.png' alt='Rubin Kazan' width='20' height='20' /> |
 
 </div>
@@ -173,7 +173,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 32' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Lahti/FC Lahti_icon.png' alt='FC Lahti' width='20' height='20' /> FC Lahti | **1:0** | Ekenäs IF <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Ekenäs IF/Ekenäs IF_icon.png' alt='Ekenäs IF' width='20' height='20' /> |
+| 36' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Lahti/FC Lahti_icon.png' alt='FC Lahti' width='20' height='20' /> FC Lahti | **1:0** | Ekenäs IF <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Ekenäs IF/Ekenäs IF_icon.png' alt='Ekenäs IF' width='20' height='20' /> |
 
 </div>
 
@@ -374,7 +374,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 17 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Dinamo Minsk/Dinamo Minsk_icon.png' alt='Dinamo Minsk' width='20' height='20' /> Dinamo Minsk | **N/A** | FC Minsk <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Minsk/FC Minsk_icon.png' alt='FC Minsk' width='20' height='20' /> |
-| 1' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Slavia/Slavia_icon.png' alt='Slavia' width='20' height='20' /> Slavia | **0:0** | Vitebsk <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Vitebsk/Vitebsk_icon.png' alt='Vitebsk' width='20' height='20' /> |
+| 5' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Slavia/Slavia_icon.png' alt='Slavia' width='20' height='20' /> Slavia | **0:0** | Vitebsk <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Vitebsk/Vitebsk_icon.png' alt='Vitebsk' width='20' height='20' /> |
 
 </div>
 
@@ -1183,7 +1183,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Alashkert FC/Alashkert FC_icon.png' alt='Alashkert FC' width='20' height='20' /> Alashkert FC | **1:1** | FC Van <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Van/FC Van_icon.png' alt='FC Van' width='20' height='20' /> |
-| 30' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='20' height='20' /> West Armenia | **1:2** | BKMA Yerevan <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/BKMA Yerevan/BKMA Yerevan_icon.png' alt='BKMA Yerevan' width='20' height='20' /> |
+| 36' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='20' height='20' /> West Armenia | **1:3** | BKMA Yerevan <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/BKMA Yerevan/BKMA Yerevan_icon.png' alt='BKMA Yerevan' width='20' height='20' /> |
 
 </div>
 
@@ -1246,7 +1246,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Al-Rayyan SC/Al-Rayyan SC_icon.png' alt='Al-Rayyan SC' width='20' height='20' /> Al-Rayyan SC | **5:30 PM** | Umm Salal SC <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Umm Salal SC/Umm Salal SC_icon.png' alt='Umm Salal SC' width='20' height='20' /> |
+| 4' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Al-Rayyan SC/Al-Rayyan SC_icon.png' alt='Al-Rayyan SC' width='20' height='20' /> Al-Rayyan SC | **0:0** | Umm Salal SC <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Umm Salal SC/Umm Salal SC_icon.png' alt='Umm Salal SC' width='20' height='20' /> |
 | matchday 1 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Al-Khor SC/Al-Khor SC_icon.png' alt='Al-Khor SC' width='20' height='20' /> Al-Khor SC | **7:30 PM** | Al-Gharafa SC <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Al-Gharafa SC/Al-Gharafa SC_icon.png' alt='Al-Gharafa SC' width='20' height='20' /> |
 
 </div>
