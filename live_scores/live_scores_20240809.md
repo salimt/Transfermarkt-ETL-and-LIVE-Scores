@@ -152,7 +152,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/OFK Beograd/OFK Beograd_icon.png' alt='OFK Beograd' width='20' height='20' /> OFK Beograd | **6:00 PM** | FK Cukaricki <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FK Cukaricki/FK Cukaricki_icon.png' alt='FK Cukaricki' width='20' height='20' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/OFK Beograd/OFK Beograd_icon.png' alt='OFK Beograd' width='20' height='20' /> OFK Beograd | **6:00 PM** | FK Cukaricki <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FK Cukaricki/FK Cukaricki_icon.png' alt='FK Cukaricki' width='20' height='20' /> |
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Radnicki Nis/Radnicki Nis_icon.png' alt='Radnicki Nis' width='20' height='20' /> Radnicki Nis | **8:00 PM** | Napredak <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Napredak/Napredak_icon.png' alt='Napredak' width='20' height='20' /> |
 
 </div>
@@ -163,7 +163,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/HNK Sibenik/HNK Sibenik_icon.png' alt='HNK Sibenik' width='20' height='20' /> HNK Sibenik | **6:30 PM** | Slaven Belupo <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Slaven Belupo/Slaven Belupo_icon.png' alt='Slaven Belupo' width='20' height='20' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/HNK Sibenik/HNK Sibenik_icon.png' alt='HNK Sibenik' width='20' height='20' /> HNK Sibenik | **6:30 PM** | Slaven Belupo <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Slaven Belupo/Slaven Belupo_icon.png' alt='Slaven Belupo' width='20' height='20' /> |
 
 </div>
 
@@ -173,7 +173,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 21' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Lahti/FC Lahti_icon.png' alt='FC Lahti' width='20' height='20' /> FC Lahti | **1:0** | Ekenäs IF <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Ekenäs IF/Ekenäs IF_icon.png' alt='Ekenäs IF' width='20' height='20' /> |
+| 32' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Lahti/FC Lahti_icon.png' alt='FC Lahti' width='20' height='20' /> FC Lahti | **1:0** | Ekenäs IF <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Ekenäs IF/Ekenäs IF_icon.png' alt='Ekenäs IF' width='20' height='20' /> |
 
 </div>
 
@@ -374,7 +374,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 17 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Dinamo Minsk/Dinamo Minsk_icon.png' alt='Dinamo Minsk' width='20' height='20' /> Dinamo Minsk | **N/A** | FC Minsk <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Minsk/FC Minsk_icon.png' alt='FC Minsk' width='20' height='20' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Slavia/Slavia_icon.png' alt='Slavia' width='20' height='20' /> Slavia | **5:30 PM** | Vitebsk <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Vitebsk/Vitebsk_icon.png' alt='Vitebsk' width='20' height='20' /> |
+| 1' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Slavia/Slavia_icon.png' alt='Slavia' width='20' height='20' /> Slavia | **0:0** | Vitebsk <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Vitebsk/Vitebsk_icon.png' alt='Vitebsk' width='20' height='20' /> |
 
 </div>
 
@@ -460,10 +460,10 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SKU Amstetten/SKU Amstetten_icon.png' alt='SKU Amstetten' width='20' height='20' /> SKU Amstetten | **6:00 PM** | SV Stripfing <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SV Stripfing/SV Stripfing_icon.png' alt='SV Stripfing' width='20' height='20' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SV Lafnitz/SV Lafnitz_icon.png' alt='SV Lafnitz' width='20' height='20' /> SV Lafnitz | **6:00 PM** | FC Liefering <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Liefering/FC Liefering_icon.png' alt='FC Liefering' width='20' height='20' /> |
 | Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SV Kapfenberg/SV Kapfenberg_icon.png' alt='SV Kapfenberg' width='20' height='20' /> SV Kapfenberg | **6:00 PM** | FAC <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FAC/FAC_icon.png' alt='FAC' width='20' height='20' /> |
-| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SKU Amstetten/SKU Amstetten_icon.png' alt='SKU Amstetten' width='20' height='20' /> SKU Amstetten | **6:00 PM** | SV Stripfing <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SV Stripfing/SV Stripfing_icon.png' alt='SV Stripfing' width='20' height='20' /> |
-| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SV Lafnitz/SV Lafnitz_icon.png' alt='SV Lafnitz' width='20' height='20' /> SV Lafnitz | **6:00 PM** | FC Liefering <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Liefering/FC Liefering_icon.png' alt='FC Liefering' width='20' height='20' /> |
-| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SV Ried/SV Ried_icon.png' alt='SV Ried' width='20' height='20' /> SV Ried | **6:00 PM** | SV Horn <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SV Horn/SV Horn_icon.png' alt='SV Horn' width='20' height='20' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SV Ried/SV Ried_icon.png' alt='SV Ried' width='20' height='20' /> SV Ried | **6:00 PM** | SV Horn <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SV Horn/SV Horn_icon.png' alt='SV Horn' width='20' height='20' /> |
 | matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/SKN St. Pölten/SKN St. Pölten_icon.png' alt='SKN St. Pölten' width='20' height='20' /> SKN St. Pölten | **8:30 PM** | A. Lustenau <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/A. Lustenau/A. Lustenau_icon.png' alt='A. Lustenau' width='20' height='20' /> |
 
 </div>
@@ -1183,7 +1183,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 2 | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/Alashkert FC/Alashkert FC_icon.png' alt='Alashkert FC' width='20' height='20' /> Alashkert FC | **1:1** | FC Van <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/FC Van/FC Van_icon.png' alt='FC Van' width='20' height='20' /> |
-| 21' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='20' height='20' /> West Armenia | **1:1** | BKMA Yerevan <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/BKMA Yerevan/BKMA Yerevan_icon.png' alt='BKMA Yerevan' width='20' height='20' /> |
+| 30' | <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='20' height='20' /> West Armenia | **1:2** | BKMA Yerevan <img src='https://github.com/salimt/Transfermarkt-Analytics-Pipeline/raw/main/live_scores/icons/BKMA Yerevan/BKMA Yerevan_icon.png' alt='BKMA Yerevan' width='20' height='20' /> |
 
 </div>
 
