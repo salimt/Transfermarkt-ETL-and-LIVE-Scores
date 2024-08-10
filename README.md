@@ -562,7 +562,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 50' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. C. Sapporo/H. C. Sapporo_icon.png' alt='H. C. Sapporo' width='20' height='20' /> H. C. Sapporo | **0:1** | Avispa Fukuoka <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Avispa Fukuoka/Avispa Fukuoka_icon.png' alt='Avispa Fukuoka' width='20' height='20' /> |
+| 54' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. C. Sapporo/H. C. Sapporo_icon.png' alt='H. C. Sapporo' width='20' height='20' /> H. C. Sapporo | **0:1** | Avispa Fukuoka <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Avispa Fukuoka/Avispa Fukuoka_icon.png' alt='Avispa Fukuoka' width='20' height='20' /> |
 
 </div>
 
