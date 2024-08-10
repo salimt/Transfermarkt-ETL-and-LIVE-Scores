@@ -1432,7 +1432,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chrudim/Chrudim_icon.png' alt='Chrudim' width='20' height='20' /> Chrudim | **10:15 AM** | Banik Ostrava B <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Banik Ostrava B/Banik Ostrava B_icon.png' alt='Banik Ostrava B' width='20' height='20' /> |
+| 1' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chrudim/Chrudim_icon.png' alt='Chrudim' width='20' height='20' /> Chrudim | **0:0** | Banik Ostrava B <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Banik Ostrava B/Banik Ostrava B_icon.png' alt='Banik Ostrava B' width='20' height='20' /> |
 | matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SILON Taborsko/SILON Taborsko_icon.png' alt='SILON Taborsko' width='20' height='20' /> SILON Taborsko | **5:00 PM** | Zbrojovka Brno <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zbrojovka Brno/Zbrojovka Brno_icon.png' alt='Zbrojovka Brno' width='20' height='20' /> |
 | matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lisen/Lisen_icon.png' alt='Lisen' width='20' height='20' /> Lisen | **5:00 PM** | SFC Opava <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SFC Opava/SFC Opava_icon.png' alt='SFC Opava' width='20' height='20' /> |
 
