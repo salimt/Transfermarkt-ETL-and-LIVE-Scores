@@ -2,7 +2,7 @@
 
 [See yesterday's scores (2024-08-09)](/home/salimt/airflow-parma/dags/transfermarkt-github/live_scores/live_scores_20240809.md)
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Championship/Championship_icon.png' alt='Championship' width='32%' height='32%' /> Championship
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Championship/Championship_icon.png' alt='Championship' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Championship
 
 <div align='center'>
 
@@ -19,7 +19,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Campeonato Brasileiro Série A/Campeonato Brasileiro Série A_icon.png' alt='Campeonato Brasileiro Série A' width='32%' height='32%' /> Campeonato Brasileiro Série A
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Campeonato Brasileiro Série A/Campeonato Brasileiro Série A_icon.png' alt='Campeonato Brasileiro Série A' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Campeonato Brasileiro Série A
 
 <div align='center'>
 
@@ -29,7 +29,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Campeonato Brasileiro Série B/Campeonato Brasileiro Série B_icon.png' alt='Campeonato Brasileiro Série B' width='32%' height='32%' /> Campeonato Brasileiro Série B
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Campeonato Brasileiro Série B/Campeonato Brasileiro Série B_icon.png' alt='Campeonato Brasileiro Série B' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Campeonato Brasileiro Série B
 
 <div align='center'>
 
@@ -44,7 +44,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Campeonato Brasileiro Série C/Campeonato Brasileiro Série C_icon.png' alt='Campeonato Brasileiro Série C' width='32%' height='32%' /> Campeonato Brasileiro Série C
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Campeonato Brasileiro Série C/Campeonato Brasileiro Série C_icon.png' alt='Campeonato Brasileiro Série C' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Campeonato Brasileiro Série C
 
 <div align='center'>
 
@@ -55,7 +55,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Campeonato Brasileiro Série D/Campeonato Brasileiro Série D_icon.png' alt='Campeonato Brasileiro Série D' width='32%' height='32%' /> Campeonato Brasileiro Série D
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Campeonato Brasileiro Série D/Campeonato Brasileiro Série D_icon.png' alt='Campeonato Brasileiro Série D' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Campeonato Brasileiro Série D
 
 <div align='center'>
 
@@ -67,7 +67,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. Bundesliga/2. Bundesliga_icon.png' alt='2. Bundesliga' width='32%' height='32%' /> 2. Bundesliga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. Bundesliga/2. Bundesliga_icon.png' alt='2. Bundesliga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 2. Bundesliga
 
 <div align='center'>
 
@@ -80,7 +80,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/3. Liga/3. Liga_icon.png' alt='3. Liga' width='32%' height='32%' /> 3. Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/3. Liga/3. Liga_icon.png' alt='3. Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 3. Liga
 
 <div align='center'>
 
@@ -95,7 +95,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premier Liga/Premier Liga_icon.png' alt='Premier Liga' width='32%' height='32%' /> Premier Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premier Liga/Premier Liga_icon.png' alt='Premier Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Premier Liga
 
 <div align='center'>
 
@@ -108,7 +108,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bundesliga/Bundesliga_icon.png' alt='Bundesliga' width='32%' height='32%' /> Bundesliga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bundesliga/Bundesliga_icon.png' alt='Bundesliga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Bundesliga
 
 <div align='center'>
 
@@ -120,7 +120,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SuperLiga/SuperLiga_icon.png' alt='SuperLiga' width='32%' height='32%' /> SuperLiga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SuperLiga/SuperLiga_icon.png' alt='SuperLiga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> SuperLiga
 
 <div align='center'>
 
@@ -132,7 +132,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eredivisie/Eredivisie_icon.png' alt='Eredivisie' width='32%' height='32%' /> Eredivisie
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eredivisie/Eredivisie_icon.png' alt='Eredivisie' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Eredivisie
 
 <div align='center'>
 
@@ -145,7 +145,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Super League/Super League_icon.png' alt='Super League' width='32%' height='32%' /> Super League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Super League/Super League_icon.png' alt='Super League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Super League
 
 <div align='center'>
 
@@ -156,7 +156,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Süper Lig/Süper Lig_icon.png' alt='Süper Lig' width='32%' height='32%' /> Süper Lig
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Süper Lig/Süper Lig_icon.png' alt='Süper Lig' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Süper Lig
 
 <div align='center'>
 
@@ -168,7 +168,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish Premiership/Scottish Premiership_icon.png' alt='Scottish Premiership' width='32%' height='32%' /> Scottish Premiership
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish Premiership/Scottish Premiership_icon.png' alt='Scottish Premiership' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Scottish Premiership
 
 <div align='center'>
 
@@ -181,7 +181,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premier Liga/Premier Liga_icon.png' alt='Premier Liga' width='32%' height='32%' /> Premier Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premier Liga/Premier Liga_icon.png' alt='Premier Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Premier Liga
 
 <div align='center'>
 
@@ -192,7 +192,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jupiler Pro League/Jupiler Pro League_icon.png' alt='Jupiler Pro League' width='32%' height='32%' /> Jupiler Pro League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jupiler Pro League/Jupiler Pro League_icon.png' alt='Jupiler Pro League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Jupiler Pro League
 
 <div align='center'>
 
@@ -204,7 +204,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chance Liga/Chance Liga_icon.png' alt='Chance Liga' width='32%' height='32%' /> Chance Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chance Liga/Chance Liga_icon.png' alt='Chance Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Chance Liga
 
 <div align='center'>
 
@@ -217,7 +217,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Super liga Srbije/Super liga Srbije_icon.png' alt='Super liga Srbije' width='32%' height='32%' /> Super liga Srbije
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Super liga Srbije/Super liga Srbije_icon.png' alt='Super liga Srbije' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Super liga Srbije
 
 <div align='center'>
 
@@ -229,7 +229,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SuperSport HNL/SuperSport HNL_icon.png' alt='SuperSport HNL' width='32%' height='32%' /> SuperSport HNL
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SuperSport HNL/SuperSport HNL_icon.png' alt='SuperSport HNL' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> SuperSport HNL
 
 <div align='center'>
 
@@ -239,7 +239,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kolmonen Etelä Group B/Kolmonen Etelä Group B_icon.png' alt='Kolmonen Etelä Group B' width='32%' height='32%' /> Kolmonen Etelä Group B
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kolmonen Etelä Group B/Kolmonen Etelä Group B_icon.png' alt='Kolmonen Etelä Group B' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Kolmonen Etelä Group B
 
 <div align='center'>
 
@@ -249,7 +249,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kolmonen Itäinen/Kolmonen Itäinen_icon.png' alt='Kolmonen Itäinen' width='32%' height='32%' /> Kolmonen Itäinen
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kolmonen Itäinen/Kolmonen Itäinen_icon.png' alt='Kolmonen Itäinen' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Kolmonen Itäinen
 
 <div align='center'>
 
@@ -259,7 +259,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kakkonen - Group B/Kakkonen - Group B_icon.png' alt='Kakkonen - Group B' width='32%' height='32%' /> Kakkonen - Group B
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kakkonen - Group B/Kakkonen - Group B_icon.png' alt='Kakkonen - Group B' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Kakkonen - Group B
 
 <div align='center'>
 
@@ -273,7 +273,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kakkonen - Group A/Kakkonen - Group A_icon.png' alt='Kakkonen - Group A' width='32%' height='32%' /> Kakkonen - Group A
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kakkonen - Group A/Kakkonen - Group A_icon.png' alt='Kakkonen - Group A' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Kakkonen - Group A
 
 <div align='center'>
 
@@ -287,7 +287,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kakkonen - Group C/Kakkonen - Group C_icon.png' alt='Kakkonen - Group C' width='32%' height='32%' /> Kakkonen - Group C
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kakkonen - Group C/Kakkonen - Group C_icon.png' alt='Kakkonen - Group C' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Kakkonen - Group C
 
 <div align='center'>
 
@@ -301,7 +301,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kolmonen Pohjoinen/Kolmonen Pohjoinen_icon.png' alt='Kolmonen Pohjoinen' width='32%' height='32%' /> Kolmonen Pohjoinen
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kolmonen Pohjoinen/Kolmonen Pohjoinen_icon.png' alt='Kolmonen Pohjoinen' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Kolmonen Pohjoinen
 
 <div align='center'>
 
@@ -311,7 +311,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ykkösliiga/Ykkösliiga_icon.png' alt='Ykkösliiga' width='32%' height='32%' /> Ykkösliiga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ykkösliiga/Ykkösliiga_icon.png' alt='Ykkösliiga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Ykkösliiga
 
 <div align='center'>
 
@@ -322,7 +322,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kolmonen Etelä Group A/Kolmonen Etelä Group A_icon.png' alt='Kolmonen Etelä Group A' width='32%' height='32%' /> Kolmonen Etelä Group A
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kolmonen Etelä Group A/Kolmonen Etelä Group A_icon.png' alt='Kolmonen Etelä Group A' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Kolmonen Etelä Group A
 
 <div align='center'>
 
@@ -332,7 +332,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Veikkausliiga/Veikkausliiga_icon.png' alt='Veikkausliiga' width='32%' height='32%' /> Veikkausliiga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Veikkausliiga/Veikkausliiga_icon.png' alt='Veikkausliiga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Veikkausliiga
 
 <div align='center'>
 
@@ -342,7 +342,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PKO BP Ekstraklasa/PKO BP Ekstraklasa_icon.png' alt='PKO BP Ekstraklasa' width='32%' height='32%' /> PKO BP Ekstraklasa
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PKO BP Ekstraklasa/PKO BP Ekstraklasa_icon.png' alt='PKO BP Ekstraklasa' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> PKO BP Ekstraklasa
 
 <div align='center'>
 
@@ -353,7 +353,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/efbet Liga/efbet Liga_icon.png' alt='efbet Liga' width='32%' height='32%' /> efbet Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/efbet Liga/efbet Liga_icon.png' alt='efbet Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> efbet Liga
 
 <div align='center'>
 
@@ -364,7 +364,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vtora Liga/Vtora Liga_icon.png' alt='Vtora Liga' width='32%' height='32%' /> Vtora Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vtora Liga/Vtora Liga_icon.png' alt='Vtora Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Vtora Liga
 
 <div align='center'>
 
@@ -374,7 +374,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prva Liga/Prva Liga_icon.png' alt='Prva Liga' width='32%' height='32%' /> Prva Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prva Liga/Prva Liga_icon.png' alt='Prva Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Prva Liga
 
 <div align='center'>
 
@@ -386,7 +386,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/BGL Ligue/BGL Ligue_icon.png' alt='BGL Ligue' width='32%' height='32%' /> BGL Ligue
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/BGL Ligue/BGL Ligue_icon.png' alt='BGL Ligue' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> BGL Ligue
 
 <div align='center'>
 
@@ -396,7 +396,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nemzeti Bajnokság/Nemzeti Bajnokság_icon.png' alt='Nemzeti Bajnokság' width='32%' height='32%' /> Nemzeti Bajnokság
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nemzeti Bajnokság/Nemzeti Bajnokság_icon.png' alt='Nemzeti Bajnokság' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Nemzeti Bajnokság
 
 <div align='center'>
 
@@ -407,7 +407,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nike Liga/Nike Liga_icon.png' alt='Nike Liga' width='32%' height='32%' /> Nike Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nike Liga/Nike Liga_icon.png' alt='Nike Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Nike Liga
 
 <div align='center'>
 
@@ -418,7 +418,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landespokal Württemberg/Landespokal Württemberg_icon.png' alt='Landespokal Württemberg' width='32%' height='32%' /> Landespokal Württemberg
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landespokal Württemberg/Landespokal Württemberg_icon.png' alt='Landespokal Württemberg' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Landespokal Württemberg
 
 <div align='center'>
 
@@ -428,7 +428,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landespokal Bremen/Landespokal Bremen_icon.png' alt='Landespokal Bremen' width='32%' height='32%' /> Landespokal Bremen
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landespokal Bremen/Landespokal Bremen_icon.png' alt='Landespokal Bremen' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Landespokal Bremen
 
 <div align='center'>
 
@@ -462,7 +462,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Professional Football League/Professional Football League_icon.png' alt='Professional Football League' width='32%' height='32%' /> Professional Football League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Professional Football League/Professional Football League_icon.png' alt='Professional Football League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Professional Football League
 
 <div align='center'>
 
@@ -476,7 +476,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera Nacional/Primera Nacional_icon.png' alt='Primera Nacional' width='32%' height='32%' /> Primera Nacional
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera Nacional/Primera Nacional_icon.png' alt='Primera Nacional' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Primera Nacional
 
 <div align='center'>
 
@@ -488,7 +488,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Leagues Cup/Leagues Cup_icon.png' alt='Leagues Cup' width='32%' height='32%' /> Leagues Cup
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Leagues Cup/Leagues Cup_icon.png' alt='Leagues Cup' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Leagues Cup
 
 <div align='center'>
 
@@ -507,7 +507,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera División Apertura/Primera División Apertura_icon.png' alt='Primera División Apertura' width='32%' height='32%' /> Primera División Apertura
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera División Apertura/Primera División Apertura_icon.png' alt='Primera División Apertura' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Primera División Apertura
 
 <div align='center'>
 
@@ -518,7 +518,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Dimayor Finalización/Liga Dimayor Finalización_icon.png' alt='Liga Dimayor Finalización' width='32%' height='32%' /> Liga Dimayor Finalización
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Dimayor Finalización/Liga Dimayor Finalización_icon.png' alt='Liga Dimayor Finalización' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga Dimayor Finalización
 
 <div align='center'>
 
@@ -529,7 +529,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/División Profesional Clausura/División Profesional Clausura_icon.png' alt='División Profesional Clausura' width='32%' height='32%' /> División Profesional Clausura
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/División Profesional Clausura/División Profesional Clausura_icon.png' alt='División Profesional Clausura' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> División Profesional Clausura
 
 <div align='center'>
 
@@ -539,7 +539,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Torneo DIMAYOR II/Torneo DIMAYOR II_icon.png' alt='Torneo DIMAYOR II' width='32%' height='32%' /> Torneo DIMAYOR II
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Torneo DIMAYOR II/Torneo DIMAYOR II_icon.png' alt='Torneo DIMAYOR II' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Torneo DIMAYOR II
 
 <div align='center'>
 
@@ -556,7 +556,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/J1 League/J1 League_icon.png' alt='J1 League' width='32%' height='32%' /> J1 League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/J1 League/J1 League_icon.png' alt='J1 League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> J1 League
 
 <div align='center'>
 
@@ -566,7 +566,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/J2 League/J2 League_icon.png' alt='J2 League' width='32%' height='32%' /> J2 League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/J2 League/J2 League_icon.png' alt='J2 League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> J2 League
 
 <div align='center'>
 
@@ -582,7 +582,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lengjudeild/Lengjudeild_icon.png' alt='Lengjudeild' width='32%' height='32%' /> Lengjudeild
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lengjudeild/Lengjudeild_icon.png' alt='Lengjudeild' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Lengjudeild
 
 <div align='center'>
 
@@ -593,7 +593,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. deild/2. deild_icon.png' alt='2. deild' width='32%' height='32%' /> 2. deild
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. deild/2. deild_icon.png' alt='2. deild' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 2. deild
 
 <div align='center'>
 
@@ -606,7 +606,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga de Expansión MX Apertura/Liga de Expansión MX Apertura_icon.png' alt='Liga de Expansión MX Apertura' width='32%' height='32%' /> Liga de Expansión MX Apertura
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga de Expansión MX Apertura/Liga de Expansión MX Apertura_icon.png' alt='Liga de Expansión MX Apertura' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga de Expansión MX Apertura
 
 <div align='center'>
 
@@ -617,7 +617,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premijer Liga Bosne i Hercegovine/Premijer Liga Bosne i Hercegovine_icon.png' alt='Premijer Liga Bosne i Hercegovine' width='32%' height='32%' /> Premijer Liga Bosne i Hercegovine
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premijer Liga Bosne i Hercegovine/Premijer Liga Bosne i Hercegovine_icon.png' alt='Premijer Liga Bosne i Hercegovine' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Premijer Liga Bosne i Hercegovine
 
 <div align='center'>
 
@@ -629,7 +629,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National Premier League - Victoria/National Premier League - Victoria_icon.png' alt='National Premier League - Victoria' width='32%' height='32%' /> National Premier League - Victoria
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National Premier League - Victoria/National Premier League - Victoria_icon.png' alt='National Premier League - Victoria' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> National Premier League - Victoria
 
 <div align='center'>
 
@@ -642,7 +642,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National Premier League - New South Wales/National Premier League - New South Wales_icon.png' alt='National Premier League - New South Wales' width='32%' height='32%' /> National Premier League - New South Wales
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National Premier League - New South Wales/National Premier League - New South Wales_icon.png' alt='National Premier League - New South Wales' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> National Premier League - New South Wales
 
 <div align='center'>
 
@@ -655,7 +655,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera B/Primera B_icon.png' alt='Primera B' width='32%' height='32%' /> Primera B
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera B/Primera B_icon.png' alt='Primera B' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Primera B
 
 <div align='center'>
 
@@ -666,7 +666,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vysheyshaya Liga/Vysheyshaya Liga_icon.png' alt='Vysheyshaya Liga' width='32%' height='32%' /> Vysheyshaya Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vysheyshaya Liga/Vysheyshaya Liga_icon.png' alt='Vysheyshaya Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Vysheyshaya Liga
 
 <div align='center'>
 
@@ -678,7 +678,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/A Lyga/A Lyga_icon.png' alt='A Lyga' width='32%' height='32%' /> A Lyga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/A Lyga/A Lyga_icon.png' alt='A Lyga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> A Lyga
 
 <div align='center'>
 
@@ -689,7 +689,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prva Liga RS/Prva Liga RS_icon.png' alt='Prva Liga RS' width='32%' height='32%' /> Prva Liga RS
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prva Liga RS/Prva Liga RS_icon.png' alt='Prva Liga RS' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Prva Liga RS
 
 <div align='center'>
 
@@ -706,7 +706,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USL Championship/USL Championship_icon.png' alt='USL Championship' width='32%' height='32%' /> USL Championship
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USL Championship/USL Championship_icon.png' alt='USL Championship' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> USL Championship
 
 <div align='center'>
 
@@ -720,7 +720,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USL Cup/USL Cup_icon.png' alt='USL Cup' width='32%' height='32%' /> USL Cup
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USL Cup/USL Cup_icon.png' alt='USL Cup' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> USL Cup
 
 <div align='center'>
 
@@ -730,7 +730,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/K4 League/K4 League_icon.png' alt='K4 League' width='32%' height='32%' /> K4 League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/K4 League/K4 League_icon.png' alt='K4 League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> K4 League
 
 <div align='center'>
 
@@ -740,7 +740,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/K League 1/K League 1_icon.png' alt='K League 1' width='32%' height='32%' /> K League 1
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/K League 1/K League 1_icon.png' alt='K League 1' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> K League 1
 
 <div align='center'>
 
@@ -752,7 +752,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Erovnuli Liga/Erovnuli Liga_icon.png' alt='Erovnuli Liga' width='32%' height='32%' /> Erovnuli Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Erovnuli Liga/Erovnuli Liga_icon.png' alt='Erovnuli Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Erovnuli Liga
 
 <div align='center'>
 
@@ -764,7 +764,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Erovnuli Liga 2/Erovnuli Liga 2_icon.png' alt='Erovnuli Liga 2' width='32%' height='32%' /> Erovnuli Liga 2
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Erovnuli Liga 2/Erovnuli Liga 2_icon.png' alt='Erovnuli Liga 2' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Erovnuli Liga 2
 
 <div align='center'>
 
@@ -778,7 +778,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/MTN8/MTN8_icon.png' alt='MTN8' width='32%' height='32%' /> MTN8
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/MTN8/MTN8_icon.png' alt='MTN8' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> MTN8
 
 <div align='center'>
 
@@ -788,7 +788,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Druga Liga/Druga Liga_icon.png' alt='Druga Liga' width='32%' height='32%' /> Druga Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Druga Liga/Druga Liga_icon.png' alt='Druga Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Druga Liga
 
 <div align='center'>
 
@@ -801,7 +801,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/K League 2/K League 2_icon.png' alt='K League 2' width='32%' height='32%' /> K League 2
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/K League 2/K League 2_icon.png' alt='K League 2' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> K League 2
 
 <div align='center'>
 
@@ -812,7 +812,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish League One/Scottish League One_icon.png' alt='Scottish League One' width='32%' height='32%' /> Scottish League One
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish League One/Scottish League One_icon.png' alt='Scottish League One' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Scottish League One
 
 <div align='center'>
 
@@ -826,7 +826,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cymru Premier/Cymru Premier_icon.png' alt='Cymru Premier' width='32%' height='32%' /> Cymru Premier
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cymru Premier/Cymru Premier_icon.png' alt='Cymru Premier' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Cymru Premier
 
 <div align='center'>
 
@@ -837,7 +837,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cymru South/Cymru South_icon.png' alt='Cymru South' width='32%' height='32%' /> Cymru South
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cymru South/Cymru South_icon.png' alt='Cymru South' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Cymru South
 
 <div align='center'>
 
@@ -850,7 +850,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cymru North/Cymru North_icon.png' alt='Cymru North' width='32%' height='32%' /> Cymru North
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cymru North/Cymru North_icon.png' alt='Cymru North' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Cymru North
 
 <div align='center'>
 
@@ -863,7 +863,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. Liga/2. Liga_icon.png' alt='2. Liga' width='32%' height='32%' /> 2. Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. Liga/2. Liga_icon.png' alt='2. Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 2. Liga
 
 <div align='center'>
 
@@ -874,7 +874,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish League Two/Scottish League Two_icon.png' alt='Scottish League Two' width='32%' height='32%' /> Scottish League Two
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish League Two/Scottish League Two_icon.png' alt='Scottish League Two' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Scottish League Two
 
 <div align='center'>
 
@@ -888,7 +888,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish Lowland Football League/Scottish Lowland Football League_icon.png' alt='Scottish Lowland Football League' width='32%' height='32%' /> Scottish Lowland Football League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish Lowland Football League/Scottish Lowland Football League_icon.png' alt='Scottish Lowland Football League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Scottish Lowland Football League
 
 <div align='center'>
 
@@ -905,7 +905,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish Highland Football League/Scottish Highland Football League_icon.png' alt='Scottish Highland Football League' width='32%' height='32%' /> Scottish Highland Football League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish Highland Football League/Scottish Highland Football League_icon.png' alt='Scottish Highland Football League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Scottish Highland Football League
 
 <div align='center'>
 
@@ -923,7 +923,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish FA Cup/Scottish FA Cup_icon.png' alt='Scottish FA Cup' width='32%' height='32%' /> Scottish FA Cup
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish FA Cup/Scottish FA Cup_icon.png' alt='Scottish FA Cup' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Scottish FA Cup
 
 <div align='center'>
 
@@ -933,7 +933,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Italy Cup/Italy Cup_icon.png' alt='Italy Cup' width='32%' height='32%' /> Italy Cup
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Italy Cup/Italy Cup_icon.png' alt='Italy Cup' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Italy Cup
 
 <div align='center'>
 
@@ -946,7 +946,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Coppa Italia Serie C/Coppa Italia Serie C_icon.png' alt='Coppa Italia Serie C' width='32%' height='32%' /> Coppa Italia Serie C
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Coppa Italia Serie C/Coppa Italia Serie C_icon.png' alt='Coppa Italia Serie C' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Coppa Italia Serie C
 
 <div align='center'>
 
@@ -968,7 +968,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League South/National League South_icon.png' alt='National League South' width='32%' height='32%' /> National League South
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League South/National League South_icon.png' alt='National League South' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> National League South
 
 <div align='center'>
 
@@ -989,7 +989,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League North/National League North_icon.png' alt='National League North' width='32%' height='32%' /> National League North
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League North/National League North_icon.png' alt='National League North' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> National League North
 
 <div align='center'>
 
@@ -1010,7 +1010,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Esiliiga/Esiliiga_icon.png' alt='Esiliiga' width='32%' height='32%' /> Esiliiga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Esiliiga/Esiliiga_icon.png' alt='Esiliiga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Esiliiga
 
 <div align='center'>
 
@@ -1022,7 +1022,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Esiliiga B/Esiliiga B_icon.png' alt='Esiliiga B' width='32%' height='32%' /> Esiliiga B
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Esiliiga B/Esiliiga B_icon.png' alt='Esiliiga B' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Esiliiga B
 
 <div align='center'>
 
@@ -1035,7 +1035,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premium Liiga/Premium Liiga_icon.png' alt='Premium Liiga' width='32%' height='32%' /> Premium Liiga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premium Liiga/Premium Liiga_icon.png' alt='Premium Liiga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Premium Liiga
 
 <div align='center'>
 
@@ -1045,7 +1045,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League - Central/National League - Central_icon.png' alt='National League - Central' width='32%' height='32%' /> National League - Central
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League - Central/National League - Central_icon.png' alt='National League - Central' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> National League - Central
 
 <div align='center'>
 
@@ -1058,7 +1058,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League - South/National League - South_icon.png' alt='National League - South' width='32%' height='32%' /> National League - South
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League - South/National League - South_icon.png' alt='National League - South' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> National League - South
 
 <div align='center'>
 
@@ -1070,7 +1070,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League - North/National League - North_icon.png' alt='National League - North' width='32%' height='32%' /> National League - North
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League - North/National League - North_icon.png' alt='National League - North' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> National League - North
 
 <div align='center'>
 
@@ -1084,7 +1084,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga 1 Clausura/Liga 1 Clausura_icon.png' alt='Liga 1 Clausura' width='32%' height='32%' /> Liga 1 Clausura
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga 1 Clausura/Liga 1 Clausura_icon.png' alt='Liga 1 Clausura' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga 1 Clausura
 
 <div align='center'>
 
@@ -1096,7 +1096,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Myanmar National League/Myanmar National League_icon.png' alt='Myanmar National League' width='32%' height='32%' /> Myanmar National League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Myanmar National League/Myanmar National League_icon.png' alt='Myanmar National League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Myanmar National League
 
 <div align='center'>
 
@@ -1108,7 +1108,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malaysia Super League/Malaysia Super League_icon.png' alt='Malaysia Super League' width='32%' height='32%' /> Malaysia Super League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malaysia Super League/Malaysia Super League_icon.png' alt='Malaysia Super League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Malaysia Super League
 
 <div align='center'>
 
@@ -1119,7 +1119,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Thai League/Thai League_icon.png' alt='Thai League' width='32%' height='32%' /> Thai League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Thai League/Thai League_icon.png' alt='Thai League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Thai League
 
 <div align='center'>
 
@@ -1131,7 +1131,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Thai League 2/Thai League 2_icon.png' alt='Thai League 2' width='32%' height='32%' /> Thai League 2
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Thai League 2/Thai League 2_icon.png' alt='Thai League 2' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Thai League 2
 
 <div align='center'>
 
@@ -1144,7 +1144,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cambodian Premier League/Cambodian Premier League_icon.png' alt='Cambodian Premier League' width='32%' height='32%' /> Cambodian Premier League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cambodian Premier League/Cambodian Premier League_icon.png' alt='Cambodian Premier League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Cambodian Premier League
 
 <div align='center'>
 
@@ -1155,7 +1155,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/League of Ireland First Division/League of Ireland First Division_icon.png' alt='League of Ireland First Division' width='32%' height='32%' /> League of Ireland First Division
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/League of Ireland First Division/League of Ireland First Division_icon.png' alt='League of Ireland First Division' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> League of Ireland First Division
 
 <div align='center'>
 
@@ -1165,7 +1165,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Singapore Premier League/Singapore Premier League_icon.png' alt='Singapore Premier League' width='32%' height='32%' /> Singapore Premier League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Singapore Premier League/Singapore Premier League_icon.png' alt='Singapore Premier League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Singapore Premier League
 
 <div align='center'>
 
@@ -1176,7 +1176,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/League One/League One_icon.png' alt='League One' width='32%' height='32%' /> League One
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/League One/League One_icon.png' alt='League One' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> League One
 
 <div align='center'>
 
@@ -1196,7 +1196,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/League Two/League Two_icon.png' alt='League Two' width='32%' height='32%' /> League Two
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/League Two/League Two_icon.png' alt='League Two' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> League Two
 
 <div align='center'>
 
@@ -1216,7 +1216,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League/National League_icon.png' alt='National League' width='32%' height='32%' /> National League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League/National League_icon.png' alt='National League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> National League
 
 <div align='center'>
 
@@ -1237,7 +1237,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premiership/Premiership_icon.png' alt='Premiership' width='32%' height='32%' /> Premiership
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premiership/Premiership_icon.png' alt='Premiership' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Premiership
 
 <div align='center'>
 
@@ -1250,7 +1250,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Championship/Championship_icon.png' alt='Championship' width='32%' height='32%' /> Championship
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Championship/Championship_icon.png' alt='Championship' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Championship
 
 <div align='center'>
 
@@ -1264,7 +1264,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nakotnes Liga/Nakotnes Liga_icon.png' alt='Nakotnes Liga' width='32%' height='32%' /> Nakotnes Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nakotnes Liga/Nakotnes Liga_icon.png' alt='Nakotnes Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Nakotnes Liga
 
 <div align='center'>
 
@@ -1276,7 +1276,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera División de Chile/Primera División de Chile_icon.png' alt='Primera División de Chile' width='32%' height='32%' /> Primera División de Chile
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera División de Chile/Primera División de Chile_icon.png' alt='Primera División de Chile' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Primera División de Chile
 
 <div align='center'>
 
@@ -1289,7 +1289,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1.Division/1.Division_icon.png' alt='1.Division' width='32%' height='32%' /> 1.Division
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1.Division/1.Division_icon.png' alt='1.Division' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 1.Division
 
 <div align='center'>
 
@@ -1302,7 +1302,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga 2/Liga 2_icon.png' alt='Liga 2' width='32%' height='32%' /> Liga 2
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga 2/Liga 2_icon.png' alt='Liga 2' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga 2
 
 <div align='center'>
 
@@ -1322,7 +1322,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Keuken Kampioen Divisie/Keuken Kampioen Divisie_icon.png' alt='Keuken Kampioen Divisie' width='32%' height='32%' /> Keuken Kampioen Divisie
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Keuken Kampioen Divisie/Keuken Kampioen Divisie_icon.png' alt='Keuken Kampioen Divisie' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Keuken Kampioen Divisie
 
 <div align='center'>
 
@@ -1332,7 +1332,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Portugal 2 Meu Super/Liga Portugal 2 Meu Super_icon.png' alt='Liga Portugal 2 Meu Super' width='32%' height='32%' /> Liga Portugal 2 Meu Super
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Portugal 2 Meu Super/Liga Portugal 2 Meu Super_icon.png' alt='Liga Portugal 2 Meu Super' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga Portugal 2 Meu Super
 
 <div align='center'>
 
@@ -1342,7 +1342,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Portugal/Liga Portugal_icon.png' alt='Liga Portugal' width='32%' height='32%' /> Liga Portugal
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Portugal/Liga Portugal_icon.png' alt='Liga Portugal' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga Portugal
 
 <div align='center'>
 
@@ -1354,7 +1354,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish Championship/Scottish Championship_icon.png' alt='Scottish Championship' width='32%' height='32%' /> Scottish Championship
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scottish Championship/Scottish Championship_icon.png' alt='Scottish Championship' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Scottish Championship
 
 <div align='center'>
 
@@ -1367,7 +1367,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1.Lig/1.Lig_icon.png' alt='1.Lig' width='32%' height='32%' /> 1.Lig
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1.Lig/1.Lig_icon.png' alt='1.Lig' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 1.Lig
 
 <div align='center'>
 
@@ -1380,7 +1380,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U19 Premier Liga/U19 Premier Liga_icon.png' alt='U19 Premier Liga' width='32%' height='32%' /> U19 Premier Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U19 Premier Liga/U19 Premier Liga_icon.png' alt='U19 Premier Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> U19 Premier Liga
 
 <div align='center'>
 
@@ -1391,7 +1391,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Druga Liga/Druga Liga_icon.png' alt='Druga Liga' width='32%' height='32%' /> Druga Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Druga Liga/Druga Liga_icon.png' alt='Druga Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Druga Liga
 
 <div align='center'>
 
@@ -1401,7 +1401,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Challenge League/Challenge League_icon.png' alt='Challenge League' width='32%' height='32%' /> Challenge League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Challenge League/Challenge League_icon.png' alt='Challenge League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Challenge League
 
 <div align='center'>
 
@@ -1411,7 +1411,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Dorostenecka liga/1. Dorostenecka liga_icon.png' alt='1. Dorostenecka liga' width='32%' height='32%' /> 1. Dorostenecka liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Dorostenecka liga/1. Dorostenecka liga_icon.png' alt='1. Dorostenecka liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 1. Dorostenecka liga
 
 <div align='center'>
 
@@ -1426,7 +1426,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chance Narodni Liga/Chance Narodni Liga_icon.png' alt='Chance Narodni Liga' width='32%' height='32%' /> Chance Narodni Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chance Narodni Liga/Chance Narodni Liga_icon.png' alt='Chance Narodni Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Chance Narodni Liga
 
 <div align='center'>
 
@@ -1438,7 +1438,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ceska fotbalova liga/Ceska fotbalova liga_icon.png' alt='Ceska fotbalova liga' width='32%' height='32%' /> Ceska fotbalova liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ceska fotbalova liga/Ceska fotbalova liga_icon.png' alt='Ceska fotbalova liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Ceska fotbalova liga
 
 <div align='center'>
 
@@ -1453,7 +1453,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Moravskoslezska fotbalova liga/Moravskoslezska fotbalova liga_icon.png' alt='Moravskoslezska fotbalova liga' width='32%' height='32%' /> Moravskoslezska fotbalova liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Moravskoslezska fotbalova liga/Moravskoslezska fotbalova liga_icon.png' alt='Moravskoslezska fotbalova liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Moravskoslezska fotbalova liga
 
 <div align='center'>
 
@@ -1464,7 +1464,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1.Division/1.Division_icon.png' alt='1.Division' width='32%' height='32%' /> 1.Division
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1.Division/1.Division_icon.png' alt='1.Division' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 1.Division
 
 <div align='center'>
 
@@ -1476,7 +1476,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eliteserien/Eliteserien_icon.png' alt='Eliteserien' width='32%' height='32%' /> Eliteserien
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eliteserien/Eliteserien_icon.png' alt='Eliteserien' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Eliteserien
 
 <div align='center'>
 
@@ -1487,7 +1487,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/OBOS-ligaen/OBOS-ligaen_icon.png' alt='OBOS-ligaen' width='32%' height='32%' /> OBOS-ligaen
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/OBOS-ligaen/OBOS-ligaen_icon.png' alt='OBOS-ligaen' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> OBOS-ligaen
 
 <div align='center'>
 
@@ -1501,7 +1501,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PostNord-ligaen Avd. 2/PostNord-ligaen Avd. 2_icon.png' alt='PostNord-ligaen Avd. 2' width='32%' height='32%' /> PostNord-ligaen Avd. 2
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PostNord-ligaen Avd. 2/PostNord-ligaen Avd. 2_icon.png' alt='PostNord-ligaen Avd. 2' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> PostNord-ligaen Avd. 2
 
 <div align='center'>
 
@@ -1514,7 +1514,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 4/Norsk Tipping-Ligaen avdeling 4_icon.png' alt='Norsk Tipping-Ligaen avdeling 4' width='32%' height='32%' /> Norsk Tipping-Ligaen avdeling 4
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 4/Norsk Tipping-Ligaen avdeling 4_icon.png' alt='Norsk Tipping-Ligaen avdeling 4' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Norsk Tipping-Ligaen avdeling 4
 
 <div align='center'>
 
@@ -1527,7 +1527,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 6/Norsk Tipping-Ligaen avdeling 6_icon.png' alt='Norsk Tipping-Ligaen avdeling 6' width='32%' height='32%' /> Norsk Tipping-Ligaen avdeling 6
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 6/Norsk Tipping-Ligaen avdeling 6_icon.png' alt='Norsk Tipping-Ligaen avdeling 6' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Norsk Tipping-Ligaen avdeling 6
 
 <div align='center'>
 
@@ -1541,7 +1541,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 1/Norsk Tipping-Ligaen avdeling 1_icon.png' alt='Norsk Tipping-Ligaen avdeling 1' width='32%' height='32%' /> Norsk Tipping-Ligaen avdeling 1
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 1/Norsk Tipping-Ligaen avdeling 1_icon.png' alt='Norsk Tipping-Ligaen avdeling 1' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Norsk Tipping-Ligaen avdeling 1
 
 <div align='center'>
 
@@ -1556,7 +1556,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chinese Super League/Chinese Super League_icon.png' alt='Chinese Super League' width='32%' height='32%' /> Chinese Super League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chinese Super League/Chinese Super League_icon.png' alt='Chinese Super League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Chinese Super League
 
 <div align='center'>
 
@@ -1568,7 +1568,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 2/Norsk Tipping-Ligaen avdeling 2_icon.png' alt='Norsk Tipping-Ligaen avdeling 2' width='32%' height='32%' /> Norsk Tipping-Ligaen avdeling 2
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 2/Norsk Tipping-Ligaen avdeling 2_icon.png' alt='Norsk Tipping-Ligaen avdeling 2' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Norsk Tipping-Ligaen avdeling 2
 
 <div align='center'>
 
@@ -1582,7 +1582,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 3/Norsk Tipping-Ligaen avdeling 3_icon.png' alt='Norsk Tipping-Ligaen avdeling 3' width='32%' height='32%' /> Norsk Tipping-Ligaen avdeling 3
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 3/Norsk Tipping-Ligaen avdeling 3_icon.png' alt='Norsk Tipping-Ligaen avdeling 3' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Norsk Tipping-Ligaen avdeling 3
 
 <div align='center'>
 
@@ -1593,7 +1593,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 5/Norsk Tipping-Ligaen avdeling 5_icon.png' alt='Norsk Tipping-Ligaen avdeling 5' width='32%' height='32%' /> Norsk Tipping-Ligaen avdeling 5
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norsk Tipping-Ligaen avdeling 5/Norsk Tipping-Ligaen avdeling 5_icon.png' alt='Norsk Tipping-Ligaen avdeling 5' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Norsk Tipping-Ligaen avdeling 5
 
 <div align='center'>
 
@@ -1605,7 +1605,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PostNord-ligaen Avd. 1/PostNord-ligaen Avd. 1_icon.png' alt='PostNord-ligaen Avd. 1' width='32%' height='32%' /> PostNord-ligaen Avd. 1
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PostNord-ligaen Avd. 1/PostNord-ligaen Avd. 1_icon.png' alt='PostNord-ligaen Avd. 1' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> PostNord-ligaen Avd. 1
 
 <div align='center'>
 
@@ -1615,7 +1615,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prva liga Srbije/Prva liga Srbije_icon.png' alt='Prva liga Srbije' width='32%' height='32%' /> Prva liga Srbije
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prva liga Srbije/Prva liga Srbije_icon.png' alt='Prva liga Srbije' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Prva liga Srbije
 
 <div align='center'>
 
@@ -1628,7 +1628,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Betclic 3 Liga - Group IV/Betclic 3 Liga - Group IV_icon.png' alt='Betclic 3 Liga - Group IV' width='32%' height='32%' /> Betclic 3 Liga - Group IV
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Betclic 3 Liga - Group IV/Betclic 3 Liga - Group IV_icon.png' alt='Betclic 3 Liga - Group IV' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Betclic 3 Liga - Group IV
 
 <div align='center'>
 
@@ -1644,7 +1644,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Betclic 1 Liga/Betclic 1 Liga_icon.png' alt='Betclic 1 Liga' width='32%' height='32%' /> Betclic 1 Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Betclic 1 Liga/Betclic 1 Liga_icon.png' alt='Betclic 1 Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Betclic 1 Liga
 
 <div align='center'>
 
@@ -1656,7 +1656,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Superettan/Superettan_icon.png' alt='Superettan' width='32%' height='32%' /> Superettan
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Superettan/Superettan_icon.png' alt='Superettan' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Superettan
 
 <div align='center'>
 
@@ -1668,7 +1668,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Allsvenskan/Allsvenskan_icon.png' alt='Allsvenskan' width='32%' height='32%' /> Allsvenskan
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Allsvenskan/Allsvenskan_icon.png' alt='Allsvenskan' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Allsvenskan
 
 <div align='center'>
 
@@ -1680,7 +1680,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. CFL/2. CFL_icon.png' alt='2. CFL' width='32%' height='32%' /> 2. CFL
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. CFL/2. CFL_icon.png' alt='2. CFL' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 2. CFL
 
 <div align='center'>
 
@@ -1693,7 +1693,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/O/O_zbekiston Superligasi_icon.png' alt='O'zbekiston Superligasi' width='32%' height='32%' /> O'zbekiston Superligasi
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/O/O_zbekiston Superligasi_icon.png' alt='O'zbekiston Superligasi' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> O'zbekiston Superligasi
 
 <div align='center'>
 
@@ -1704,7 +1704,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Canadian Premier League/Canadian Premier League_icon.png' alt='Canadian Premier League' width='32%' height='32%' /> Canadian Premier League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Canadian Premier League/Canadian Premier League_icon.png' alt='Canadian Premier League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Canadian Premier League
 
 <div align='center'>
 
@@ -1715,7 +1715,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Northeast/Regionalliga Northeast_icon.png' alt='Regionalliga Northeast' width='32%' height='32%' /> Regionalliga Northeast
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Northeast/Regionalliga Northeast_icon.png' alt='Regionalliga Northeast' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Regionalliga Northeast
 
 <div align='center'>
 
@@ -1727,7 +1727,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Bayern/Regionalliga Bayern_icon.png' alt='Regionalliga Bayern' width='32%' height='32%' /> Regionalliga Bayern
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Bayern/Regionalliga Bayern_icon.png' alt='Regionalliga Bayern' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Regionalliga Bayern
 
 <div align='center'>
 
@@ -1739,7 +1739,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga West/Regionalliga West_icon.png' alt='Regionalliga West' width='32%' height='32%' /> Regionalliga West
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga West/Regionalliga West_icon.png' alt='Regionalliga West' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Regionalliga West
 
 <div align='center'>
 
@@ -1754,7 +1754,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Südwest/Regionalliga Südwest_icon.png' alt='Regionalliga Südwest' width='32%' height='32%' /> Regionalliga Südwest
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Südwest/Regionalliga Südwest_icon.png' alt='Regionalliga Südwest' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Regionalliga Südwest
 
 <div align='center'>
 
@@ -1768,7 +1768,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Nord/Regionalliga Nord_icon.png' alt='Regionalliga Nord' width='32%' height='32%' /> Regionalliga Nord
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Nord/Regionalliga Nord_icon.png' alt='Regionalliga Nord' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Regionalliga Nord
 
 <div align='center'>
 
@@ -1780,7 +1780,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regional League Central/Regional League Central_icon.png' alt='Regional League Central' width='32%' height='32%' /> Regional League Central
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regional League Central/Regional League Central_icon.png' alt='Regional League Central' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Regional League Central
 
 <div align='center'>
 
@@ -1790,7 +1790,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Promotion League/Promotion League_icon.png' alt='Promotion League' width='32%' height='32%' /> Promotion League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Promotion League/Promotion League_icon.png' alt='Promotion League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Promotion League
 
 <div align='center'>
 
@@ -1807,7 +1807,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regional League East/Regional League East_icon.png' alt='Regional League East' width='32%' height='32%' /> Regional League East
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regional League East/Regional League East_icon.png' alt='Regional League East' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Regional League East
 
 <div align='center'>
 
@@ -1820,7 +1820,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga West/Regionalliga West_icon.png' alt='Regionalliga West' width='32%' height='32%' /> Regionalliga West
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga West/Regionalliga West_icon.png' alt='Regionalliga West' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Regionalliga West
 
 <div align='center'>
 
@@ -1833,7 +1833,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Liga Classic group 1/1. Liga Classic group 1_icon.png' alt='1. Liga Classic group 1' width='32%' height='32%' /> 1. Liga Classic group 1
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Liga Classic group 1/1. Liga Classic group 1_icon.png' alt='1. Liga Classic group 1' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 1. Liga Classic group 1
 
 <div align='center'>
 
@@ -1846,7 +1846,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2.Division/2.Division_icon.png' alt='2.Division' width='32%' height='32%' /> 2.Division
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2.Division/2.Division_icon.png' alt='2.Division' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 2.Division
 
 <div align='center'>
 
@@ -1858,7 +1858,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Liga Classic group 2/1. Liga Classic group 2_icon.png' alt='1. Liga Classic group 2' width='32%' height='32%' /> 1. Liga Classic group 2
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Liga Classic group 2/1. Liga Classic group 2_icon.png' alt='1. Liga Classic group 2' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 1. Liga Classic group 2
 
 <div align='center'>
 
@@ -1873,7 +1873,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Liga Classic group 3/1. Liga Classic group 3_icon.png' alt='1. Liga Classic group 3' width='32%' height='32%' /> 1. Liga Classic group 3
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Liga Classic group 3/1. Liga Classic group 3_icon.png' alt='1. Liga Classic group 3' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 1. Liga Classic group 3
 
 <div align='center'>
 
@@ -1890,7 +1890,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Guate Apertura/Liga Guate Apertura_icon.png' alt='Liga Guate Apertura' width='32%' height='32%' /> Liga Guate Apertura
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Guate Apertura/Liga Guate Apertura_icon.png' alt='Liga Guate Apertura' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga Guate Apertura
 
 <div align='center'>
 
@@ -1900,7 +1900,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Nacional Apertura/Liga Nacional Apertura_icon.png' alt='Liga Nacional Apertura' width='32%' height='32%' /> Liga Nacional Apertura
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Nacional Apertura/Liga Nacional Apertura_icon.png' alt='Liga Nacional Apertura' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga Nacional Apertura
 
 <div align='center'>
 
@@ -1910,7 +1910,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Panameña de Fútbol Clausura/Liga Panameña de Fútbol Clausura_icon.png' alt='Liga Panameña de Fútbol Clausura' width='32%' height='32%' /> Liga Panameña de Fútbol Clausura
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Panameña de Fútbol Clausura/Liga Panameña de Fútbol Clausura_icon.png' alt='Liga Panameña de Fútbol Clausura' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga Panameña de Fútbol Clausura
 
 <div align='center'>
 
@@ -1920,7 +1920,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera División Apertura/Primera División Apertura_icon.png' alt='Primera División Apertura' width='32%' height='32%' /> Primera División Apertura
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera División Apertura/Primera División Apertura_icon.png' alt='Primera División Apertura' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Primera División Apertura
 
 <div align='center'>
 
@@ -1931,7 +1931,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Primera de Nicaragua Apertura/Liga Primera de Nicaragua Apertura_icon.png' alt='Liga Primera de Nicaragua Apertura' width='32%' height='32%' /> Liga Primera de Nicaragua Apertura
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Primera de Nicaragua Apertura/Liga Primera de Nicaragua Apertura_icon.png' alt='Liga Primera de Nicaragua Apertura' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga Primera de Nicaragua Apertura
 
 <div align='center'>
 
@@ -1941,7 +1941,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bayernliga Nord/Bayernliga Nord_icon.png' alt='Bayernliga Nord' width='32%' height='32%' /> Bayernliga Nord
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bayernliga Nord/Bayernliga Nord_icon.png' alt='Bayernliga Nord' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Bayernliga Nord
 
 <div align='center'>
 
@@ -1954,7 +1954,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bayernliga Süd/Bayernliga Süd_icon.png' alt='Bayernliga Süd' width='32%' height='32%' /> Bayernliga Süd
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bayernliga Süd/Bayernliga Süd_icon.png' alt='Bayernliga Süd' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Bayernliga Süd
 
 <div align='center'>
 
@@ -1970,7 +1970,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Rheinland-Pfalz/Oberliga Rheinland-Pfalz_Saar_icon.png' alt='Oberliga Rheinland-Pfalz/Saar' width='32%' height='32%' /> Oberliga Rheinland-Pfalz/Saar
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Rheinland-Pfalz/Oberliga Rheinland-Pfalz_Saar_icon.png' alt='Oberliga Rheinland-Pfalz/Saar' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Oberliga Rheinland-Pfalz/Saar
 
 <div align='center'>
 
@@ -1987,7 +1987,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hessenliga/Hessenliga_icon.png' alt='Hessenliga' width='32%' height='32%' /> Hessenliga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hessenliga/Hessenliga_icon.png' alt='Hessenliga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Hessenliga
 
 <div align='center'>
 
@@ -2000,7 +2000,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Baden-Württemberg/Oberliga Baden-Württemberg_icon.png' alt='Oberliga Baden-Württemberg' width='32%' height='32%' /> Oberliga Baden-Württemberg
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Baden-Württemberg/Oberliga Baden-Württemberg_icon.png' alt='Oberliga Baden-Württemberg' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Oberliga Baden-Württemberg
 
 <div align='center'>
 
@@ -2017,7 +2017,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Hamburg/Oberliga Hamburg_icon.png' alt='Oberliga Hamburg' width='32%' height='32%' /> Oberliga Hamburg
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Hamburg/Oberliga Hamburg_icon.png' alt='Oberliga Hamburg' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Oberliga Hamburg
 
 <div align='center'>
 
@@ -2028,7 +2028,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/NOFV-Oberliga Nord/NOFV-Oberliga Nord_icon.png' alt='NOFV-Oberliga Nord' width='32%' height='32%' /> NOFV-Oberliga Nord
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/NOFV-Oberliga Nord/NOFV-Oberliga Nord_icon.png' alt='NOFV-Oberliga Nord' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> NOFV-Oberliga Nord
 
 <div align='center'>
 
@@ -2038,7 +2038,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/NOFV-Oberliga Süd/NOFV-Oberliga Süd_icon.png' alt='NOFV-Oberliga Süd' width='32%' height='32%' /> NOFV-Oberliga Süd
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/NOFV-Oberliga Süd/NOFV-Oberliga Süd_icon.png' alt='NOFV-Oberliga Süd' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> NOFV-Oberliga Süd
 
 <div align='center'>
 
@@ -2052,7 +2052,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Schleswig-Holstein/Oberliga Schleswig-Holstein_icon.png' alt='Oberliga Schleswig-Holstein' width='32%' height='32%' /> Oberliga Schleswig-Holstein
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Schleswig-Holstein/Oberliga Schleswig-Holstein_icon.png' alt='Oberliga Schleswig-Holstein' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Oberliga Schleswig-Holstein
 
 <div align='center'>
 
@@ -2067,7 +2067,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Niedersachsen/Oberliga Niedersachsen_icon.png' alt='Oberliga Niedersachsen' width='32%' height='32%' /> Oberliga Niedersachsen
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberliga Niedersachsen/Oberliga Niedersachsen_icon.png' alt='Oberliga Niedersachsen' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Oberliga Niedersachsen
 
 <div align='center'>
 
@@ -2078,7 +2078,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/MONACObet liga/MONACObet liga_icon.png' alt='MONACObet liga' width='32%' height='32%' /> MONACObet liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/MONACObet liga/MONACObet liga_icon.png' alt='MONACObet liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> MONACObet liga
 
 <div align='center'>
 
@@ -2090,7 +2090,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pershaya Liga/Pershaya Liga_icon.png' alt='Pershaya Liga' width='32%' height='32%' /> Pershaya Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pershaya Liga/Pershaya Liga_icon.png' alt='Pershaya Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Pershaya Liga
 
 <div align='center'>
 
@@ -2104,7 +2104,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Landesliga Niederösterreich/1. Landesliga Niederösterreich_icon.png' alt='1. Landesliga Niederösterreich' width='32%' height='32%' /> 1. Landesliga Niederösterreich
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Landesliga Niederösterreich/1. Landesliga Niederösterreich_icon.png' alt='1. Landesliga Niederösterreich' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 1. Landesliga Niederösterreich
 
 <div align='center'>
 
@@ -2116,7 +2116,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Burgenlandliga/Burgenlandliga_icon.png' alt='Burgenlandliga' width='32%' height='32%' /> Burgenlandliga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Burgenlandliga/Burgenlandliga_icon.png' alt='Burgenlandliga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Burgenlandliga
 
 <div align='center'>
 
@@ -2129,7 +2129,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberösterreich Liga/Oberösterreich Liga_icon.png' alt='Oberösterreich Liga' width='32%' height='32%' /> Oberösterreich Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oberösterreich Liga/Oberösterreich Liga_icon.png' alt='Oberösterreich Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Oberösterreich Liga
 
 <div align='center'>
 
@@ -2140,7 +2140,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kärntner Liga/Kärntner Liga_icon.png' alt='Kärntner Liga' width='32%' height='32%' /> Kärntner Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kärntner Liga/Kärntner Liga_icon.png' alt='Kärntner Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Kärntner Liga
 
 <div align='center'>
 
@@ -2151,7 +2151,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Tirol/Regionalliga Tirol_icon.png' alt='Regionalliga Tirol' width='32%' height='32%' /> Regionalliga Tirol
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Regionalliga Tirol/Regionalliga Tirol_icon.png' alt='Regionalliga Tirol' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Regionalliga Tirol
 
 <div align='center'>
 
@@ -2162,7 +2162,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eliteliga Vorarlberg/Eliteliga Vorarlberg_icon.png' alt='Eliteliga Vorarlberg' width='32%' height='32%' /> Eliteliga Vorarlberg
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eliteliga Vorarlberg/Eliteliga Vorarlberg_icon.png' alt='Eliteliga Vorarlberg' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Eliteliga Vorarlberg
 
 <div align='center'>
 
@@ -2177,7 +2177,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LigaPro Serie A Segunda Etapa/LigaPro Serie A Segunda Etapa_icon.png' alt='LigaPro Serie A Segunda Etapa' width='32%' height='32%' /> LigaPro Serie A Segunda Etapa
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LigaPro Serie A Segunda Etapa/LigaPro Serie A Segunda Etapa_icon.png' alt='LigaPro Serie A Segunda Etapa' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> LigaPro Serie A Segunda Etapa
 
 <div align='center'>
 
@@ -2190,7 +2190,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Virsliga/Virsliga_icon.png' alt='Virsliga' width='32%' height='32%' /> Virsliga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Virsliga/Virsliga_icon.png' alt='Virsliga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Virsliga
 
 <div align='center'>
 
@@ -2201,7 +2201,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vysshaya Liga/Vysshaya Liga_icon.png' alt='Vysshaya Liga' width='32%' height='32%' /> Vysshaya Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vysshaya Liga/Vysshaya Liga_icon.png' alt='Vysshaya Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Vysshaya Liga
 
 <div align='center'>
 
@@ -2211,7 +2211,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premyer Liqa/Premyer Liqa_icon.png' alt='Premyer Liqa' width='32%' height='32%' /> Premyer Liqa
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premyer Liqa/Premyer Liqa_icon.png' alt='Premyer Liqa' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Premyer Liqa
 
 <div align='center'>
 
@@ -2222,7 +2222,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Superliga e Kosovës/Superliga e Kosovës_icon.png' alt='Superliga e Kosovës' width='32%' height='32%' /> Superliga e Kosovës
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Superliga e Kosovës/Superliga e Kosovës_icon.png' alt='Superliga e Kosovës' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Superliga e Kosovës
 
 <div align='center'>
 
@@ -2233,7 +2233,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bardzraguyn khumb/Bardzraguyn khumb_icon.png' alt='Bardzraguyn khumb' width='32%' height='32%' /> Bardzraguyn khumb
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bardzraguyn khumb/Bardzraguyn khumb_icon.png' alt='Bardzraguyn khumb' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Bardzraguyn khumb
 
 <div align='center'>
 
@@ -2243,7 +2243,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Armenian First League/Armenian First League_icon.png' alt='Armenian First League' width='32%' height='32%' /> Armenian First League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Armenian First League/Armenian First League_icon.png' alt='Armenian First League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Armenian First League
 
 <div align='center'>
 
@@ -2253,7 +2253,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ettan Norra/Ettan Norra_icon.png' alt='Ettan Norra' width='32%' height='32%' /> Ettan Norra
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ettan Norra/Ettan Norra_icon.png' alt='Ettan Norra' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Ettan Norra
 
 <div align='center'>
 
@@ -2266,7 +2266,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ettan Södra/Ettan Södra_icon.png' alt='Ettan Södra' width='32%' height='32%' /> Ettan Södra
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ettan Södra/Ettan Södra_icon.png' alt='Ettan Södra' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Ettan Södra
 
 <div align='center'>
 
@@ -2280,7 +2280,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. deild/1. deild_icon.png' alt='1. deild' width='32%' height='32%' /> 1. deild
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. deild/1. deild_icon.png' alt='1. deild' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> 1. deild
 
 <div align='center'>
 
@@ -2290,7 +2290,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Betri-deildin/Betri-deildin_icon.png' alt='Betri-deildin' width='32%' height='32%' /> Betri-deildin
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Betri-deildin/Betri-deildin_icon.png' alt='Betri-deildin' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Betri-deildin
 
 <div align='center'>
 
@@ -2301,7 +2301,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga 1 Indonesia/Liga 1 Indonesia_icon.png' alt='Liga 1 Indonesia' width='32%' height='32%' /> Liga 1 Indonesia
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga 1 Indonesia/Liga 1 Indonesia_icon.png' alt='Liga 1 Indonesia' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Liga 1 Indonesia
 
 <div align='center'>
 
@@ -2313,7 +2313,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Qatar Stars League/Qatar Stars League_icon.png' alt='Qatar Stars League' width='32%' height='32%' /> Qatar Stars League
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Qatar Stars League/Qatar Stars League_icon.png' alt='Qatar Stars League' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Qatar Stars League
 
 <div align='center'>
 
@@ -2324,7 +2324,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Super Liga/Super Liga_icon.png' alt='Super Liga' width='32%' height='32%' /> Super Liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Super Liga/Super Liga_icon.png' alt='Super Liga' style='width:32%; height:32%; display:inline-block; vertical-align:middle;' /> Super Liga
 
 <div align='center'>
 
