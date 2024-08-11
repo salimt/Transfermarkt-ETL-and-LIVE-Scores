@@ -1,6 +1,6 @@
 # Live Scores - 2024-08-11
 
-[See yesterday's scores (20240810)](https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/tree/main/live_scores/live_scores_20240810.md)
+[See yesterday's scores (2024-08-10)](https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/tree/main/live_scores/live_scores_20240810.md)
 
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Championship/Championship_icon.png' alt='Championship' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Championship
 
