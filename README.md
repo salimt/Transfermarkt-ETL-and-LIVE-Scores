@@ -635,10 +635,10 @@
 | matchday 23 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/North Carolina/North Carolina_icon.png' alt='North Carolina' width='30%' height='30%' /> North Carolina | **4:1** | Switchbacks FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Switchbacks FC/Switchbacks FC_icon.png' alt='Switchbacks FC' width='25%' height='25%' /> |
 | matchday 23 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Louisville City/Louisville City_icon.png' alt='Louisville City' width='30%' height='30%' /> Louisville City | **4:3** | Sacramento FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sacramento FC/Sacramento FC_icon.png' alt='Sacramento FC' width='25%' height='25%' /> |
 | matchday 23 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/El Paso/El Paso_icon.png' alt='El Paso' width='30%' height='30%' /> El Paso | **2:1** | Miami FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Miami FC/Miami FC_icon.png' alt='Miami FC' width='25%' height='25%' /> |
-| 93' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oakland Roots/Oakland Roots_icon.png' alt='Oakland Roots' width='30%' height='30%' /> Oakland Roots | **3:1** | Loudoun United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Loudoun United/Loudoun United_icon.png' alt='Loudoun United' width='25%' height='25%' /> |
-| 94' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Monterey Bay/Monterey Bay_icon.png' alt='Monterey Bay' width='30%' height='30%' /> Monterey Bay | **1:2** | Legion FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Legion FC/Legion FC_icon.png' alt='Legion FC' width='25%' height='25%' /> |
-| 60' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Las Vegas/Las Vegas_icon.png' alt='Las Vegas' width='30%' height='30%' /> Las Vegas | **0:1** | Detroit City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Detroit City/Detroit City_icon.png' alt='Detroit City' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Phoenix Rising/Phoenix Rising_icon.png' alt='Phoenix Rising' width='30%' height='30%' /> Phoenix Rising | **0:0 HT** | TB Rowdies <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TB Rowdies/TB Rowdies_icon.png' alt='TB Rowdies' width='25%' height='25%' /> |
+| matchday 23 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oakland Roots/Oakland Roots_icon.png' alt='Oakland Roots' width='30%' height='30%' /> Oakland Roots | **3:1** | Loudoun United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Loudoun United/Loudoun United_icon.png' alt='Loudoun United' width='25%' height='25%' /> |
+| matchday 23 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Monterey Bay/Monterey Bay_icon.png' alt='Monterey Bay' width='30%' height='30%' /> Monterey Bay | **1:2** | Legion FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Legion FC/Legion FC_icon.png' alt='Legion FC' width='25%' height='25%' /> |
+| matchday 23 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Las Vegas/Las Vegas_icon.png' alt='Las Vegas' width='30%' height='30%' /> Las Vegas | **1:1** | Detroit City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Detroit City/Detroit City_icon.png' alt='Detroit City' width='25%' height='25%' /> |
+| matchday 23 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Phoenix Rising/Phoenix Rising_icon.png' alt='Phoenix Rising' width='30%' height='30%' /> Phoenix Rising | **0:0** | TB Rowdies <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TB Rowdies/TB Rowdies_icon.png' alt='TB Rowdies' width='25%' height='25%' /> |
 | matchday 23 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indy Eleven/Indy Eleven_icon.png' alt='Indy Eleven' width='30%' height='30%' /> Indy Eleven | **11:00 PM** | New Mexico Utd. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/New Mexico Utd./New Mexico Utd._icon.png' alt='New Mexico Utd.' width='25%' height='25%' /> |
 
 </div>
@@ -1405,6 +1405,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Guate Apertura/Liga Guate Apertura_icon.png' alt='Liga Guate Apertura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga Guate Apertura
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Antigua GFC/Antigua GFC_icon.png' alt='Antigua GFC' width='30%' height='30%' /> Antigua GFC | **1:0** | Guastatoya <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guastatoya/Guastatoya_icon.png' alt='Guastatoya' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Nacional Apertura/Liga Nacional Apertura_icon.png' alt='Liga Nacional Apertura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga Nacional Apertura
 
 <div align='center'>
@@ -1449,7 +1459,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD San Carlos/AD San Carlos_icon.png' alt='AD San Carlos' width='30%' height='30%' /> AD San Carlos | **5:1** | Santa Ana <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santa Ana/Santa Ana_icon.png' alt='Santa Ana' width='25%' height='25%' /> |
-| 96' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LD Alajuelense/LD Alajuelense_icon.png' alt='LD Alajuelense' width='30%' height='30%' /> LD Alajuelense | **2:1** | Pérez Zeledón <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pérez Zeledón/Pérez Zeledón_icon.png' alt='Pérez Zeledón' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LD Alajuelense/LD Alajuelense_icon.png' alt='LD Alajuelense' width='30%' height='30%' /> LD Alajuelense | **2:1** | Pérez Zeledón <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pérez Zeledón/Pérez Zeledón_icon.png' alt='Pérez Zeledón' width='25%' height='25%' /> |
 
 </div>
 
