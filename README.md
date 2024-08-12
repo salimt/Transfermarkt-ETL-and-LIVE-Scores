@@ -512,7 +512,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/O/O_zbekiston Superligasi_icon.png' alt='O'zbekiston Superligasi' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> O'zbekiston Superligasi
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/O/O_zbekiston Superligasi_icon.png' alt='Ozbekiston Superligasi' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Ozbekiston Superligasi
 
 <div align='center'>
 
@@ -550,7 +550,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Walter Ferretti/Walter Ferretti_icon.png' alt='Walter Ferretti' width='30%' height='30%' /> Walter Ferretti | **1:00 AM** | Real Estelí FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real Estelí FC/Real Estelí FC_icon.png' alt='Real Estelí FC' width='25%' height='25%' /> |
+| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Walter Ferretti/Walter Ferretti_icon.png' alt='Walter Ferretti' width='30%' height='30%' /> Walter Ferretti | **1:2** | Real Estelí FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real Estelí FC/Real Estelí FC_icon.png' alt='Real Estelí FC' width='25%' height='25%' /> |
 | matchday 2 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Managua FC/Managua FC_icon.png' alt='Managua FC' width='30%' height='30%' /> Managua FC | **4:00 AM** | CS Sébaco <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CS Sébaco/CS Sébaco_icon.png' alt='CS Sébaco' width='25%' height='25%' /> |
 
 </div>
