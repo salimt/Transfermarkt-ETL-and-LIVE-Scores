@@ -384,6 +384,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U19 DFB-Nachwuchsliga - Vorrunde Gruppe D/U19 DFB-Nachwuchsliga - Vorrunde Gruppe D_icon.png' alt='U19 DFB-Nachwuchsliga - Vorrunde Gruppe D' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> U19 DFB-Nachwuchsliga - Vorrunde Gruppe D
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FSV Frankf. U19/FSV Frankf. U19_icon.png' alt='FSV Frankf. U19' width='30%' height='30%' /> FSV Frankf. U19 | **0:3** | Frankfurt U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Frankfurt U19/Frankfurt U19_icon.png' alt='Frankfurt U19' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Landesliga Niederösterreich/1. Landesliga Niederösterreich_icon.png' alt='1. Landesliga Niederösterreich' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> 1. Landesliga Niederösterreich
 
 <div align='center'>
