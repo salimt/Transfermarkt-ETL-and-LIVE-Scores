@@ -78,6 +78,17 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SuperLiga/SuperLiga_icon.png' alt='SuperLiga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> SuperLiga
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Unirea Slobozia/Unirea Slobozia_icon.png' alt='Unirea Slobozia' width='30%' height='30%' /> Unirea Slobozia | **6:00 PM** | Petrolul <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Petrolul/Petrolul_icon.png' alt='Petrolul' width='25%' height='25%' /> |
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CS U Craiova/CS U Craiova_icon.png' alt='CS U Craiova' width='30%' height='30%' /> CS U Craiova | **9:00 PM** | FC Buzău <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Buzău/FC Buzău_icon.png' alt='FC Buzău' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Copa Libertadores/Copa Libertadores_icon.png' alt='Copa Libertadores' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Copa Libertadores
 
 <div align='center'>
@@ -167,7 +178,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Inter U20/Inter U20_icon.png' alt='Inter U20' width='30%' height='30%' /> Inter U20 | **2:30 AM** | Fluminense U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fluminense U20/Fluminense U20_icon.png' alt='Fluminense U20' width='25%' height='25%' /> |
+| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Inter U20/Inter U20_icon.png' alt='Inter U20' width='30%' height='30%' /> Inter U20 | **0:0** | Fluminense U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fluminense U20/Fluminense U20_icon.png' alt='Fluminense U20' width='25%' height='25%' /> |
 
 </div>
 
@@ -346,7 +357,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tampico Madero/Tampico Madero_icon.png' alt='Tampico Madero' width='30%' height='30%' /> Tampico Madero | **0:0 HT** | Correcaminos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Correcaminos/Correcaminos_icon.png' alt='Correcaminos' width='25%' height='25%' /> |
+| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tampico Madero/Tampico Madero_icon.png' alt='Tampico Madero' width='30%' height='30%' /> Tampico Madero | **0:0** | Correcaminos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Correcaminos/Correcaminos_icon.png' alt='Correcaminos' width='25%' height='25%' /> |
 
 </div>
 
@@ -1248,6 +1259,19 @@
 | matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Puch/FC Puch_icon.png' alt='FC Puch' width='30%' height='30%' /> FC Puch | **7:00 PM** | USK Anif <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USK Anif/USK Anif_icon.png' alt='USK Anif' width='25%' height='25%' /> |
 | matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Seekirchen/Seekirchen_icon.png' alt='Seekirchen' width='30%' height='30%' /> Seekirchen | **7:00 PM** | Siezenheim <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Siezenheim/Siezenheim_icon.png' alt='Siezenheim' width='25%' height='25%' /> |
 | matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/ASV Salzburg/ASV Salzburg_icon.png' alt='ASV Salzburg' width='30%' height='30%' /> ASV Salzburg | **7:30 PM** | Neumarkt <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Neumarkt/Neumarkt_icon.png' alt='Neumarkt' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landespokal Berlin/Landespokal Berlin_icon.png' alt='Landespokal Berlin' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Landespokal Berlin
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Staaken/SC Staaken_icon.png' alt='SC Staaken' width='30%' height='30%' /> SC Staaken | **7:00 PM** | Friedenauer TSC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Friedenauer TSC/Friedenauer TSC_icon.png' alt='Friedenauer TSC' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lichtenberg 47/Lichtenberg 47_icon.png' alt='Lichtenberg 47' width='30%' height='30%' /> Lichtenberg 47 | **7:00 PM** | H. Zehlendorf <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Zehlendorf/H. Zehlendorf_icon.png' alt='H. Zehlendorf' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/BFC Meteor/BFC Meteor_icon.png' alt='BFC Meteor' width='30%' height='30%' /> BFC Meteor | **7:15 PM** | Hilalspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hilalspor/Hilalspor_icon.png' alt='Hilalspor' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TSV Rudow 1888/TSV Rudow 1888_icon.png' alt='TSV Rudow 1888' width='30%' height='30%' /> TSV Rudow 1888 | **7:30 PM** | Al-Dersimspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Dersimspor/Al-Dersimspor_icon.png' alt='Al-Dersimspor' width='25%' height='25%' /> |
 
 </div>
 
