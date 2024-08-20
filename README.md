@@ -155,8 +155,8 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Round of 16 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ismaily/Ismaily_icon.png' alt='Ismaily' width='30%' height='30%' /> Ismaily | **5:00 PM** | Smouha <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Smouha/Smouha_icon.png' alt='Smouha' width='25%' height='25%' /> |
+| Round of 16 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/El Ahly/El Ahly_icon.png' alt='El Ahly' width='30%' height='30%' /> El Ahly | **0:2** | Pharco FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pharco FC/Pharco FC_icon.png' alt='Pharco FC' width='25%' height='25%' /> |
 | Round of 16 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Modern Sport/Modern Sport_icon.png' alt='Modern Sport' width='30%' height='30%' /> Modern Sport | **8:00 PM** | Enppi SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Enppi SC/Enppi SC_icon.png' alt='Enppi SC' width='25%' height='25%' /> |
-| Round of 16 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/El Ahly/El Ahly_icon.png' alt='El Ahly' width='30%' height='30%' /> El Ahly | **8:00 PM** | Pharco FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pharco FC/Pharco FC_icon.png' alt='Pharco FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -535,6 +535,16 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lichtenauer FV/Lichtenauer FV_icon.png' alt='Lichtenauer FV' width='30%' height='30%' /> Lichtenauer FV | **7:00 PM** | SV Steinbach <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Steinbach/SV Steinbach_icon.png' alt='SV Steinbach' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1. Landesliga Niederösterreich/1. Landesliga Niederösterreich_icon.png' alt='1. Landesliga Niederösterreich' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> 1. Landesliga Niederösterreich
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/St. Pölten Jun./St. Pölten Jun._icon.png' alt='St. Pölten Jun.' width='30%' height='30%' /> St. Pölten Jun. | **N/A** | SC Retz <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Retz/SC Retz_icon.png' alt='SC Retz' width='25%' height='25%' /> |
 
 </div>
 
