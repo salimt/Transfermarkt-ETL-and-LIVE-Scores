@@ -194,7 +194,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Third Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Kudrivka-1/FC Kudrivka-1_icon.png' alt='FC Kudrivka-1' width='30%' height='30%' /> FC Kudrivka-1 | **12:00 PM** | UCSA <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UCSA/UCSA_icon.png' alt='UCSA' width='25%' height='25%' /> |
+| Third Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Kudrivka-1/FC Kudrivka-1_icon.png' alt='FC Kudrivka-1' width='30%' height='30%' /> FC Kudrivka-1 | **0:4** | UCSA <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UCSA/UCSA_icon.png' alt='UCSA' width='25%' height='25%' /> |
 | Third Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Metalist 1925/Metalist 1925_icon.png' alt='Metalist 1925' width='30%' height='30%' /> Metalist 1925 | **4:00 PM** | Veres Rivne <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Veres Rivne/Veres Rivne_icon.png' alt='Veres Rivne' width='25%' height='25%' /> |
 
 </div>
@@ -339,8 +339,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Quarter-Finals | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SH Shenhua/SH Shenhua_icon.png' alt='SH Shenhua' width='30%' height='30%' /> SH Shenhua | **1:35 PM** | BJ Guoan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/BJ Guoan/BJ Guoan_icon.png' alt='BJ Guoan' width='25%' height='25%' /> |
-| Quarter-Finals | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SH Port/SH Port_icon.png' alt='SH Port' width='30%' height='30%' /> SH Port | **1:35 PM** | TJ Jinmen Tiger <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TJ Jinmen Tiger/TJ Jinmen Tiger_icon.png' alt='TJ Jinmen Tiger' width='25%' height='25%' /> |
+| 25' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SH Shenhua/SH Shenhua_icon.png' alt='SH Shenhua' width='30%' height='30%' /> SH Shenhua | **1:0** | BJ Guoan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/BJ Guoan/BJ Guoan_icon.png' alt='BJ Guoan' width='25%' height='25%' /> |
+| 25' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SH Port/SH Port_icon.png' alt='SH Port' width='30%' height='30%' /> SH Port | **1:0** | TJ Jinmen Tiger <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TJ Jinmen Tiger/TJ Jinmen Tiger_icon.png' alt='TJ Jinmen Tiger' width='25%' height='25%' /> |
 
 </div>
 
