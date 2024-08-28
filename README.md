@@ -40,6 +40,17 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CONCACAF Central American Cup/CONCACAF Central American Cup_icon.png' alt='CONCACAF Central American Cup' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> CONCACAF Central American Cup
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Marathón/Marathón_icon.png' alt='Marathón' width='30%' height='30%' /> Marathón | **1:0** | Alianza FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza FC/Alianza FC_icon.png' alt='Alianza FC' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LD Alajuelense/LD Alajuelense_icon.png' alt='LD Alajuelense' width='30%' height='30%' /> LD Alajuelense | **2:1** | Comunicaciones <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Comunicaciones/Comunicaciones_icon.png' alt='Comunicaciones' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CAF Confederation Cup/CAF Confederation Cup_icon.png' alt='CAF Confederation Cup' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> CAF Confederation Cup
 
 <div align='center'>
@@ -244,13 +255,23 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga 2 - Grupo campeonato/Liga 2 - Grupo campeonato_icon.png' alt='Liga 2 - Grupo campeonato' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga 2 - Grupo campeonato
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC San Marcos/FC San Marcos_icon.png' alt='FC San Marcos' width='30%' height='30%' /> FC San Marcos | **1:0** | Juan Pablo II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Juan Pablo II/Juan Pablo II_icon.png' alt='Juan Pablo II' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/US Open Cup/US Open Cup_icon.png' alt='US Open Cup' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> US Open Cup
 
 <div align='center'>
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 54' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kansas City/Kansas City_icon.png' alt='Kansas City' width='30%' height='30%' /> Kansas City | **2:0** | Indy Eleven <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indy Eleven/Indy Eleven_icon.png' alt='Indy Eleven' width='25%' height='25%' /> |
+| Semi-Finals | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kansas City/Kansas City_icon.png' alt='Kansas City' width='30%' height='30%' /> Kansas City | **2:0** | Indy Eleven <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indy Eleven/Indy Eleven_icon.png' alt='Indy Eleven' width='25%' height='25%' /> |
 
 </div>
 
@@ -345,6 +366,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
+| Semi-Finals | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cape Town City/Cape Town City_icon.png' alt='Cape Town City' width='30%' height='30%' /> Cape Town City | **6:00 PM** | Orlando Pirates <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Orlando Pirates/Orlando Pirates_icon.png' alt='Orlando Pirates' width='25%' height='25%' /> |
 | Semi-Finals | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sundowns/Sundowns_icon.png' alt='Sundowns' width='30%' height='30%' /> Sundowns | **7:00 PM** | Stellenbosch FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Stellenbosch FC/Stellenbosch FC_icon.png' alt='Stellenbosch FC' width='25%' height='25%' /> |
 
 </div>
@@ -620,7 +642,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Semi-Finals | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Toronto/Toronto_icon.png' alt='Toronto' width='30%' height='30%' /> Toronto | **1:0** | Forge FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Forge FC/Forge FC_icon.png' alt='Forge FC' width='25%' height='25%' /> |
-| 64' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vancouver/Vancouver_icon.png' alt='Vancouver' width='30%' height='30%' /> Vancouver | **1:0** | Pacific FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pacific FC/Pacific FC_icon.png' alt='Pacific FC' width='25%' height='25%' /> |
+| Semi-Finals | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vancouver/Vancouver_icon.png' alt='Vancouver' width='30%' height='30%' /> Vancouver | **1:0** | Pacific FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pacific FC/Pacific FC_icon.png' alt='Pacific FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -683,6 +705,16 @@
 |:------|:----------|:-----:|:----------|
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Offenburger FV/Offenburger FV_icon.png' alt='Offenburger FV' width='30%' height='30%' /> Offenburger FV | **5:45 PM** | N’schopfheim <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/N/N_schopfheim_icon.png' alt='N’schopfheim' width='25%' height='25%' /> |
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Haslach/SV Haslach_icon.png' alt='SV Haslach' width='30%' height='30%' /> SV Haslach | **7:00 PM** | VfR Elgersweier <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/VfR Elgersweier/VfR Elgersweier_icon.png' alt='VfR Elgersweier' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landespokal Südwest/Landespokal Südwest_icon.png' alt='Landespokal Südwest' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Landespokal Südwest
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| Fourth Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gau-Odernheim/Gau-Odernheim_icon.png' alt='Gau-Odernheim' width='30%' height='30%' /> Gau-Odernheim | **7:30 PM** | Wormatia Worms <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Wormatia Worms/Wormatia Worms_icon.png' alt='Wormatia Worms' width='25%' height='25%' /> |
 
 </div>
 
