@@ -152,6 +152,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. Division B/2. Division B_icon.png' alt='2. Division B' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> 2. Division B
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 21 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Enisey 2/Enisey 2_icon.png' alt='Enisey 2' width='30%' height='30%' /> Enisey 2 | **9:00 AM** | Zenit 2 S-Pb <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zenit 2 S-Pb/Zenit 2 S-Pb_icon.png' alt='Zenit 2 S-Pb' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Premier Liga/Premier Liga_icon.png' alt='Premier Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Premier Liga
 
 <div align='center'>
@@ -581,7 +591,7 @@
 |:------|:----------|:-----:|:----------|
 | matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UNAM Pumas/UNAM Pumas_icon.png' alt='UNAM Pumas' width='30%' height='30%' /> UNAM Pumas | **1:00 AM** | Tigres UANL <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tigres UANL/Tigres UANL_icon.png' alt='Tigres UANL' width='25%' height='25%' /> |
 | matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Monterrey/Monterrey_icon.png' alt='Monterrey' width='30%' height='30%' /> Monterrey | **1:2** | Toluca <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Toluca/Toluca_icon.png' alt='Toluca' width='25%' height='25%' /> |
-| 46' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Cruz Azul/CD Cruz Azul_icon.png' alt='CD Cruz Azul' width='30%' height='30%' /> CD Cruz Azul | **1:1** | América <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/América/América_icon.png' alt='América' width='25%' height='25%' /> |
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Cruz Azul/CD Cruz Azul_icon.png' alt='CD Cruz Azul' width='30%' height='30%' /> CD Cruz Azul | **4:1** | América <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/América/América_icon.png' alt='América' width='25%' height='25%' /> |
 
 </div>
 
@@ -601,9 +611,9 @@
 | matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chicago/Chicago_icon.png' alt='Chicago' width='30%' height='30%' /> Chicago | **1:4** | Miami <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Miami/Miami_icon.png' alt='Miami' width='25%' height='25%' /> |
 | matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dallas/Dallas_icon.png' alt='Dallas' width='30%' height='30%' /> Dallas | **2:3** | Colorado <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colorado/Colorado_icon.png' alt='Colorado' width='25%' height='25%' /> |
 | matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Salt Lake/Salt Lake_icon.png' alt='Salt Lake' width='30%' height='30%' /> Salt Lake | **2:0** | New England <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/New England/New England_icon.png' alt='New England' width='25%' height='25%' /> |
-| 60' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LAFC/LAFC_icon.png' alt='LAFC' width='30%' height='30%' /> LAFC | **0:1** | Houston <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Houston/Houston_icon.png' alt='Houston' width='25%' height='25%' /> |
-| 60' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Portland/Portland_icon.png' alt='Portland' width='30%' height='30%' /> Portland | **1:0** | Seattle <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Seattle/Seattle_icon.png' alt='Seattle' width='25%' height='25%' /> |
-| 60' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Jose/San Jose_icon.png' alt='San Jose' width='30%' height='30%' /> San Jose | **1:1** | Minnesota <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Minnesota/Minnesota_icon.png' alt='Minnesota' width='25%' height='25%' /> |
+| matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LAFC/LAFC_icon.png' alt='LAFC' width='30%' height='30%' /> LAFC | **0:2** | Houston <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Houston/Houston_icon.png' alt='Houston' width='25%' height='25%' /> |
+| matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Portland/Portland_icon.png' alt='Portland' width='30%' height='30%' /> Portland | **1:0** | Seattle <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Seattle/Seattle_icon.png' alt='Seattle' width='25%' height='25%' /> |
+| matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Jose/San Jose_icon.png' alt='San Jose' width='30%' height='30%' /> San Jose | **1:2** | Minnesota <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Minnesota/Minnesota_icon.png' alt='Minnesota' width='25%' height='25%' /> |
 | matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/St. Louis CITY/St. Louis CITY_icon.png' alt='St. Louis CITY' width='30%' height='30%' /> St. Louis CITY | **8:30 PM** | LA Galaxy <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LA Galaxy/LA Galaxy_icon.png' alt='LA Galaxy' width='25%' height='25%' /> |
 
 </div>
@@ -663,7 +673,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. C. Sapporo/H. C. Sapporo_icon.png' alt='H. C. Sapporo' width='30%' height='30%' /> H. C. Sapporo | **7:00 AM** | Kawasaki Front. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kawasaki Front./Kawasaki Front._icon.png' alt='Kawasaki Front.' width='25%' height='25%' /> |
+| matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. C. Sapporo/H. C. Sapporo_icon.png' alt='H. C. Sapporo' width='30%' height='30%' /> H. C. Sapporo | **2:0** | Kawasaki Front. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kawasaki Front./Kawasaki Front._icon.png' alt='Kawasaki Front.' width='25%' height='25%' /> |
 | matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Avispa Fukuoka/Avispa Fukuoka_icon.png' alt='Avispa Fukuoka' width='30%' height='30%' /> Avispa Fukuoka | **12:00 PM** | Vissel Kobe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vissel Kobe/Vissel Kobe_icon.png' alt='Vissel Kobe' width='25%' height='25%' /> |
 
 </div>
@@ -686,7 +696,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 26 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Iwate Grulla M./Iwate Grulla M._icon.png' alt='Iwate Grulla M.' width='30%' height='30%' /> Iwate Grulla M. | **11:00 AM** | Kamatam. Sanuki <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kamatam. Sanuki/Kamatam. Sanuki_icon.png' alt='Kamatam. Sanuki' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Iwate Grulla M./Iwate Grulla M._icon.png' alt='Iwate Grulla M.' width='30%' height='30%' /> Iwate Grulla M. | **11:00 AM** | Kamatam. Sanuki <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kamatam. Sanuki/Kamatam. Sanuki_icon.png' alt='Kamatam. Sanuki' width='25%' height='25%' /> |
 
 </div>
 
@@ -843,16 +853,6 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USL Cup/USL Cup_icon.png' alt='USL Cup' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> USL Cup
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| 75' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lexington SC/Lexington SC_icon.png' alt='Lexington SC' width='30%' height='30%' /> Lexington SC | **2:1** | Red Wolves <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Red Wolves/Red Wolves_icon.png' alt='Red Wolves' width='25%' height='25%' /> |
-
-</div>
-
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USL Championship/USL Championship_icon.png' alt='USL Championship' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> USL Championship
 
 <div align='center'>
@@ -860,7 +860,17 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 26 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Antonio FC/San Antonio FC_icon.png' alt='San Antonio FC' width='30%' height='30%' /> San Antonio FC | **1:1** | Charleston <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Charleston/Charleston_icon.png' alt='Charleston' width='25%' height='25%' /> |
-| 94' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Orange County/Orange County_icon.png' alt='Orange County' width='30%' height='30%' /> Orange County | **2:3** | Las Vegas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Las Vegas/Las Vegas_icon.png' alt='Las Vegas' width='25%' height='25%' /> |
+| matchday 26 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Orange County/Orange County_icon.png' alt='Orange County' width='30%' height='30%' /> Orange County | **2:3** | Las Vegas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Las Vegas/Las Vegas_icon.png' alt='Las Vegas' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USL Cup/USL Cup_icon.png' alt='USL Cup' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> USL Cup
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lexington SC/Lexington SC_icon.png' alt='Lexington SC' width='30%' height='30%' /> Lexington SC | **11:12 on pens** | Red Wolves <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Red Wolves/Red Wolves_icon.png' alt='Red Wolves' width='25%' height='25%' /> |
 
 </div>
 
@@ -1011,11 +1021,11 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Uni Canterbury/Uni Canterbury_icon.png' alt='Uni Canterbury' width='30%' height='30%' /> Uni Canterbury | **3:15 AM** | Coastal Spirit <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Coastal Spirit/Coastal Spirit_icon.png' alt='Coastal Spirit' width='25%' height='25%' /> |
-| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Twenty 11/FC Twenty 11_icon.png' alt='FC Twenty 11' width='30%' height='30%' /> FC Twenty 11 | **3:15 AM** | Selwyn <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Selwyn/Selwyn_icon.png' alt='Selwyn' width='25%' height='25%' /> |
+| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Uni Canterbury/Uni Canterbury_icon.png' alt='Uni Canterbury' width='30%' height='30%' /> Uni Canterbury | **1:2** | Coastal Spirit <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Coastal Spirit/Coastal Spirit_icon.png' alt='Coastal Spirit' width='25%' height='25%' /> |
+| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Twenty 11/FC Twenty 11_icon.png' alt='FC Twenty 11' width='30%' height='30%' /> FC Twenty 11 | **2:5** | Selwyn <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Selwyn/Selwyn_icon.png' alt='Selwyn' width='25%' height='25%' /> |
+| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Christchurch/Christchurch_icon.png' alt='Christchurch' width='30%' height='30%' /> Christchurch | **1:1** | Cashmere Tech <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cashmere Tech/Cashmere Tech_icon.png' alt='Cashmere Tech' width='25%' height='25%' /> |
+| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ferrymead Bays/Ferrymead Bays_icon.png' alt='Ferrymead Bays' width='30%' height='30%' /> Ferrymead Bays | **1:3** | Nomads <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nomads/Nomads_icon.png' alt='Nomads' width='25%' height='25%' /> |
 | matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dunedin C.R./Dunedin C.R._icon.png' alt='Dunedin C.R.' width='30%' height='30%' /> Dunedin C.R. | **3:15 AM** | Nelson Suburbs <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nelson Suburbs/Nelson Suburbs_icon.png' alt='Nelson Suburbs' width='25%' height='25%' /> |
-| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Christchurch/Christchurch_icon.png' alt='Christchurch' width='30%' height='30%' /> Christchurch | **3:15 AM** | Cashmere Tech <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cashmere Tech/Cashmere Tech_icon.png' alt='Cashmere Tech' width='25%' height='25%' /> |
-| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ferrymead Bays/Ferrymead Bays_icon.png' alt='Ferrymead Bays' width='30%' height='30%' /> Ferrymead Bays | **3:15 AM** | Nomads <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nomads/Nomads_icon.png' alt='Nomads' width='25%' height='25%' /> |
 
 </div>
 
@@ -1760,6 +1770,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Guate Apertura/Liga Guate Apertura_icon.png' alt='Liga Guate Apertura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga Guate Apertura
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Marquense/CD Marquense_icon.png' alt='CD Marquense' width='30%' height='30%' /> CD Marquense | **2:2** | Malacateco <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malacateco/Malacateco_icon.png' alt='Malacateco' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera División Apertura/Primera División Apertura_icon.png' alt='Primera División Apertura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Primera División Apertura
 
 <div align='center'>
@@ -1778,7 +1798,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Ocotal/CD Ocotal_icon.png' alt='CD Ocotal' width='30%' height='30%' /> CD Ocotal | **3:00 AM** | Walter Ferretti <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Walter Ferretti/Walter Ferretti_icon.png' alt='Walter Ferretti' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Ocotal/CD Ocotal_icon.png' alt='CD Ocotal' width='30%' height='30%' /> CD Ocotal | **1:3** | Walter Ferretti <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Walter Ferretti/Walter Ferretti_icon.png' alt='Walter Ferretti' width='25%' height='25%' /> |
 | matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mun. Jalapa/Mun. Jalapa_icon.png' alt='Mun. Jalapa' width='30%' height='30%' /> Mun. Jalapa | **N/A** | Real Estelí FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real Estelí FC/Real Estelí FC_icon.png' alt='Real Estelí FC' width='25%' height='25%' /> |
 
 </div>
@@ -2297,8 +2317,8 @@
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fanfulla/Fanfulla_icon.png' alt='Fanfulla' width='30%' height='30%' /> Fanfulla | **5:00 PM** | Piacenza <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Piacenza/Piacenza_icon.png' alt='Piacenza' width='25%' height='25%' /> |
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Scafatese/Scafatese_icon.png' alt='Scafatese' width='30%' height='30%' /> Scafatese | **5:00 PM** | Puteolana <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Puteolana/Puteolana_icon.png' alt='Puteolana' width='25%' height='25%' /> |
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Reggina/Reggina_icon.png' alt='Reggina' width='30%' height='30%' /> Reggina | **5:00 PM** | Vibonese <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vibonese/Vibonese_icon.png' alt='Vibonese' width='25%' height='25%' /> |
-| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Flaminia/Flaminia_icon.png' alt='Flaminia' width='30%' height='30%' /> Flaminia | **5:00 PM** | Guidonia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guidonia/Guidonia_icon.png' alt='Guidonia' width='25%' height='25%' /> |
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Portogruaro/Portogruaro_icon.png' alt='Portogruaro' width='30%' height='30%' /> Portogruaro | **5:00 PM** | Cjarlins Muzane <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cjarlins Muzane/Cjarlins Muzane_icon.png' alt='Cjarlins Muzane' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Flaminia/Flaminia_icon.png' alt='Flaminia' width='30%' height='30%' /> Flaminia | **5:00 PM** | Guidonia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guidonia/Guidonia_icon.png' alt='Guidonia' width='25%' height='25%' /> |
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Siracusa/Siracusa_icon.png' alt='Siracusa' width='30%' height='30%' /> Siracusa | **5:00 PM** | Ragusa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ragusa/Ragusa_icon.png' alt='Ragusa' width='25%' height='25%' /> |
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fasano/Fasano_icon.png' alt='Fasano' width='30%' height='30%' /> Fasano | **5:30 PM** | Matera <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Matera/Matera_icon.png' alt='Matera' width='25%' height='25%' /> |
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Desenzano/Desenzano_icon.png' alt='Desenzano' width='30%' height='30%' /> Desenzano | **5:30 PM** | Vigasio <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vigasio/Vigasio_icon.png' alt='Vigasio' width='25%' height='25%' /> |
