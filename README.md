@@ -131,7 +131,6 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 2. Vorrunde | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tormenta FC/Tormenta FC_icon.png' alt='Tormenta FC' width='30%' height='30%' /> Tormenta FC | **0:1** | Knoxville <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Knoxville/Knoxville_icon.png' alt='Knoxville' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tormenta FC/Tormenta FC_icon.png' alt='Tormenta FC' width='30%' height='30%' /> Tormenta FC | **0:1** | Knoxville <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Knoxville/Knoxville_icon.png' alt='Knoxville' width='25%' height='25%' /> |
 
 </div>
@@ -396,7 +395,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Antigua GFC/Antigua GFC_icon.png' alt='Antigua GFC' width='30%' height='30%' /> Antigua GFC | **1:00 AM** | Zacapa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zacapa/Zacapa_icon.png' alt='Zacapa' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Antigua GFC/Antigua GFC_icon.png' alt='Antigua GFC' width='30%' height='30%' /> Antigua GFC | **3:0** | Zacapa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zacapa/Zacapa_icon.png' alt='Zacapa' width='25%' height='25%' /> |
 
 </div>
 
