@@ -13,6 +13,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2. Division B/2. Division B_icon.png' alt='2. Division B' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> 2. Division B
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 21 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SKA Khabarovsk2/SKA Khabarovsk2_icon.png' alt='SKA Khabarovsk2' width='30%' height='30%' /> SKA Khabarovsk2 | **2:1** | Arsenal-2 Tula <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Arsenal-2 Tula/Arsenal-2 Tula_icon.png' alt='Arsenal-2 Tula' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SuperLiga/SuperLiga_icon.png' alt='SuperLiga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> SuperLiga
 
 <div align='center'>
@@ -111,7 +121,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Estudiantes/Estudiantes_icon.png' alt='Estudiantes' width='30%' height='30%' /> Estudiantes | **11:00 PM** | Metropolitanos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Metropolitanos/Metropolitanos_icon.png' alt='Metropolitanos' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Estudiantes/Estudiantes_icon.png' alt='Estudiantes' width='30%' height='30%' /> Estudiantes | **11:45 PM** | Metropolitanos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Metropolitanos/Metropolitanos_icon.png' alt='Metropolitanos' width='25%' height='25%' /> |
 
 </div>
 
