@@ -434,3 +434,15 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/I-League 3/I-League 3_icon.png' alt='I-League 3' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> I-League 3
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SESA Academy/SESA Academy_icon.png' alt='SESA Academy' width='30%' height='30%' /> SESA Academy | **2:2** | Oranje FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oranje FC/Oranje FC_icon.png' alt='Oranje FC' width='25%' height='25%' /> |
+| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Downtown Heroes/Downtown Heroes_icon.png' alt='Downtown Heroes' width='30%' height='30%' /> Downtown Heroes | **2:0** | Abbas Union FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Abbas Union FC/Abbas Union FC_icon.png' alt='Abbas Union FC' width='25%' height='25%' /> |
+| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Diamond Harbour/Diamond Harbour_icon.png' alt='Diamond Harbour' width='30%' height='30%' /> Diamond Harbour | **3:0** | Ghaziabad City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ghaziabad City/Ghaziabad City_icon.png' alt='Ghaziabad City' width='25%' height='25%' /> |
+
+</div>
+
