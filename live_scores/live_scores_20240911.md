@@ -9,7 +9,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Venezuela/Venezuela_icon.png' alt='Venezuela' width='30%' height='30%' /> Venezuela | **0:0** | Uruguay <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Uruguay/Uruguay_icon.png' alt='Uruguay' width='25%' height='25%' /> |
-| 30' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paraguay/Paraguay_icon.png' alt='Paraguay' width='30%' height='30%' /> Paraguay | **1:0** | Brazil <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Brazil/Brazil_icon.png' alt='Brazil' width='25%' height='25%' /> |
+| 68' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paraguay/Paraguay_icon.png' alt='Paraguay' width='30%' height='30%' /> Paraguay | **1:0** | Brazil <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Brazil/Brazil_icon.png' alt='Brazil' width='25%' height='25%' /> |
 
 </div>
 
@@ -19,7 +19,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 92' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USA/USA_icon.png' alt='USA' width='30%' height='30%' /> USA | **1:1** | New Zealand <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/New Zealand/New Zealand_icon.png' alt='New Zealand' width='25%' height='25%' /> |
+|  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USA/USA_icon.png' alt='USA' width='30%' height='30%' /> USA | **1:1** | New Zealand <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/New Zealand/New Zealand_icon.png' alt='New Zealand' width='25%' height='25%' /> |
 
 </div>
 
