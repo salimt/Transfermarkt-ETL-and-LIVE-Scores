@@ -485,9 +485,9 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bali United/Bali United_icon.png' alt='Bali United' width='30%' height='30%' /> Bali United | **10:30 AM** | Arema FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Arema FC/Arema FC_icon.png' alt='Arema FC' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bali United/Bali United_icon.png' alt='Bali United' width='30%' height='30%' /> Bali United | **10:30 AM** | Arema FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Arema FC/Arema FC_icon.png' alt='Arema FC' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSM Makassar/PSM Makassar_icon.png' alt='PSM Makassar' width='30%' height='30%' /> PSM Makassar | **10:30 AM** | PERSIB <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIB/PERSIB_icon.png' alt='PERSIB' width='25%' height='25%' /> |
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dewa United/Dewa United_icon.png' alt='Dewa United' width='30%' height='30%' /> Dewa United | **10:30 AM** | PSIS <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSIS/PSIS_icon.png' alt='PSIS' width='25%' height='25%' /> |
-| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSM Makassar/PSM Makassar_icon.png' alt='PSM Makassar' width='30%' height='30%' /> PSM Makassar | **10:30 AM** | PERSIB <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIB/PERSIB_icon.png' alt='PERSIB' width='25%' height='25%' /> |
 
 </div>
 
