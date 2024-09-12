@@ -29,7 +29,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/23 Elazig FK/23 Elazig FK_icon.png' alt='23 Elazig FK' width='30%' height='30%' /> 23 Elazig FK | **2:0** | 12 Bingöl Spor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/12 Bingöl Spor/12 Bingöl Spor_icon.png' alt='12 Bingöl Spor' width='25%' height='25%' /> |
-| 14' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bozüyük Vitra/Bozüyük Vitra_icon.png' alt='Bozüyük Vitra' width='30%' height='30%' /> Bozüyük Vitra | **0:0** | Bursaspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bursaspor/Bursaspor_icon.png' alt='Bursaspor' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bozüyük Vitra/Bozüyük Vitra_icon.png' alt='Bozüyük Vitra' width='30%' height='30%' /> Bozüyük Vitra | **0:1 HT** | Bursaspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bursaspor/Bursaspor_icon.png' alt='Bursaspor' width='25%' height='25%' /> |
 
 </div>
 
@@ -206,7 +206,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 83' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Port FC/Port FC_icon.png' alt='Port FC' width='30%' height='30%' /> Port FC | **0:0** | Buriram Utd. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Buriram Utd./Buriram Utd._icon.png' alt='Buriram Utd.' width='25%' height='25%' /> |
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Port FC/Port FC_icon.png' alt='Port FC' width='30%' height='30%' /> Port FC | **0:0** | Buriram Utd. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Buriram Utd./Buriram Utd._icon.png' alt='Buriram Utd.' width='25%' height='25%' /> |
 
 </div>
 
@@ -216,7 +216,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Johor DT/Johor DT_icon.png' alt='Johor DT' width='30%' height='30%' /> Johor DT | **2:0 HT** | Penang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Penang/Penang_icon.png' alt='Penang' width='25%' height='25%' /> |
+| 90' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Johor DT/Johor DT_icon.png' alt='Johor DT' width='30%' height='30%' /> Johor DT | **4:0** | Penang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Penang/Penang_icon.png' alt='Penang' width='25%' height='25%' /> |
 
 </div>
 
@@ -325,7 +325,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 55' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eastern/Eastern_icon.png' alt='Eastern' width='30%' height='30%' /> Eastern | **5:0** | North District <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/North District/North District_icon.png' alt='North District' width='25%' height='25%' /> |
+| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eastern/Eastern_icon.png' alt='Eastern' width='30%' height='30%' /> Eastern | **5:1** | North District <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/North District/North District_icon.png' alt='North District' width='25%' height='25%' /> |
 
 </div>
 
@@ -336,7 +336,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSS Sleman/PSS Sleman_icon.png' alt='PSS Sleman' width='30%' height='30%' /> PSS Sleman | **1:1** | Borneo FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Borneo FC/Borneo FC_icon.png' alt='Borneo FC' width='25%' height='25%' /> |
-| 55' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSBS Biak/PSBS Biak_icon.png' alt='PSBS Biak' width='30%' height='30%' /> PSBS Biak | **1:1** | Persija <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persija/Persija_icon.png' alt='Persija' width='25%' height='25%' /> |
+| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSBS Biak/PSBS Biak_icon.png' alt='PSBS Biak' width='30%' height='30%' /> PSBS Biak | **3:1** | Persija <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persija/Persija_icon.png' alt='Persija' width='25%' height='25%' /> |
 
 </div>
 
