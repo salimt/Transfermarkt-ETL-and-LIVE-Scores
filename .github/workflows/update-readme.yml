@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # Use the default GitHub token
 
     - name: Set up Python
       uses: actions/setup-python@v3
@@ -30,8 +32,8 @@ jobs:
 
     - name: Force pull latest changes
       run: |
-        git fetch https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores.git
-        git reset --hard FETCH_HEAD
+        git fetch origin
+        git reset --hard origin/main  # Adjust if your default branch is different
         git clean -fd
 
     - name: List directory contents
@@ -47,4 +49,4 @@ jobs:
       run: |
         git add .
         git commit -m "Update live scores for $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-        git push https://x-access-token:${{ secrets.TOKEN }}@github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores.git || echo "Failed to push changes"
+        git push origin main || echo "Failed to push changes"  # Adjust if your default branch is different
