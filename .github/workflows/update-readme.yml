@@ -47,4 +47,4 @@ jobs:
       run: |
         git add .
         git commit -m "Update live scores for $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-        git push https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores.git || echo "Failed to push changes"
+        git push https://x-access-token:${{ secrets.TOKEN }}@github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores.git || echo "Failed to push changes"
