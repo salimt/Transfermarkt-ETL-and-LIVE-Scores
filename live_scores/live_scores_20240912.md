@@ -340,6 +340,17 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gozo Football League First Division/Gozo Football League First Division_icon.png' alt='Gozo Football League First Division' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Gozo Football League First Division
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Xaghra United/Xaghra United_icon.png' alt='Xaghra United' width='30%' height='30%' /> Xaghra United | **6:00 PM** | Ghajnsielem <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ghajnsielem/Ghajnsielem_icon.png' alt='Ghajnsielem' width='25%' height='25%' /> |
+| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oratory Youths/Oratory Youths_icon.png' alt='Oratory Youths' width='30%' height='30%' /> Oratory Youths | **8:00 PM** | Qala Saints FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Qala Saints FC/Qala Saints FC_icon.png' alt='Qala Saints FC' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fiji Premier League/Fiji Premier League_icon.png' alt='Fiji Premier League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Fiji Premier League
 
 <div align='center'>
