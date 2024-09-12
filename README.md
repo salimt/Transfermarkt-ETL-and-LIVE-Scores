@@ -29,7 +29,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/23 Elazig FK/23 Elazig FK_icon.png' alt='23 Elazig FK' width='30%' height='30%' /> 23 Elazig FK | **2:0** | 12 Bingöl Spor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/12 Bingöl Spor/12 Bingöl Spor_icon.png' alt='12 Bingöl Spor' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bozüyük Vitra/Bozüyük Vitra_icon.png' alt='Bozüyük Vitra' width='30%' height='30%' /> Bozüyük Vitra | **0:1 HT** | Bursaspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bursaspor/Bursaspor_icon.png' alt='Bursaspor' width='25%' height='25%' /> |
+| 46' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bozüyük Vitra/Bozüyük Vitra_icon.png' alt='Bozüyük Vitra' width='30%' height='30%' /> Bozüyük Vitra | **0:1** | Bursaspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bursaspor/Bursaspor_icon.png' alt='Bursaspor' width='25%' height='25%' /> |
 
 </div>
 
@@ -216,7 +216,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 90' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Johor DT/Johor DT_icon.png' alt='Johor DT' width='30%' height='30%' /> Johor DT | **4:0** | Penang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Penang/Penang_icon.png' alt='Penang' width='25%' height='25%' /> |
+| 91' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Johor DT/Johor DT_icon.png' alt='Johor DT' width='30%' height='30%' /> Johor DT | **4:0** | Penang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Penang/Penang_icon.png' alt='Penang' width='25%' height='25%' /> |
 
 </div>
 
