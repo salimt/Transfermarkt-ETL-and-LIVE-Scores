@@ -48,7 +48,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Enugu Rangers/Enugu Rangers_icon.png' alt='Enugu Rangers' width='30%' height='30%' /> Enugu Rangers | **-** | Sagrada <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sagrada/Sagrada_icon.png' alt='Sagrada' width='25%' height='25%' /> |
+| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Enugu Rangers/Enugu Rangers_icon.png' alt='Enugu Rangers' width='30%' height='30%' /> Enugu Rangers | **4:00 PM** | Sagrada <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sagrada/Sagrada_icon.png' alt='Sagrada' width='25%' height='25%' /> |
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/US Monastir/US Monastir_icon.png' alt='US Monastir' width='30%' height='30%' /> US Monastir | **7:00 PM** | MC Algiers <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/MC Algiers/MC Algiers_icon.png' alt='MC Algiers' width='25%' height='25%' /> |
 
 </div>
@@ -1342,7 +1342,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malut United/Malut United_icon.png' alt='Malut United' width='30%' height='30%' /> Malut United | **10:30 AM** | Semen Padang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malut United/Malut United_icon.png' alt='Malut United' width='30%' height='30%' /> Malut United | **10:30 AM** | Semen Padang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='25%' height='25%' /> |
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIS/PERSIS_icon.png' alt='PERSIS' width='30%' height='30%' /> PERSIS | **2:00 PM** | Madura United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Madura United/Madura United_icon.png' alt='Madura United' width='25%' height='25%' /> |
 
 </div>
