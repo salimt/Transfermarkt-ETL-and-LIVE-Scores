@@ -308,9 +308,9 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 30 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kawasaki Front./Kawasaki Front._icon.png' alt='Kawasaki Front.' width='30%' height='30%' /> Kawasaki Front. | **12:00 PM** | Sagan Tosu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sagan Tosu/Sagan Tosu_icon.png' alt='Sagan Tosu' width='25%' height='25%' /> |
-| matchday 30 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Yokohama F. M./Yokohama F. M._icon.png' alt='Yokohama F. M.' width='30%' height='30%' /> Yokohama F. M. | **12:00 PM** | Kyoto Sanga <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kyoto Sanga/Kyoto Sanga_icon.png' alt='Kyoto Sanga' width='25%' height='25%' /> |
-| matchday 30 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vissel Kobe/Vissel Kobe_icon.png' alt='Vissel Kobe' width='30%' height='30%' /> Vissel Kobe | **12:00 PM** | Cerezo Osaka <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cerezo Osaka/Cerezo Osaka_icon.png' alt='Cerezo Osaka' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kawasaki Front./Kawasaki Front._icon.png' alt='Kawasaki Front.' width='30%' height='30%' /> Kawasaki Front. | **12:00 PM** | Sagan Tosu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sagan Tosu/Sagan Tosu_icon.png' alt='Sagan Tosu' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Yokohama F. M./Yokohama F. M._icon.png' alt='Yokohama F. M.' width='30%' height='30%' /> Yokohama F. M. | **12:00 PM** | Kyoto Sanga <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kyoto Sanga/Kyoto Sanga_icon.png' alt='Kyoto Sanga' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vissel Kobe/Vissel Kobe_icon.png' alt='Vissel Kobe' width='30%' height='30%' /> Vissel Kobe | **12:00 PM** | Cerezo Osaka <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cerezo Osaka/Cerezo Osaka_icon.png' alt='Cerezo Osaka' width='25%' height='25%' /> |
 
 </div>
 
@@ -804,8 +804,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zlin/Zlin_icon.png' alt='Zlin' width='30%' height='30%' /> Zlin | **6:00 PM** | Jihlava <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jihlava/Jihlava_icon.png' alt='Jihlava' width='25%' height='25%' /> |
-| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vlasim/Vlasim_icon.png' alt='Vlasim' width='30%' height='30%' /> Vlasim | **6:00 PM** | Slavia Prague B <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Slavia Prague B/Slavia Prague B_icon.png' alt='Slavia Prague B' width='25%' height='25%' /> |
+| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zlin/Zlin_icon.png' alt='Zlin' width='30%' height='30%' /> Zlin | **N/A** | Jihlava <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jihlava/Jihlava_icon.png' alt='Jihlava' width='25%' height='25%' /> |
+| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vlasim/Vlasim_icon.png' alt='Vlasim' width='30%' height='30%' /> Vlasim | **N/A** | Slavia Prague B <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Slavia Prague B/Slavia Prague B_icon.png' alt='Slavia Prague B' width='25%' height='25%' /> |
 
 </div>
 
@@ -1342,7 +1342,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malut United/Malut United_icon.png' alt='Malut United' width='30%' height='30%' /> Malut United | **10:30 AM** | Semen Padang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='25%' height='25%' /> |
+| 37' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malut United/Malut United_icon.png' alt='Malut United' width='30%' height='30%' /> Malut United | **0:0** | Semen Padang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='25%' height='25%' /> |
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIS/PERSIS_icon.png' alt='PERSIS' width='30%' height='30%' /> PERSIS | **2:00 PM** | Madura United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Madura United/Madura United_icon.png' alt='Madura United' width='25%' height='25%' /> |
 
 </div>
