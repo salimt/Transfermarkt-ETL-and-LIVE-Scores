@@ -8,7 +8,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bor. Dortmund/Bor. Dortmund_icon.png' alt='Bor. Dortmund' width='30%' height='30%' /> Bor. Dortmund | **8:30 PM** | Heidenheim <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Heidenheim/Heidenheim_icon.png' alt='Heidenheim' width='25%' height='25%' /> |
+| 30' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bor. Dortmund/Bor. Dortmund_icon.png' alt='Bor. Dortmund' width='30%' height='30%' /> Bor. Dortmund | **2:0** | Heidenheim <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Heidenheim/Heidenheim_icon.png' alt='Heidenheim' width='25%' height='25%' /> |
 
 </div>
 
@@ -18,7 +18,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Saint-Étienne/Saint-Étienne_icon.png' alt='Saint-Étienne' width='30%' height='30%' /> Saint-Étienne | **8:45 PM** | LOSC Lille <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LOSC Lille/LOSC Lille_icon.png' alt='LOSC Lille' width='25%' height='25%' /> |
+| 15' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Saint-Étienne/Saint-Étienne_icon.png' alt='Saint-Étienne' width='30%' height='30%' /> Saint-Étienne | **1:0** | LOSC Lille <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LOSC Lille/LOSC Lille_icon.png' alt='LOSC Lille' width='25%' height='25%' /> |
 
 </div>
 
@@ -38,7 +38,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hull City/Hull City_icon.png' alt='Hull City' width='30%' height='30%' /> Hull City | **9:00 PM** | Sheff Utd <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sheff Utd/Sheff Utd_icon.png' alt='Sheff Utd' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hull City/Hull City_icon.png' alt='Hull City' width='30%' height='30%' /> Hull City | **9:00 PM** | Sheff Utd <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sheff Utd/Sheff Utd_icon.png' alt='Sheff Utd' width='25%' height='25%' /> |
 
 </div>
 
@@ -84,8 +84,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 78' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Karlsruher SC/Karlsruher SC_icon.png' alt='Karlsruher SC' width='30%' height='30%' /> Karlsruher SC | **2:0** | FC Schalke 04 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Schalke 04/FC Schalke 04_icon.png' alt='FC Schalke 04' width='25%' height='25%' /> |
-| 78' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pr. Münster/Pr. Münster_icon.png' alt='Pr. Münster' width='30%' height='30%' /> Pr. Münster | **2:2** | SC Paderborn <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Paderborn/SC Paderborn_icon.png' alt='SC Paderborn' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Karlsruher SC/Karlsruher SC_icon.png' alt='Karlsruher SC' width='30%' height='30%' /> Karlsruher SC | **2:0** | FC Schalke 04 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Schalke 04/FC Schalke 04_icon.png' alt='FC Schalke 04' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pr. Münster/Pr. Münster_icon.png' alt='Pr. Münster' width='30%' height='30%' /> Pr. Münster | **3:3** | SC Paderborn <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Paderborn/SC Paderborn_icon.png' alt='SC Paderborn' width='25%' height='25%' /> |
 
 </div>
 
@@ -95,7 +95,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 49' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Sandhausen/SV Sandhausen_icon.png' alt='SV Sandhausen' width='30%' height='30%' /> SV Sandhausen | **1:0** | B. Dortmund II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/B. Dortmund II/B. Dortmund II_icon.png' alt='B. Dortmund II' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Sandhausen/SV Sandhausen_icon.png' alt='SV Sandhausen' width='30%' height='30%' /> SV Sandhausen | **3:1** | B. Dortmund II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/B. Dortmund II/B. Dortmund II_icon.png' alt='B. Dortmund II' width='25%' height='25%' /> |
 
 </div>
 
@@ -139,7 +139,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rubin Kazan/Rubin Kazan_icon.png' alt='Rubin Kazan' width='30%' height='30%' /> Rubin Kazan | **0:2 HT** | KS Samara <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/KS Samara/KS Samara_icon.png' alt='KS Samara' width='25%' height='25%' /> |
+| 84' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rubin Kazan/Rubin Kazan_icon.png' alt='Rubin Kazan' width='30%' height='30%' /> Rubin Kazan | **0:2** | KS Samara <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/KS Samara/KS Samara_icon.png' alt='KS Samara' width='25%' height='25%' /> |
 
 </div>
 
@@ -150,7 +150,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sepsi OSK/Sepsi OSK_icon.png' alt='Sepsi OSK' width='30%' height='30%' /> Sepsi OSK | **3:0** | FC Botosani <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Botosani/FC Botosani_icon.png' alt='FC Botosani' width='25%' height='25%' /> |
-| 8' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Dinamo/FC Dinamo_icon.png' alt='FC Dinamo' width='30%' height='30%' /> FC Dinamo | **0:0** | Unirea Slobozia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Unirea Slobozia/Unirea Slobozia_icon.png' alt='Unirea Slobozia' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Dinamo/FC Dinamo_icon.png' alt='FC Dinamo' width='30%' height='30%' /> FC Dinamo | **1:0 HT** | Unirea Slobozia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Unirea Slobozia/Unirea Slobozia_icon.png' alt='Unirea Slobozia' width='25%' height='25%' /> |
 
 </div>
 
@@ -170,8 +170,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 8' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Club NXT/Club NXT_icon.png' alt='Club NXT' width='30%' height='30%' /> Club NXT | **0:0** | RFC Seraing <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/RFC Seraing/RFC Seraing_icon.png' alt='RFC Seraing' width='25%' height='25%' /> |
-| 6' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lokeren-Temse/Lokeren-Temse_icon.png' alt='Lokeren-Temse' width='30%' height='30%' /> Lokeren-Temse | **0:0** | Patro Eisden <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Patro Eisden/Patro Eisden_icon.png' alt='Patro Eisden' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Club NXT/Club NXT_icon.png' alt='Club NXT' width='30%' height='30%' /> Club NXT | **1:0 HT** | RFC Seraing <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/RFC Seraing/RFC Seraing_icon.png' alt='RFC Seraing' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lokeren-Temse/Lokeren-Temse_icon.png' alt='Lokeren-Temse' width='30%' height='30%' /> Lokeren-Temse | **1:0 HT** | Patro Eisden <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Patro Eisden/Patro Eisden_icon.png' alt='Patro Eisden' width='25%' height='25%' /> |
 
 </div>
 
@@ -191,7 +191,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FCV Dender EH/FCV Dender EH_icon.png' alt='FCV Dender EH' width='30%' height='30%' /> FCV Dender EH | **8:45 PM** | Standard Liège <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Standard Liège/Standard Liège_icon.png' alt='Standard Liège' width='25%' height='25%' /> |
+| 14' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FCV Dender EH/FCV Dender EH_icon.png' alt='FCV Dender EH' width='30%' height='30%' /> FCV Dender EH | **0:1** | Standard Liège <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Standard Liège/Standard Liège_icon.png' alt='Standard Liège' width='25%' height='25%' /> |
 
 </div>
 
@@ -201,7 +201,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Aalborg BK/Aalborg BK_icon.png' alt='Aalborg BK' width='30%' height='30%' /> Aalborg BK | **1:0 HT** | Lyngby BK <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lyngby BK/Lyngby BK_icon.png' alt='Lyngby BK' width='25%' height='25%' /> |
+| 92' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Aalborg BK/Aalborg BK_icon.png' alt='Aalborg BK' width='30%' height='30%' /> Aalborg BK | **1:1** | Lyngby BK <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lyngby BK/Lyngby BK_icon.png' alt='Lyngby BK' width='25%' height='25%' /> |
 
 </div>
 
@@ -211,7 +211,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 47' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Spartak/Spartak_icon.png' alt='Spartak' width='30%' height='30%' /> Spartak | **1:0** | IMT Belgrad <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/IMT Belgrad/IMT Belgrad_icon.png' alt='IMT Belgrad' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Spartak/Spartak_icon.png' alt='Spartak' width='30%' height='30%' /> Spartak | **2:0** | IMT Belgrad <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/IMT Belgrad/IMT Belgrad_icon.png' alt='IMT Belgrad' width='25%' height='25%' /> |
 
 </div>
 
@@ -221,7 +221,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 5' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dinamo Zagreb/Dinamo Zagreb_icon.png' alt='Dinamo Zagreb' width='30%' height='30%' /> Dinamo Zagreb | **0:0** | Hajduk Split <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hajduk Split/Hajduk Split_icon.png' alt='Hajduk Split' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dinamo Zagreb/Dinamo Zagreb_icon.png' alt='Dinamo Zagreb' width='30%' height='30%' /> Dinamo Zagreb | **0:0 HT** | Hajduk Split <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hajduk Split/Hajduk Split_icon.png' alt='Hajduk Split' width='25%' height='25%' /> |
 
 </div>
 
@@ -287,7 +287,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Motor Lublin/Motor Lublin_icon.png' alt='Motor Lublin' width='30%' height='30%' /> Motor Lublin | **1:0** | Górnik Zabrze <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Górnik Zabrze/Górnik Zabrze_icon.png' alt='Górnik Zabrze' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/GKS Katowice/GKS Katowice_icon.png' alt='GKS Katowice' width='30%' height='30%' /> GKS Katowice | **8:30 PM** | Widzew Lodz <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Widzew Lodz/Widzew Lodz_icon.png' alt='Widzew Lodz' width='25%' height='25%' /> |
+| 29' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/GKS Katowice/GKS Katowice_icon.png' alt='GKS Katowice' width='30%' height='30%' /> GKS Katowice | **0:1** | Widzew Lodz <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Widzew Lodz/Widzew Lodz_icon.png' alt='Widzew Lodz' width='25%' height='25%' /> |
 
 </div>
 
@@ -318,7 +318,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dep. Riestra/Dep. Riestra_icon.png' alt='Dep. Riestra' width='30%' height='30%' /> Dep. Riestra | **0:0** | Huracán <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Huracán/Huracán_icon.png' alt='Huracán' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dep. Riestra/Dep. Riestra_icon.png' alt='Dep. Riestra' width='30%' height='30%' /> Dep. Riestra | **0:0 HT** | Huracán <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Huracán/Huracán_icon.png' alt='Huracán' width='25%' height='25%' /> |
 | matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Central Córdoba/Central Córdoba_icon.png' alt='Central Córdoba' width='30%' height='30%' /> Central Córdoba | **11:30 PM** | Instituto ACC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Instituto ACC/Instituto ACC_icon.png' alt='Instituto ACC' width='25%' height='25%' /> |
 | matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lanús/Lanús_icon.png' alt='Lanús' width='30%' height='30%' /> Lanús | **11:30 PM** | Unión Santa Fe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Unión Santa Fe/Unión Santa Fe_icon.png' alt='Unión Santa Fe' width='25%' height='25%' /> |
 
@@ -330,7 +330,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gimnasia y Tiro/Gimnasia y Tiro_icon.png' alt='Gimnasia y Tiro' width='30%' height='30%' /> Gimnasia y Tiro | **8:30 PM** | Gimnasia (M) <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gimnasia /Gimnasia _M__icon.png' alt='Gimnasia (M)' width='25%' height='25%' /> |
+| 24' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gimnasia y Tiro/Gimnasia y Tiro_icon.png' alt='Gimnasia y Tiro' width='30%' height='30%' /> Gimnasia y Tiro | **0:0** | Gimnasia (M) <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gimnasia /Gimnasia _M__icon.png' alt='Gimnasia (M)' width='25%' height='25%' /> |
 
 </div>
 
@@ -365,7 +365,7 @@
 |:------|:----------|:-----:|:----------|
 | matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Taawoun/Al-Taawoun_icon.png' alt='Al-Taawoun' width='30%' height='30%' /> Al-Taawoun | **2:0** | Al-Khaleej <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Khaleej/Al-Khaleej_icon.png' alt='Al-Khaleej' width='25%' height='25%' /> |
 | matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Damac FC/Damac FC_icon.png' alt='Damac FC' width='30%' height='30%' /> Damac FC | **3:1** | Al-Okhdood <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Okhdood/Al-Okhdood_icon.png' alt='Al-Okhdood' width='25%' height='25%' /> |
-| 9' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Nassr/Al-Nassr_icon.png' alt='Al-Nassr' width='30%' height='30%' /> Al-Nassr | **0:0** | Al-Ahli <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Ahli/Al-Ahli_icon.png' alt='Al-Ahli' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Nassr/Al-Nassr_icon.png' alt='Al-Nassr' width='30%' height='30%' /> Al-Nassr | **0:0 HT** | Al-Ahli <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Ahli/Al-Ahli_icon.png' alt='Al-Ahli' width='25%' height='25%' /> |
 
 </div>
 
@@ -375,7 +375,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 46' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/KR Reykjavík/KR Reykjavík_icon.png' alt='KR Reykjavík' width='30%' height='30%' /> KR Reykjavík | **N/A** | Víkingur <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Víkingur/Víkingur_icon.png' alt='Víkingur' width='25%' height='25%' /> |
+| matchday 20 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/KR Reykjavík/KR Reykjavík_icon.png' alt='KR Reykjavík' width='30%' height='30%' /> KR Reykjavík | **N/A** | Víkingur <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Víkingur/Víkingur_icon.png' alt='Víkingur' width='25%' height='25%' /> |
 
 </div>
 
@@ -467,6 +467,16 @@
 |:------|:----------|:-----:|:----------|
 | matchday 30 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ulsan HD/Ulsan HD_icon.png' alt='Ulsan HD' width='30%' height='30%' /> Ulsan HD | **2:0** | Gangwon FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gangwon FC/Gangwon FC_icon.png' alt='Gangwon FC' width='25%' height='25%' /> |
 | matchday 30 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gwangju FC/Gwangju FC_icon.png' alt='Gwangju FC' width='30%' height='30%' /> Gwangju FC | **2:1** | Pohang Steelers <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pohang Steelers/Pohang Steelers_icon.png' alt='Pohang Steelers' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/NextGen Liga/NextGen Liga_icon.png' alt='NextGen Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> NextGen Liga
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/NK Rudar U19/NK Rudar U19_icon.png' alt='NK Rudar U19' width='30%' height='30%' /> NK Rudar U19 | **0:1** | NK Maribor U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/NK Maribor U19/NK Maribor U19_icon.png' alt='NK Maribor U19' width='25%' height='25%' /> |
 
 </div>
 
@@ -581,7 +591,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UTC/UTC_icon.png' alt='UTC' width='30%' height='30%' /> UTC | **0:0** | Cienciano <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cienciano/Cienciano_icon.png' alt='Cienciano' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UTC/UTC_icon.png' alt='UTC' width='30%' height='30%' /> UTC | **0:0 HT** | Cienciano <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cienciano/Cienciano_icon.png' alt='Cienciano' width='25%' height='25%' /> |
 | matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dep. Garcilaso/Dep. Garcilaso_icon.png' alt='Dep. Garcilaso' width='30%' height='30%' /> Dep. Garcilaso | **10:15 PM** | AD Tarma <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD Tarma/AD Tarma_icon.png' alt='AD Tarma' width='25%' height='25%' /> |
 
 </div>
@@ -666,7 +676,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cesena/Cesena_icon.png' alt='Cesena' width='30%' height='30%' /> Cesena | **8:30 PM** | Modena <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Modena/Modena_icon.png' alt='Modena' width='25%' height='25%' /> |
+| 29' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cesena/Cesena_icon.png' alt='Cesena' width='30%' height='30%' /> Cesena | **0:1** | Modena <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Modena/Modena_icon.png' alt='Modena' width='25%' height='25%' /> |
 
 </div>
 
@@ -710,7 +720,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Córdoba CF/Córdoba CF_icon.png' alt='Córdoba CF' width='30%' height='30%' /> Córdoba CF | **8:30 PM** | Dep. La Coruña <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dep. La Coruña/Dep. La Coruña_icon.png' alt='Dep. La Coruña' width='25%' height='25%' /> |
+| 27' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Córdoba CF/Córdoba CF_icon.png' alt='Córdoba CF' width='30%' height='30%' /> Córdoba CF | **0:0** | Dep. La Coruña <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dep. La Coruña/Dep. La Coruña_icon.png' alt='Dep. La Coruña' width='25%' height='25%' /> |
 
 </div>
 
@@ -743,12 +753,12 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 38' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Concarneau/Concarneau_icon.png' alt='Concarneau' width='30%' height='30%' /> Concarneau | **0:0** | Nîmes Olympique <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nîmes Olympique/Nîmes Olympique_icon.png' alt='Nîmes Olympique' width='25%' height='25%' /> |
-| 36' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Villefranche/FC Villefranche_icon.png' alt='FC Villefranche' width='30%' height='30%' /> FC Villefranche | **0:0** | Aubagne FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Aubagne FC/Aubagne FC_icon.png' alt='Aubagne FC' width='25%' height='25%' /> |
-| 37' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Sochaux/FC Sochaux_icon.png' alt='FC Sochaux' width='30%' height='30%' /> FC Sochaux | **0:0** | AS Nancy <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AS Nancy/AS Nancy_icon.png' alt='AS Nancy' width='25%' height='25%' /> |
-| 34' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dijon/Dijon_icon.png' alt='Dijon' width='30%' height='30%' /> Dijon | **1:0** | Paris 13 Atl. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paris 13 Atl./Paris 13 Atl._icon.png' alt='Paris 13 Atl.' width='25%' height='25%' /> |
-| 37' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/US Boulogne/US Boulogne_icon.png' alt='US Boulogne' width='30%' height='30%' /> US Boulogne | **2:0** | Le Mans FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Le Mans FC/Le Mans FC_icon.png' alt='Le Mans FC' width='25%' height='25%' /> |
-| 36' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LB Châteauroux/LB Châteauroux_icon.png' alt='LB Châteauroux' width='30%' height='30%' /> LB Châteauroux | **1:0** | QRM <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/QRM/QRM_icon.png' alt='QRM' width='25%' height='25%' /> |
+| 72' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Concarneau/Concarneau_icon.png' alt='Concarneau' width='30%' height='30%' /> Concarneau | **1:0** | Nîmes Olympique <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nîmes Olympique/Nîmes Olympique_icon.png' alt='Nîmes Olympique' width='25%' height='25%' /> |
+| 70' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Villefranche/FC Villefranche_icon.png' alt='FC Villefranche' width='30%' height='30%' /> FC Villefranche | **0:1** | Aubagne FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Aubagne FC/Aubagne FC_icon.png' alt='Aubagne FC' width='25%' height='25%' /> |
+| 73' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Sochaux/FC Sochaux_icon.png' alt='FC Sochaux' width='30%' height='30%' /> FC Sochaux | **2:0** | AS Nancy <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AS Nancy/AS Nancy_icon.png' alt='AS Nancy' width='25%' height='25%' /> |
+| 68' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dijon/Dijon_icon.png' alt='Dijon' width='30%' height='30%' /> Dijon | **2:0** | Paris 13 Atl. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paris 13 Atl./Paris 13 Atl._icon.png' alt='Paris 13 Atl.' width='25%' height='25%' /> |
+| 70' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/US Boulogne/US Boulogne_icon.png' alt='US Boulogne' width='30%' height='30%' /> US Boulogne | **2:1** | Le Mans FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Le Mans FC/Le Mans FC_icon.png' alt='Le Mans FC' width='25%' height='25%' /> |
+| 72' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LB Châteauroux/LB Châteauroux_icon.png' alt='LB Châteauroux' width='30%' height='30%' /> LB Châteauroux | **1:3** | QRM <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/QRM/QRM_icon.png' alt='QRM' width='25%' height='25%' /> |
 
 </div>
 
@@ -758,13 +768,13 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 8' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Bastia/SC Bastia_icon.png' alt='SC Bastia' width='30%' height='30%' /> SC Bastia | **0:0** | Troyes <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Troyes/Troyes_icon.png' alt='Troyes' width='25%' height='25%' /> |
-| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rodez AF/Rodez AF_icon.png' alt='Rodez AF' width='30%' height='30%' /> Rodez AF | **0:0** | Guingamp <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guingamp/Guingamp_icon.png' alt='Guingamp' width='25%' height='25%' /> |
-| 6' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pau FC/Pau FC_icon.png' alt='Pau FC' width='30%' height='30%' /> Pau FC | **0:0** | FC Martigues <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Martigues/FC Martigues_icon.png' alt='FC Martigues' width='25%' height='25%' /> |
-| 8' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Annecy/FC Annecy_icon.png' alt='FC Annecy' width='30%' height='30%' /> FC Annecy | **0:0** | Amiens SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Amiens SC/Amiens SC_icon.png' alt='Amiens SC' width='25%' height='25%' /> |
-| 8' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Clermont Foot/Clermont Foot_icon.png' alt='Clermont Foot' width='30%' height='30%' /> Clermont Foot | **0:0** | USL Dunkerque <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USL Dunkerque/USL Dunkerque_icon.png' alt='USL Dunkerque' width='25%' height='25%' /> |
-| 8' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Lorient/FC Lorient_icon.png' alt='FC Lorient' width='30%' height='30%' /> FC Lorient | **0:0** | Red Star FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Red Star FC/Red Star FC_icon.png' alt='Red Star FC' width='25%' height='25%' /> |
-| 8' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Stade Lavallois/Stade Lavallois_icon.png' alt='Stade Lavallois' width='30%' height='30%' /> Stade Lavallois | **0:0** | AC Ajaccio <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AC Ajaccio/AC Ajaccio_icon.png' alt='AC Ajaccio' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Bastia/SC Bastia_icon.png' alt='SC Bastia' width='30%' height='30%' /> SC Bastia | **0:0 HT** | Troyes <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Troyes/Troyes_icon.png' alt='Troyes' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rodez AF/Rodez AF_icon.png' alt='Rodez AF' width='30%' height='30%' /> Rodez AF | **0:1 HT** | Guingamp <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guingamp/Guingamp_icon.png' alt='Guingamp' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pau FC/Pau FC_icon.png' alt='Pau FC' width='30%' height='30%' /> Pau FC | **1:0 HT** | FC Martigues <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Martigues/FC Martigues_icon.png' alt='FC Martigues' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Annecy/FC Annecy_icon.png' alt='FC Annecy' width='30%' height='30%' /> FC Annecy | **1:0 HT** | Amiens SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Amiens SC/Amiens SC_icon.png' alt='Amiens SC' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Clermont Foot/Clermont Foot_icon.png' alt='Clermont Foot' width='30%' height='30%' /> Clermont Foot | **0:0 HT** | USL Dunkerque <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USL Dunkerque/USL Dunkerque_icon.png' alt='USL Dunkerque' width='25%' height='25%' /> |
+| 41' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Lorient/FC Lorient_icon.png' alt='FC Lorient' width='30%' height='30%' /> FC Lorient | **1:0** | Red Star FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Red Star FC/Red Star FC_icon.png' alt='Red Star FC' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Stade Lavallois/Stade Lavallois_icon.png' alt='Stade Lavallois' width='30%' height='30%' /> Stade Lavallois | **1:1 HT** | AC Ajaccio <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AC Ajaccio/AC Ajaccio_icon.png' alt='AC Ajaccio' width='25%' height='25%' /> |
 
 </div>
 
@@ -784,16 +794,16 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 6' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/De Graafschap/De Graafschap_icon.png' alt='De Graafschap' width='30%' height='30%' /> De Graafschap | **0:0** | Helmond Sport <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Helmond Sport/Helmond Sport_icon.png' alt='Helmond Sport' width='25%' height='25%' /> |
-| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Excelsior/Excelsior_icon.png' alt='Excelsior' width='30%' height='30%' /> Excelsior | **0:0** | Telstar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Telstar/Telstar_icon.png' alt='Telstar' width='25%' height='25%' /> |
-| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Den Bosch/FC Den Bosch_icon.png' alt='FC Den Bosch' width='30%' height='30%' /> FC Den Bosch | **0:0** | ADO Den Haag <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/ADO Den Haag/ADO Den Haag_icon.png' alt='ADO Den Haag' width='25%' height='25%' /> |
-| 6' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Eindhoven/FC Eindhoven_icon.png' alt='FC Eindhoven' width='30%' height='30%' /> FC Eindhoven | **0:0** | FC Dordrecht <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Dordrecht/FC Dordrecht_icon.png' alt='FC Dordrecht' width='25%' height='25%' /> |
-| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Emmen/FC Emmen_icon.png' alt='FC Emmen' width='30%' height='30%' /> FC Emmen | **0:0** | Roda JC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Roda JC/Roda JC_icon.png' alt='Roda JC' width='25%' height='25%' /> |
-| 6' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AZ Alkmaar U21/AZ Alkmaar U21_icon.png' alt='AZ Alkmaar U21' width='30%' height='30%' /> AZ Alkmaar U21 | **0:0** | Vitesse <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vitesse/Vitesse_icon.png' alt='Vitesse' width='25%' height='25%' /> |
-| 4' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/MVV Maastricht/MVV Maastricht_icon.png' alt='MVV Maastricht' width='30%' height='30%' /> MVV Maastricht | **0:0** | FC Volendam <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Volendam/FC Volendam_icon.png' alt='FC Volendam' width='25%' height='25%' /> |
-| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Cambuur/SC Cambuur_icon.png' alt='SC Cambuur' width='30%' height='30%' /> SC Cambuur | **0:0** | Ajax U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ajax U21/Ajax U21_icon.png' alt='Ajax U21' width='25%' height='25%' /> |
-| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TOP Oss/TOP Oss_icon.png' alt='TOP Oss' width='30%' height='30%' /> TOP Oss | **0:2** | PSV U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSV U21/PSV U21_icon.png' alt='PSV U21' width='25%' height='25%' /> |
-| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/VVV-Venlo/VVV-Venlo_icon.png' alt='VVV-Venlo' width='30%' height='30%' /> VVV-Venlo | **1:0** | Utrecht U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Utrecht U21/Utrecht U21_icon.png' alt='Utrecht U21' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/De Graafschap/De Graafschap_icon.png' alt='De Graafschap' width='30%' height='30%' /> De Graafschap | **0:2 HT** | Helmond Sport <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Helmond Sport/Helmond Sport_icon.png' alt='Helmond Sport' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Excelsior/Excelsior_icon.png' alt='Excelsior' width='30%' height='30%' /> Excelsior | **2:0 HT** | Telstar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Telstar/Telstar_icon.png' alt='Telstar' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Den Bosch/FC Den Bosch_icon.png' alt='FC Den Bosch' width='30%' height='30%' /> FC Den Bosch | **1:0 HT** | ADO Den Haag <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/ADO Den Haag/ADO Den Haag_icon.png' alt='ADO Den Haag' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Eindhoven/FC Eindhoven_icon.png' alt='FC Eindhoven' width='30%' height='30%' /> FC Eindhoven | **0:0 HT** | FC Dordrecht <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Dordrecht/FC Dordrecht_icon.png' alt='FC Dordrecht' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Emmen/FC Emmen_icon.png' alt='FC Emmen' width='30%' height='30%' /> FC Emmen | **0:1 HT** | Roda JC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Roda JC/Roda JC_icon.png' alt='Roda JC' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AZ Alkmaar U21/AZ Alkmaar U21_icon.png' alt='AZ Alkmaar U21' width='30%' height='30%' /> AZ Alkmaar U21 | **0:0 HT** | Vitesse <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vitesse/Vitesse_icon.png' alt='Vitesse' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/MVV Maastricht/MVV Maastricht_icon.png' alt='MVV Maastricht' width='30%' height='30%' /> MVV Maastricht | **1:1 HT** | FC Volendam <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Volendam/FC Volendam_icon.png' alt='FC Volendam' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Cambuur/SC Cambuur_icon.png' alt='SC Cambuur' width='30%' height='30%' /> SC Cambuur | **0:0 HT** | Ajax U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ajax U21/Ajax U21_icon.png' alt='Ajax U21' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TOP Oss/TOP Oss_icon.png' alt='TOP Oss' width='30%' height='30%' /> TOP Oss | **0:2 HT** | PSV U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSV U21/PSV U21_icon.png' alt='PSV U21' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/VVV-Venlo/VVV-Venlo_icon.png' alt='VVV-Venlo' width='30%' height='30%' /> VVV-Venlo | **1:1 HT** | Utrecht U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Utrecht U21/Utrecht U21_icon.png' alt='Utrecht U21' width='25%' height='25%' /> |
 
 </div>
 
@@ -823,7 +833,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Arouca/Arouca_icon.png' alt='Arouca' width='30%' height='30%' /> Arouca | **9:15 PM** | Sporting CP <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sporting CP/Sporting CP_icon.png' alt='Sporting CP' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Arouca/Arouca_icon.png' alt='Arouca' width='30%' height='30%' /> Arouca | **9:15 PM** | Sporting CP <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sporting CP/Sporting CP_icon.png' alt='Sporting CP' width='25%' height='25%' /> |
 
 </div>
 
@@ -833,7 +843,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dunfermline A./Dunfermline A._icon.png' alt='Dunfermline A.' width='30%' height='30%' /> Dunfermline A. | **8:45 PM** | Raith Rovers <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Raith Rovers/Raith Rovers_icon.png' alt='Raith Rovers' width='25%' height='25%' /> |
+| 12' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dunfermline A./Dunfermline A._icon.png' alt='Dunfermline A.' width='30%' height='30%' /> Dunfermline A. | **0:0** | Raith Rovers <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Raith Rovers/Raith Rovers_icon.png' alt='Raith Rovers' width='25%' height='25%' /> |
 
 </div>
 
@@ -843,7 +853,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Boluspor/Boluspor_icon.png' alt='Boluspor' width='30%' height='30%' /> Boluspor | **0:1 HT** | Pendikspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pendikspor/Pendikspor_icon.png' alt='Pendikspor' width='25%' height='25%' /> |
+| 95' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Boluspor/Boluspor_icon.png' alt='Boluspor' width='30%' height='30%' /> Boluspor | **1:2** | Pendikspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pendikspor/Pendikspor_icon.png' alt='Pendikspor' width='25%' height='25%' /> |
 
 </div>
 
@@ -898,7 +908,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 51' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Roskilde/FC Roskilde_icon.png' alt='FC Roskilde' width='30%' height='30%' /> FC Roskilde | **1:0** | Hvidovre <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hvidovre/Hvidovre_icon.png' alt='Hvidovre' width='25%' height='25%' /> |
+| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Roskilde/FC Roskilde_icon.png' alt='FC Roskilde' width='30%' height='30%' /> FC Roskilde | **2:0** | Hvidovre <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hvidovre/Hvidovre_icon.png' alt='Hvidovre' width='25%' height='25%' /> |
 
 </div>
 
@@ -908,7 +918,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 51' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bodø/Bodø_Glimt_icon.png' alt='Bodø/Glimt' width='30%' height='30%' /> Bodø/Glimt | **0:0** | HamKam <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/HamKam/HamKam_icon.png' alt='HamKam' width='25%' height='25%' /> |
+| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bodø/Bodø_Glimt_icon.png' alt='Bodø/Glimt' width='30%' height='30%' /> Bodø/Glimt | **3:0** | HamKam <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/HamKam/HamKam_icon.png' alt='HamKam' width='25%' height='25%' /> |
 
 </div>
 
@@ -992,9 +1002,9 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 46' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landskrona/Landskrona_icon.png' alt='Landskrona' width='30%' height='30%' /> Landskrona | **0:0** | Östers IF <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Östers IF/Östers IF_icon.png' alt='Östers IF' width='25%' height='25%' /> |
-| 50' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Trelleborg/Trelleborg_icon.png' alt='Trelleborg' width='30%' height='30%' /> Trelleborg | **0:1** | Örebro SK <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Örebro SK/Örebro SK_icon.png' alt='Örebro SK' width='25%' height='25%' /> |
-| 52' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Östersund/Östersund_icon.png' alt='Östersund' width='30%' height='30%' /> Östersund | **1:0** | Helsingborgs IF <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Helsingborgs IF/Helsingborgs IF_icon.png' alt='Helsingborgs IF' width='25%' height='25%' /> |
+| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landskrona/Landskrona_icon.png' alt='Landskrona' width='30%' height='30%' /> Landskrona | **0:0** | Östers IF <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Östers IF/Östers IF_icon.png' alt='Östers IF' width='25%' height='25%' /> |
+| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Trelleborg/Trelleborg_icon.png' alt='Trelleborg' width='30%' height='30%' /> Trelleborg | **2:1** | Örebro SK <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Örebro SK/Örebro SK_icon.png' alt='Örebro SK' width='25%' height='25%' /> |
+| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Östersund/Östersund_icon.png' alt='Östersund' width='30%' height='30%' /> Östersund | **1:0** | Helsingborgs IF <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Helsingborgs IF/Helsingborgs IF_icon.png' alt='Helsingborgs IF' width='25%' height='25%' /> |
 
 </div>
 
@@ -1181,8 +1191,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Concordia/Concordia_icon.png' alt='Concordia' width='30%' height='30%' /> Concordia | **7:00 PM** | TuS Dassendorf <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TuS Dassendorf/TuS Dassendorf_icon.png' alt='TuS Dassendorf' width='25%' height='25%' /> |
-| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TSV Sasel/TSV Sasel_icon.png' alt='TSV Sasel' width='30%' height='30%' /> TSV Sasel | **7:00 PM** | ETSV Hamburg <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/ETSV Hamburg/ETSV Hamburg_icon.png' alt='ETSV Hamburg' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Concordia/Concordia_icon.png' alt='Concordia' width='30%' height='30%' /> Concordia | **0:3** | TuS Dassendorf <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TuS Dassendorf/TuS Dassendorf_icon.png' alt='TuS Dassendorf' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TSV Sasel/TSV Sasel_icon.png' alt='TSV Sasel' width='30%' height='30%' /> TSV Sasel | **0:5** | ETSV Hamburg <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/ETSV Hamburg/ETSV Hamburg_icon.png' alt='ETSV Hamburg' width='25%' height='25%' /> |
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Süderelbe/FC Süderelbe_icon.png' alt='FC Süderelbe' width='30%' height='30%' /> FC Süderelbe | **7:30 PM** | HSV III <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/HSV III/HSV III_icon.png' alt='HSV III' width='25%' height='25%' /> |
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eimsbütteler TV/Eimsbütteler TV_icon.png' alt='Eimsbütteler TV' width='30%' height='30%' /> Eimsbütteler TV | **8:15 PM** | FC Türkiye <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Türkiye/FC Türkiye_icon.png' alt='FC Türkiye' width='25%' height='25%' /> |
 
@@ -1463,7 +1473,7 @@
 |:------|:----------|:-----:|:----------|
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Rayyan SC/Al-Rayyan SC_icon.png' alt='Al-Rayyan SC' width='30%' height='30%' /> Al-Rayyan SC | **4:2** | Al-Shahania SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Shahania SC/Al-Shahania SC_icon.png' alt='Al-Shahania SC' width='25%' height='25%' /> |
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Gharafa SC/Al-Gharafa SC_icon.png' alt='Al-Gharafa SC' width='30%' height='30%' /> Al-Gharafa SC | **1:1** | Al-Shamal SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Shamal SC/Al-Shamal SC_icon.png' alt='Al-Shamal SC' width='25%' height='25%' /> |
-| 47' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Sadd SC/Al-Sadd SC_icon.png' alt='Al-Sadd SC' width='30%' height='30%' /> Al-Sadd SC | **0:2** | Umm Salal SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Umm Salal SC/Umm Salal SC_icon.png' alt='Umm Salal SC' width='25%' height='25%' /> |
+| 98' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Sadd SC/Al-Sadd SC_icon.png' alt='Al-Sadd SC' width='30%' height='30%' /> Al-Sadd SC | **1:3** | Umm Salal SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Umm Salal SC/Umm Salal SC_icon.png' alt='Umm Salal SC' width='25%' height='25%' /> |
 
 </div>
 
