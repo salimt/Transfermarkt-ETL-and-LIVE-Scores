@@ -196,7 +196,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 9' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Inter Palmira/Inter Palmira_icon.png' alt='Inter Palmira' width='30%' height='30%' /> Inter Palmira | **0:0** | Quindío <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quindío/Quindío_icon.png' alt='Quindío' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Inter Palmira/Inter Palmira_icon.png' alt='Inter Palmira' width='30%' height='30%' /> Inter Palmira | **0:0 HT** | Quindío <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quindío/Quindío_icon.png' alt='Quindío' width='25%' height='25%' /> |
 
 </div>
 
@@ -294,8 +294,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 93' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fylkir/Fylkir_icon.png' alt='Fylkir' width='30%' height='30%' /> Fylkir | **0:6** | Víkingur <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Víkingur/Víkingur_icon.png' alt='Víkingur' width='25%' height='25%' /> |
-| 96' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Valur/Valur_icon.png' alt='Valur' width='30%' height='30%' /> Valur | **4:1** | KR Reykjavík <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/KR Reykjavík/KR Reykjavík_icon.png' alt='KR Reykjavík' width='25%' height='25%' /> |
+| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fylkir/Fylkir_icon.png' alt='Fylkir' width='30%' height='30%' /> Fylkir | **0:6** | Víkingur <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Víkingur/Víkingur_icon.png' alt='Víkingur' width='25%' height='25%' /> |
+| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Valur/Valur_icon.png' alt='Valur' width='30%' height='30%' /> Valur | **4:1** | KR Reykjavík <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/KR Reykjavík/KR Reykjavík_icon.png' alt='KR Reykjavík' width='25%' height='25%' /> |
 
 </div>
 
@@ -417,7 +417,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olimpia/Olimpia_icon.png' alt='Olimpia' width='30%' height='30%' /> Olimpia | **4:3** | Luqueño <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Luqueño/Luqueño_icon.png' alt='Luqueño' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Trinidense/Trinidense_icon.png' alt='Trinidense' width='30%' height='30%' /> Trinidense | **11:30 PM** | Tacuary FBC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tacuary FBC/Tacuary FBC_icon.png' alt='Tacuary FBC' width='25%' height='25%' /> |
+| 33' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Trinidense/Trinidense_icon.png' alt='Trinidense' width='30%' height='30%' /> Trinidense | **1:1** | Tacuary FBC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tacuary FBC/Tacuary FBC_icon.png' alt='Tacuary FBC' width='25%' height='25%' /> |
 
 </div>
 
@@ -448,6 +448,16 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Myawady FC/Myawady FC_icon.png' alt='Myawady FC' width='30%' height='30%' /> Myawady FC | **11:00 AM** | Hantharwady Utd <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hantharwady Utd/Hantharwady Utd_icon.png' alt='Hantharwady Utd' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/League of Ireland Premier Division/League of Ireland Premier Division_icon.png' alt='League of Ireland Premier Division' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> League of Ireland Premier Division
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 19 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Galway United/Galway United_icon.png' alt='Galway United' width='30%' height='30%' /> Galway United | **1:2** | Shamrock Rovers <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shamrock Rovers/Shamrock Rovers_icon.png' alt='Shamrock Rovers' width='25%' height='25%' /> |
 
 </div>
 
@@ -574,7 +584,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 87' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CF Estrela/CF Estrela_icon.png' alt='CF Estrela' width='30%' height='30%' /> CF Estrela | **2:2** | Boavista <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Boavista/Boavista_icon.png' alt='Boavista' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CF Estrela/CF Estrela_icon.png' alt='CF Estrela' width='30%' height='30%' /> CF Estrela | **2:2** | Boavista <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Boavista/Boavista_icon.png' alt='Boavista' width='25%' height='25%' /> |
 
 </div>
 
@@ -769,9 +779,9 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Tel Aviv/Hapoel Tel Aviv_icon.png' alt='Hapoel Tel Aviv' width='30%' height='30%' /> Hapoel Tel Aviv | **6:00 PM** | Hapoel Raanana <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Raanana/Hapoel Raanana_icon.png' alt='Hapoel Raanana' width='25%' height='25%' /> |
-| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Acre/Hapoel Acre_icon.png' alt='Hapoel Acre' width='30%' height='30%' /> Hapoel Acre | **6:00 PM** | H. Petah Tikva <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Petah Tikva/H. Petah Tikva_icon.png' alt='H. Petah Tikva' width='25%' height='25%' /> |
-| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Kfar Saba/H. Kfar Saba_icon.png' alt='H. Kfar Saba' width='30%' height='30%' /> H. Kfar Saba | **6:00 PM** | Bnei Yehuda <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bnei Yehuda/Bnei Yehuda_icon.png' alt='Bnei Yehuda' width='25%' height='25%' /> |
+| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Tel Aviv/Hapoel Tel Aviv_icon.png' alt='Hapoel Tel Aviv' width='30%' height='30%' /> Hapoel Tel Aviv | **1:1** | Hapoel Raanana <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Raanana/Hapoel Raanana_icon.png' alt='Hapoel Raanana' width='25%' height='25%' /> |
+| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Acre/Hapoel Acre_icon.png' alt='Hapoel Acre' width='30%' height='30%' /> Hapoel Acre | **0:1** | H. Petah Tikva <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Petah Tikva/H. Petah Tikva_icon.png' alt='H. Petah Tikva' width='25%' height='25%' /> |
+| matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Kfar Saba/H. Kfar Saba_icon.png' alt='H. Kfar Saba' width='30%' height='30%' /> H. Kfar Saba | **1:1** | Bnei Yehuda <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bnei Yehuda/Bnei Yehuda_icon.png' alt='Bnei Yehuda' width='25%' height='25%' /> |
 
 </div>
 
