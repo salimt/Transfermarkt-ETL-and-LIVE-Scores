@@ -91,6 +91,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 19 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Peimari United/Peimari United_icon.png' alt='Peimari United' width='30%' height='30%' /> Peimari United | **6:1** | Turun PK <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Turun PK/Turun PK_icon.png' alt='Turun PK' width='25%' height='25%' /> |
+| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/KPV II/KPV II_icon.png' alt='KPV II' width='30%' height='30%' /> KPV II | **1:9** | VPS II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/VPS II/VPS II_icon.png' alt='VPS II' width='25%' height='25%' /> |
 
 </div>
 
@@ -196,7 +197,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Inter Palmira/Inter Palmira_icon.png' alt='Inter Palmira' width='30%' height='30%' /> Inter Palmira | **0:0 HT** | Quindío <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quindío/Quindío_icon.png' alt='Quindío' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Inter Palmira/Inter Palmira_icon.png' alt='Inter Palmira' width='30%' height='30%' /> Inter Palmira | **1:0** | Quindío <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quindío/Quindío_icon.png' alt='Quindío' width='25%' height='25%' /> |
 
 </div>
 
@@ -417,7 +418,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olimpia/Olimpia_icon.png' alt='Olimpia' width='30%' height='30%' /> Olimpia | **4:3** | Luqueño <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Luqueño/Luqueño_icon.png' alt='Luqueño' width='25%' height='25%' /> |
-| 33' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Trinidense/Trinidense_icon.png' alt='Trinidense' width='30%' height='30%' /> Trinidense | **1:1** | Tacuary FBC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tacuary FBC/Tacuary FBC_icon.png' alt='Tacuary FBC' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Trinidense/Trinidense_icon.png' alt='Trinidense' width='30%' height='30%' /> Trinidense | **11:30 PM** | Tacuary FBC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tacuary FBC/Tacuary FBC_icon.png' alt='Tacuary FBC' width='25%' height='25%' /> |
 
 </div>
 
@@ -737,7 +738,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mladost GAT/Mladost GAT_icon.png' alt='Mladost GAT' width='30%' height='30%' /> Mladost GAT | **1:0** | Sloboda Uzice <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sloboda Uzice/Sloboda Uzice_icon.png' alt='Sloboda Uzice' width='25%' height='25%' /> |
-| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Borac Cacak/Borac Cacak_icon.png' alt='Borac Cacak' width='30%' height='30%' /> Borac Cacak | **7:00 PM** | Vrsac <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vrsac/Vrsac_icon.png' alt='Vrsac' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Borac Cacak/Borac Cacak_icon.png' alt='Borac Cacak' width='30%' height='30%' /> Borac Cacak | **3:1** | Vrsac <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vrsac/Vrsac_icon.png' alt='Vrsac' width='25%' height='25%' /> |
 
 </div>
 
