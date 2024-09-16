@@ -199,7 +199,17 @@
 |:------|:----------|:-----:|:----------|
 | matchday 20 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/ReinMeer Aomori/ReinMeer Aomori_icon.png' alt='ReinMeer Aomori' width='30%' height='30%' /> ReinMeer Aomori | **1:1** | Atletico Suzuka <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atletico Suzuka/Atletico Suzuka_icon.png' alt='Atletico Suzuka' width='25%' height='25%' /> |
 | matchday 20 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Briobe. Urayasu/Briobe. Urayasu_icon.png' alt='Briobe. Urayasu' width='30%' height='30%' /> Briobe. Urayasu | **0:0** | Verspah Oita <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Verspah Oita/Verspah Oita_icon.png' alt='Verspah Oita' width='25%' height='25%' /> |
-| matchday 20 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Criac. Shinjuku/Criac. Shinjuku_icon.png' alt='Criac. Shinjuku' width='30%' height='30%' /> Criac. Shinjuku | **10:00 AM** | Reilac Shiga <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Reilac Shiga/Reilac Shiga_icon.png' alt='Reilac Shiga' width='25%' height='25%' /> |
+| matchday 20 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Criac. Shinjuku/Criac. Shinjuku_icon.png' alt='Criac. Shinjuku' width='30%' height='30%' /> Criac. Shinjuku | **1:0** | Reilac Shiga <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Reilac Shiga/Reilac Shiga_icon.png' alt='Reilac Shiga' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prince Takamado U18 Premier League East/Prince Takamado U18 Premier League East_icon.png' alt='Prince Takamado U18 Premier League East' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Prince Takamado U18 Premier League East
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Omiya U18/Omiya U18_icon.png' alt='Omiya U18' width='30%' height='30%' /> Omiya U18 | **1:2** | Ichifuna HS <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ichifuna HS/Ichifuna HS_icon.png' alt='Ichifuna HS' width='25%' height='25%' /> |
 
 </div>
 
@@ -212,6 +222,60 @@
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Zulfi/Al-Zulfi_icon.png' alt='Al-Zulfi' width='30%' height='30%' /> Al-Zulfi | **5:40 PM** | Al-Adalah <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Adalah/Al-Adalah_icon.png' alt='Al-Adalah' width='25%' height='25%' /> |
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Bukiryah/Al-Bukiryah_icon.png' alt='Al-Bukiryah' width='30%' height='30%' /> Al-Bukiryah | **5:40 PM** | Abha <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Abha/Abha_icon.png' alt='Abha' width='25%' height='25%' /> |
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Arabi/Al-Arabi_icon.png' alt='Al-Arabi' width='30%' height='30%' /> Al-Arabi | **7:30 PM** | Al-Jabalain <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Al-Jabalain/Al-Jabalain_icon.png' alt='Al-Jabalain' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prince Takamado U18 Premier League West/Prince Takamado U18 Premier League West_icon.png' alt='Prince Takamado U18 Premier League West' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Prince Takamado U18 Premier League West
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kamigaku HS/Kamigaku HS_icon.png' alt='Kamigaku HS' width='30%' height='30%' /> Kamigaku HS | **3:1** | Teikyo Nagaoka <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Teikyo Nagaoka/Teikyo Nagaoka_icon.png' alt='Teikyo Nagaoka' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kanto Soccer League /Kanto Soccer League _Div.2__icon.png' alt='Kanto Soccer League (Div.2)' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Kanto Soccer League (Div.2)
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 16 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sakai Trin./Sakai Trin._icon.png' alt='Sakai Trin.' width='30%' height='30%' /> Sakai Trin. | **3:1** | Av. Kawaguchi <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Av. Kawaguchi/Av. Kawaguchi_icon.png' alt='Av. Kawaguchi' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kanto Soccer League /Kanto Soccer League _Div.1__icon.png' alt='Kanto Soccer League (Div.1)' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Kanto Soccer League (Div.1)
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 16 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Toin Univ. FC/Toin Univ. FC_icon.png' alt='Toin Univ. FC' width='30%' height='30%' /> Toin Univ. FC | **2:3** | aries Tokyo <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/aries Tokyo/aries Tokyo_icon.png' alt='aries Tokyo' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kansai Soccer League /Kansai Soccer League _Div.1__icon.png' alt='Kansai Soccer League (Div.1)' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Kansai Soccer League (Div.1)
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Basara Hyogo/Basara Hyogo_icon.png' alt='Basara Hyogo' width='30%' height='30%' /> Basara Hyogo | **1:1** | Asuka FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Asuka FC/Asuka FC_icon.png' alt='Asuka FC' width='25%' height='25%' /> |
+| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC AWJ/FC AWJ_icon.png' alt='FC AWJ' width='30%' height='30%' /> FC AWJ | **1:1** | Moriyama Sam. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Moriyama Sam./Moriyama Sam._icon.png' alt='Moriyama Sam.' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kansai Soccer League /Kansai Soccer League _Div.2__icon.png' alt='Kansai Soccer League (Div.2)' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Kansai Soccer League (Div.2)
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kansai Uni /Kansai Uni __08_icon.png' alt='Kansai Uni \\08' width='30%' height='30%' /> Kansai Uni \\08 | **1:2** | Laran. Kyoto <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Laran. Kyoto/Laran. Kyoto_icon.png' alt='Laran. Kyoto' width='25%' height='25%' /> |
+| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AC Middlerange/AC Middlerange_icon.png' alt='AC Middlerange' width='30%' height='30%' /> AC Middlerange | **1:2** | Kobe FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kobe FC/Kobe FC_icon.png' alt='Kobe FC' width='25%' height='25%' /> |
+| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kyoto Shiko SC/Kyoto Shiko SC_icon.png' alt='Kyoto Shiko SC' width='30%' height='30%' /> Kyoto Shiko SC | **2:1** | St.Andrews FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/St.Andrews FC/St.Andrews FC_icon.png' alt='St.Andrews FC' width='25%' height='25%' /> |
+| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ococias Kyoto/Ococias Kyoto_icon.png' alt='Ococias Kyoto' width='30%' height='30%' /> Ococias Kyoto | **1:1** | OKFC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/OKFC/OKFC_icon.png' alt='OKFC' width='25%' height='25%' /> |
 
 </div>
 
@@ -498,7 +562,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Khust/FC Khust_icon.png' alt='FC Khust' width='30%' height='30%' /> FC Khust | **12:00 AM** | FC Minaj <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Minaj/FC Minaj_icon.png' alt='FC Minaj' width='25%' height='25%' /> |
-| 72' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UCSA/UCSA_icon.png' alt='UCSA' width='30%' height='30%' /> UCSA | **5:0** | Dinaz Vyshgorod <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dinaz Vyshgorod/Dinaz Vyshgorod_icon.png' alt='Dinaz Vyshgorod' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UCSA/UCSA_icon.png' alt='UCSA' width='30%' height='30%' /> UCSA | **5:0** | Dinaz Vyshgorod <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dinaz Vyshgorod/Dinaz Vyshgorod_icon.png' alt='Dinaz Vyshgorod' width='25%' height='25%' /> |
 | 30' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Epicentr/Epicentr_icon.png' alt='Epicentr' width='30%' height='30%' /> Epicentr | **2:0** | Prykarpattya <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prykarpattya/Prykarpattya_icon.png' alt='Prykarpattya' width='25%' height='25%' /> |
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FSC Mariupol/FSC Mariupol_icon.png' alt='FSC Mariupol' width='30%' height='30%' /> FSC Mariupol | **1:00 PM** | FC Kudrivka-1 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Kudrivka-1/FC Kudrivka-1_icon.png' alt='FC Kudrivka-1' width='25%' height='25%' /> |
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Poltava/SC Poltava_icon.png' alt='SC Poltava' width='30%' height='30%' /> SC Poltava | **1:30 PM** | Kremin <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kremin/Kremin_icon.png' alt='Kremin' width='25%' height='25%' /> |
@@ -558,8 +622,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FS Nanshi/FS Nanshi_icon.png' alt='FS Nanshi' width='30%' height='30%' /> FS Nanshi | **1:30 PM** | GX PG Haliao <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/GX PG Haliao/GX PG Haliao_icon.png' alt='GX PG Haliao' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/QD Red Lions/QD Red Lions_icon.png' alt='QD Red Lions' width='30%' height='30%' /> QD Red Lions | **1:30 PM** | JX Lushan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/JX Lushan/JX Lushan_icon.png' alt='JX Lushan' width='25%' height='25%' /> |
+| 42' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FS Nanshi/FS Nanshi_icon.png' alt='FS Nanshi' width='30%' height='30%' /> FS Nanshi | **1:0** | GX PG Haliao <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/GX PG Haliao/GX PG Haliao_icon.png' alt='GX PG Haliao' width='25%' height='25%' /> |
+| 43' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/QD Red Lions/QD Red Lions_icon.png' alt='QD Red Lions' width='30%' height='30%' /> QD Red Lions | **1:1** | JX Lushan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/JX Lushan/JX Lushan_icon.png' alt='JX Lushan' width='25%' height='25%' /> |
 
 </div>
 
@@ -798,7 +862,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bali United/Bali United_icon.png' alt='Bali United' width='30%' height='30%' /> Bali United | **0:0** | PSS Sleman <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSS Sleman/PSS Sleman_icon.png' alt='PSS Sleman' width='25%' height='25%' /> |
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persija/Persija_icon.png' alt='Persija' width='30%' height='30%' /> Persija | **2:00 PM** | Dewa United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dewa United/Dewa United_icon.png' alt='Dewa United' width='25%' height='25%' /> |
+| 13' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persija/Persija_icon.png' alt='Persija' width='30%' height='30%' /> Persija | **0:0** | Dewa United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dewa United/Dewa United_icon.png' alt='Dewa United' width='25%' height='25%' /> |
 
 </div>
 
