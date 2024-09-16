@@ -167,7 +167,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD América/CD América_icon.png' alt='CD América' width='30%' height='30%' /> CD América | **1:0** | Pereira <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pereira/Pereira_icon.png' alt='Pereira' width='25%' height='25%' /> |
-| 42' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD La Equidad/CD La Equidad_icon.png' alt='CD La Equidad' width='30%' height='30%' /> CD La Equidad | **0:2** | Millonarios <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Millonarios/Millonarios_icon.png' alt='Millonarios' width='25%' height='25%' /> |
+| 83' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD La Equidad/CD La Equidad_icon.png' alt='CD La Equidad' width='30%' height='30%' /> CD La Equidad | **1:2** | Millonarios <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Millonarios/Millonarios_icon.png' alt='Millonarios' width='25%' height='25%' /> |
 
 </div>
 
@@ -697,7 +697,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santa Ana/Santa Ana_icon.png' alt='Santa Ana' width='30%' height='30%' /> Santa Ana | **0:0** | Pérez Zeledón <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pérez Zeledón/Pérez Zeledón_icon.png' alt='Pérez Zeledón' width='25%' height='25%' /> |
-| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD San Carlos/AD San Carlos_icon.png' alt='AD San Carlos' width='30%' height='30%' /> AD San Carlos | **2:00 AM** | Puntarenas FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Puntarenas FC/Puntarenas FC_icon.png' alt='Puntarenas FC' width='25%' height='25%' /> |
+| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD San Carlos/AD San Carlos_icon.png' alt='AD San Carlos' width='30%' height='30%' /> AD San Carlos | **2:1** | Puntarenas FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Puntarenas FC/Puntarenas FC_icon.png' alt='Puntarenas FC' width='25%' height='25%' /> |
 
 </div>
 
