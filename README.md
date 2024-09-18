@@ -443,6 +443,8 @@
 |:------|:----------|:-----:|:----------|
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Akron Togliatti/Akron Togliatti_icon.png' alt='Akron Togliatti' width='30%' height='30%' /> Akron Togliatti | **3:15 PM** | Fakel Voronezh <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fakel Voronezh/Fakel Voronezh_icon.png' alt='Fakel Voronezh' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rostov/Rostov_icon.png' alt='Rostov' width='30%' height='30%' /> Rostov | **6:00 PM** | Orenburg <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Orenburg/Orenburg_icon.png' alt='Orenburg' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CSKA Moscow/CSKA Moscow_icon.png' alt='CSKA Moscow' width='30%' height='30%' /> CSKA Moscow | **6:00 PM** | Krasnodar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Krasnodar/Krasnodar_icon.png' alt='Krasnodar' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dinamo Makhach./Dinamo Makhach._icon.png' alt='Dinamo Makhach.' width='30%' height='30%' /> Dinamo Makhach. | **8:15 PM** | Dynamo Moscow <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dynamo Moscow/Dynamo Moscow_icon.png' alt='Dynamo Moscow' width='25%' height='25%' /> |
 
 </div>
 
@@ -876,8 +878,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='30%' height='30%' /> Semen Padang | **10:30 AM** | Barito Putera <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barito Putera/Barito Putera_icon.png' alt='Barito Putera' width='25%' height='25%' /> |
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persik/Persik_icon.png' alt='Persik' width='30%' height='30%' /> Persik | **10:30 AM** | Persita <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persita/Persita_icon.png' alt='Persita' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='30%' height='30%' /> Semen Padang | **10:30 AM** | Barito Putera <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barito Putera/Barito Putera_icon.png' alt='Barito Putera' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persik/Persik_icon.png' alt='Persik' width='30%' height='30%' /> Persik | **10:30 AM** | Persita <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persita/Persita_icon.png' alt='Persita' width='25%' height='25%' /> |
 | matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persebaya/Persebaya_icon.png' alt='Persebaya' width='30%' height='30%' /> Persebaya | **2:00 PM** | PERSIS <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIS/PERSIS_icon.png' alt='PERSIS' width='25%' height='25%' /> |
 
 </div>
