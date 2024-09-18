@@ -296,7 +296,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nagoya Grampus/Nagoya Grampus_icon.png' alt='Nagoya Grampus' width='30%' height='30%' /> Nagoya Grampus | **12:00 PM** | Albirex Niigata <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Albirex Niigata/Albirex Niigata_icon.png' alt='Albirex Niigata' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nagoya Grampus/Nagoya Grampus_icon.png' alt='Nagoya Grampus' width='30%' height='30%' /> Nagoya Grampus | **12:00 PM** | Albirex Niigata <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Albirex Niigata/Albirex Niigata_icon.png' alt='Albirex Niigata' width='25%' height='25%' /> |
 
 </div>
 
@@ -306,7 +306,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tokushima Vort./Tokushima Vort._icon.png' alt='Tokushima Vort.' width='30%' height='30%' /> Tokushima Vort. | **12:00 PM** | Shimizu S-Pulse <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shimizu S-Pulse/Shimizu S-Pulse_icon.png' alt='Shimizu S-Pulse' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tokushima Vort./Tokushima Vort._icon.png' alt='Tokushima Vort.' width='30%' height='30%' /> Tokushima Vort. | **12:00 PM** | Shimizu S-Pulse <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shimizu S-Pulse/Shimizu S-Pulse_icon.png' alt='Shimizu S-Pulse' width='25%' height='25%' /> |
 
 </div>
 
@@ -878,8 +878,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='30%' height='30%' /> Semen Padang | **10:30 AM** | Barito Putera <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barito Putera/Barito Putera_icon.png' alt='Barito Putera' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persik/Persik_icon.png' alt='Persik' width='30%' height='30%' /> Persik | **10:30 AM** | Persita <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persita/Persita_icon.png' alt='Persita' width='25%' height='25%' /> |
+| 38' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='30%' height='30%' /> Semen Padang | **1:2** | Barito Putera <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barito Putera/Barito Putera_icon.png' alt='Barito Putera' width='25%' height='25%' /> |
+| 38' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persik/Persik_icon.png' alt='Persik' width='30%' height='30%' /> Persik | **1:0** | Persita <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persita/Persita_icon.png' alt='Persita' width='25%' height='25%' /> |
 | matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persebaya/Persebaya_icon.png' alt='Persebaya' width='30%' height='30%' /> Persebaya | **2:00 PM** | PERSIS <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIS/PERSIS_icon.png' alt='PERSIS' width='25%' height='25%' /> |
 
 </div>
