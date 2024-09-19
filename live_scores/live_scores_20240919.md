@@ -199,7 +199,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 46' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fuerte SF/Fuerte SF_icon.png' alt='Fuerte SF' width='30%' height='30%' /> Fuerte SF | **0:0** | Alianza FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza FC/Alianza FC_icon.png' alt='Alianza FC' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fuerte SF/Fuerte SF_icon.png' alt='Fuerte SF' width='30%' height='30%' /> Fuerte SF | **0:2** | Alianza FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza FC/Alianza FC_icon.png' alt='Alianza FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -393,7 +393,7 @@
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cienciano/Cienciano_icon.png' alt='Cienciano' width='30%' height='30%' /> Cienciano | **3:1** | Sport Huancayo <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sport Huancayo/Sport Huancayo_icon.png' alt='Sport Huancayo' width='25%' height='25%' /> |
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Universitario/Universitario_icon.png' alt='Universitario' width='30%' height='30%' /> Universitario | **3:0** | Sport Boys <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sport Boys/Sport Boys_icon.png' alt='Sport Boys' width='25%' height='25%' /> |
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Unión Comercio/Unión Comercio_icon.png' alt='Unión Comercio' width='30%' height='30%' /> Unión Comercio | **1:2** | Alianza Atl. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza Atl./Alianza Atl._icon.png' alt='Alianza Atl.' width='25%' height='25%' /> |
-| 92' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Los Chankas/Los Chankas_icon.png' alt='Los Chankas' width='30%' height='30%' /> Los Chankas | **1:1** | UTC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UTC/UTC_icon.png' alt='UTC' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Los Chankas/Los Chankas_icon.png' alt='Los Chankas' width='30%' height='30%' /> Los Chankas | **1:1** | UTC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UTC/UTC_icon.png' alt='UTC' width='25%' height='25%' /> |
 
 </div>
 
@@ -403,8 +403,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kirivong FC/Kirivong FC_icon.png' alt='Kirivong FC' width='30%' height='30%' /> Kirivong FC | **10:30 AM** | Angkor Tiger <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Angkor Tiger/Angkor Tiger_icon.png' alt='Angkor Tiger' width='25%' height='25%' /> |
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dangkor Senchey/Dangkor Senchey_icon.png' alt='Dangkor Senchey' width='30%' height='30%' /> Dangkor Senchey | **1:00 PM** | Tiffy Army FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tiffy Army FC/Tiffy Army FC_icon.png' alt='Tiffy Army FC' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kirivong FC/Kirivong FC_icon.png' alt='Kirivong FC' width='30%' height='30%' /> Kirivong FC | **1:3** | Angkor Tiger <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Angkor Tiger/Angkor Tiger_icon.png' alt='Angkor Tiger' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dangkor Senchey/Dangkor Senchey_icon.png' alt='Dangkor Senchey' width='30%' height='30%' /> Dangkor Senchey | **2:2** | Tiffy Army FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tiffy Army FC/Tiffy Army FC_icon.png' alt='Tiffy Army FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -479,11 +479,11 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ramat haSharon/Ramat haSharon_icon.png' alt='Ramat haSharon' width='30%' height='30%' /> Ramat haSharon | **12:00 AM** | Hapoel Acre <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Acre/Hapoel Acre_icon.png' alt='Hapoel Acre' width='25%' height='25%' /> |
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Nof HaGalil/H. Nof HaGalil_icon.png' alt='H. Nof HaGalil' width='30%' height='30%' /> H. Nof HaGalil | **12:00 AM** | Hapoel Tel Aviv <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Tel Aviv/Hapoel Tel Aviv_icon.png' alt='Hapoel Tel Aviv' width='25%' height='25%' /> |
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Afula/Hapoel Afula_icon.png' alt='Hapoel Afula' width='30%' height='30%' /> Hapoel Afula | **6:00 PM** | H. Ramat Gan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Ramat Gan/H. Ramat Gan_icon.png' alt='H. Ramat Gan' width='25%' height='25%' /> |
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Petah Tikva/H. Petah Tikva_icon.png' alt='H. Petah Tikva' width='30%' height='30%' /> H. Petah Tikva | **6:00 PM** | Maccabi Herzlya <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Maccabi Herzlya/Maccabi Herzlya_icon.png' alt='Maccabi Herzlya' width='25%' height='25%' /> |
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Raanana/Hapoel Raanana_icon.png' alt='Hapoel Raanana' width='30%' height='30%' /> Hapoel Raanana | **6:00 PM** | SC Kfar Qasem <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Kfar Qasem/SC Kfar Qasem_icon.png' alt='SC Kfar Qasem' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Afula/Hapoel Afula_icon.png' alt='Hapoel Afula' width='30%' height='30%' /> Hapoel Afula | **0:4** | H. Ramat Gan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Ramat Gan/H. Ramat Gan_icon.png' alt='H. Ramat Gan' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Petah Tikva/H. Petah Tikva_icon.png' alt='H. Petah Tikva' width='30%' height='30%' /> H. Petah Tikva | **1:0** | Maccabi Herzlya <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Maccabi Herzlya/Maccabi Herzlya_icon.png' alt='Maccabi Herzlya' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ramat haSharon/Ramat haSharon_icon.png' alt='Ramat haSharon' width='30%' height='30%' /> Ramat haSharon | **3:1** | Hapoel Acre <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Acre/Hapoel Acre_icon.png' alt='Hapoel Acre' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Raanana/Hapoel Raanana_icon.png' alt='Hapoel Raanana' width='30%' height='30%' /> Hapoel Raanana | **1:2** | SC Kfar Qasem <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Kfar Qasem/SC Kfar Qasem_icon.png' alt='SC Kfar Qasem' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Nof HaGalil/H. Nof HaGalil_icon.png' alt='H. Nof HaGalil' width='30%' height='30%' /> H. Nof HaGalil | **3:4** | Hapoel Tel Aviv <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Tel Aviv/Hapoel Tel Aviv_icon.png' alt='Hapoel Tel Aviv' width='25%' height='25%' /> |
 
 </div>
 
@@ -526,7 +526,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 30 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD 9 de Octubre/AD 9 de Octubre_icon.png' alt='AD 9 de Octubre' width='30%' height='30%' /> AD 9 de Octubre | **10:30 PM** | Ind. Jrs. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ind. Jrs./Ind. Jrs._icon.png' alt='Ind. Jrs.' width='25%' height='25%' /> |
+| matchday 30 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD 9 de Octubre/AD 9 de Octubre_icon.png' alt='AD 9 de Octubre' width='30%' height='30%' /> AD 9 de Octubre | **2:2** | Ind. Jrs. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ind. Jrs./Ind. Jrs._icon.png' alt='Ind. Jrs.' width='25%' height='25%' /> |
 
 </div>
 
