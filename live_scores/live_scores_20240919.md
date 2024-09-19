@@ -285,7 +285,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| intermediate stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CA Juanicó/CA Juanicó_icon.png' alt='CA Juanicó' width='30%' height='30%' /> CA Juanicó | **1:30 AM** | Boston River <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Boston River/Boston River_icon.png' alt='Boston River' width='25%' height='25%' /> |
+| intermediate stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CA Juanicó/CA Juanicó_icon.png' alt='CA Juanicó' width='30%' height='30%' /> CA Juanicó | **0:2** | Boston River <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Boston River/Boston River_icon.png' alt='Boston River' width='25%' height='25%' /> |
 | intermediate stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Carlos/San Carlos_icon.png' alt='San Carlos' width='30%' height='30%' /> San Carlos | **0:2** | Albion FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Albion FC/Albion FC_icon.png' alt='Albion FC' width='25%' height='25%' /> |
 
 </div>
@@ -435,8 +435,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santa Ana/Santa Ana_icon.png' alt='Santa Ana' width='30%' height='30%' /> Santa Ana | **12:00 AM** | Santos FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos FC/Santos FC_icon.png' alt='Santos FC' width='25%' height='25%' /> |
-| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Puntarenas FC/Puntarenas FC_icon.png' alt='Puntarenas FC' width='30%' height='30%' /> Puntarenas FC | **2:30 AM** | Guanacasteca <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guanacasteca/Guanacasteca_icon.png' alt='Guanacasteca' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santa Ana/Santa Ana_icon.png' alt='Santa Ana' width='30%' height='30%' /> Santa Ana | **1:1** | Santos FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos FC/Santos FC_icon.png' alt='Santos FC' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Puntarenas FC/Puntarenas FC_icon.png' alt='Puntarenas FC' width='30%' height='30%' /> Puntarenas FC | **0:0** | Guanacasteca <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guanacasteca/Guanacasteca_icon.png' alt='Guanacasteca' width='25%' height='25%' /> |
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Saprissa/Saprissa_icon.png' alt='Saprissa' width='30%' height='30%' /> Saprissa | **3:2** | AD San Carlos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD San Carlos/AD San Carlos_icon.png' alt='AD San Carlos' width='25%' height='25%' /> |
 
 </div>
