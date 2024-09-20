@@ -60,7 +60,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 27 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CRB/CRB_icon.png' alt='CRB' width='30%' height='30%' /> CRB | **0:1** | Ponte Preta <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ponte Preta/Ponte Preta_icon.png' alt='Ponte Preta' width='25%' height='25%' /> |
-| 4' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Botafogo-SP/Botafogo-SP_icon.png' alt='Botafogo-SP' width='30%' height='30%' /> Botafogo-SP | **0:0** | Santos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos/Santos_icon.png' alt='Santos' width='25%' height='25%' /> |
+| 76' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Botafogo-SP/Botafogo-SP_icon.png' alt='Botafogo-SP' width='30%' height='30%' /> Botafogo-SP | **0:1** | Santos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos/Santos_icon.png' alt='Santos' width='25%' height='25%' /> |
 
 </div>
 
@@ -431,8 +431,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 5' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Athletico-PR/Athletico-PR_icon.png' alt='Athletico-PR' width='30%' height='30%' /> Athletico-PR | **0:0** | Racing Club <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Racing Club/Racing Club_icon.png' alt='Racing Club' width='25%' height='25%' /> |
-| 3' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Libertad/Libertad_icon.png' alt='Libertad' width='30%' height='30%' /> Libertad | **0:0** | Cruzeiro <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cruzeiro/Cruzeiro_icon.png' alt='Cruzeiro' width='25%' height='25%' /> |
+| 80' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Athletico-PR/Athletico-PR_icon.png' alt='Athletico-PR' width='30%' height='30%' /> Athletico-PR | **1:0** | Racing Club <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Racing Club/Racing Club_icon.png' alt='Racing Club' width='25%' height='25%' /> |
+| 77' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Libertad/Libertad_icon.png' alt='Libertad' width='30%' height='30%' /> Libertad | **0:2** | Cruzeiro <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cruzeiro/Cruzeiro_icon.png' alt='Cruzeiro' width='25%' height='25%' /> |
 
 </div>
 
@@ -472,7 +472,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CA Mannucci/CA Mannucci_icon.png' alt='CA Mannucci' width='30%' height='30%' /> CA Mannucci | **3:00 AM** | FBC Melgar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FBC Melgar/FBC Melgar_icon.png' alt='FBC Melgar' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CA Mannucci/CA Mannucci_icon.png' alt='CA Mannucci' width='30%' height='30%' /> CA Mannucci | **0:0 HT** | FBC Melgar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FBC Melgar/FBC Melgar_icon.png' alt='FBC Melgar' width='25%' height='25%' /> |
 
 </div>
 
@@ -1007,8 +1007,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 62' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olancho FC/Olancho FC_icon.png' alt='Olancho FC' width='30%' height='30%' /> Olancho FC | **1:1** | CD Olimpia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Olimpia/CD Olimpia_icon.png' alt='CD Olimpia' width='25%' height='25%' /> |
-| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real España/Real España_icon.png' alt='Real España' width='30%' height='30%' /> Real España | **3:30 AM** | CD Victoria <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Victoria/CD Victoria_icon.png' alt='CD Victoria' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olancho FC/Olancho FC_icon.png' alt='Olancho FC' width='30%' height='30%' /> Olancho FC | **1:2** | CD Olimpia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Olimpia/CD Olimpia_icon.png' alt='CD Olimpia' width='25%' height='25%' /> |
+| 37' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real España/Real España_icon.png' alt='Real España' width='30%' height='30%' /> Real España | **1:0** | CD Victoria <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Victoria/CD Victoria_icon.png' alt='CD Victoria' width='25%' height='25%' /> |
 
 </div>
 
@@ -1018,8 +1018,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sporting FC/Sporting FC_icon.png' alt='Sporting FC' width='30%' height='30%' /> Sporting FC | **4:00 AM** | LD Alajuelense <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LD Alajuelense/LD Alajuelense_icon.png' alt='LD Alajuelense' width='25%' height='25%' /> |
-| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pérez Zeledón/Pérez Zeledón_icon.png' alt='Pérez Zeledón' width='30%' height='30%' /> Pérez Zeledón | **4:00 AM** | Cartaginés <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cartaginés/Cartaginés_icon.png' alt='Cartaginés' width='25%' height='25%' /> |
+| 6' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sporting FC/Sporting FC_icon.png' alt='Sporting FC' width='30%' height='30%' /> Sporting FC | **0:0** | LD Alajuelense <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LD Alajuelense/LD Alajuelense_icon.png' alt='LD Alajuelense' width='25%' height='25%' /> |
+| 7' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pérez Zeledón/Pérez Zeledón_icon.png' alt='Pérez Zeledón' width='30%' height='30%' /> Pérez Zeledón | **0:0** | Cartaginés <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cartaginés/Cartaginés_icon.png' alt='Cartaginés' width='25%' height='25%' /> |
 
 </div>
 
