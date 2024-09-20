@@ -819,7 +819,6 @@
 |:------|:----------|:-----:|:----------|
 | matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hobro IK/Hobro IK_icon.png' alt='Hobro IK' width='30%' height='30%' /> Hobro IK | **6:30 PM** | Kolding IF <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kolding IF/Kolding IF_icon.png' alt='Kolding IF' width='25%' height='25%' /> |
 | matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/HB Köge/HB Köge_icon.png' alt='HB Köge' width='30%' height='30%' /> HB Köge | **7:00 PM** | Vendsyssel FF <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vendsyssel FF/Vendsyssel FF_icon.png' alt='Vendsyssel FF' width='25%' height='25%' /> |
-| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hilleröd F/Hilleröd F_icon.png' alt='Hilleröd F' width='30%' height='30%' /> Hilleröd F | **7:00 PM** | FC Fredericia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Fredericia/FC Fredericia_icon.png' alt='FC Fredericia' width='25%' height='25%' /> |
 
 </div>
 
