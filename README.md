@@ -85,6 +85,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Super League 2/Super League 2_icon.png' alt='Super League 2' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Super League 2
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Diagoras/Diagoras_icon.png' alt='Diagoras' width='30%' height='30%' /> Diagoras | **0:0** | Makedonikos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Makedonikos/Makedonikos_icon.png' alt='Makedonikos' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Superliga/Superliga_icon.png' alt='Superliga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Superliga
 
 <div align='center'>
@@ -533,7 +543,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nam Dinh FC/Nam Dinh FC_icon.png' alt='Nam Dinh FC' width='30%' height='30%' /> Nam Dinh FC | **1:00 PM** | Quang Nam FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quang Nam FC/Quang Nam FC_icon.png' alt='Quang Nam FC' width='25%' height='25%' /> |
+| matchday 2 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nam Dinh FC/Nam Dinh FC_icon.png' alt='Nam Dinh FC' width='30%' height='30%' /> Nam Dinh FC | **1:0** | Quang Nam FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quang Nam FC/Quang Nam FC_icon.png' alt='Quang Nam FC' width='25%' height='25%' /> |
 
 </div>
 
