@@ -222,7 +222,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 4' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Osaka/FC Osaka_icon.png' alt='FC Osaka' width='30%' height='30%' /> FC Osaka | **0:0** | Fukushima Utd. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fukushima Utd./Fukushima Utd._icon.png' alt='Fukushima Utd.' width='25%' height='25%' /> |
+| 52' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Osaka/FC Osaka_icon.png' alt='FC Osaka' width='30%' height='30%' /> FC Osaka | **0:1** | Fukushima Utd. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fukushima Utd./Fukushima Utd._icon.png' alt='Fukushima Utd.' width='25%' height='25%' /> |
 
 </div>
 
@@ -234,6 +234,16 @@
 |:------|:----------|:-----:|:----------|
 | matchday 21 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Reilac Shiga/Reilac Shiga_icon.png' alt='Reilac Shiga' width='30%' height='30%' /> Reilac Shiga | **6:00 AM** | Briobe. Urayasu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Briobe. Urayasu/Briobe. Urayasu_icon.png' alt='Briobe. Urayasu' width='25%' height='25%' /> |
 | matchday 21 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atletico Suzuka/Atletico Suzuka_icon.png' alt='Atletico Suzuka' width='30%' height='30%' /> Atletico Suzuka | **8:00 AM** | Yoko. Musashino <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Yoko. Musashino/Yoko. Musashino_icon.png' alt='Yoko. Musashino' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prince Takamado U18 Premier League West/Prince Takamado U18 Premier League West_icon.png' alt='Prince Takamado U18 Premier League West' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Prince Takamado U18 Premier League West
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hig. Fukuoka HS/Hig. Fukuoka HS_icon.png' alt='Hig. Fukuoka HS' width='30%' height='30%' /> Hig. Fukuoka HS | **0:2** | Vissel U18 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vissel U18/Vissel U18_icon.png' alt='Vissel U18' width='25%' height='25%' /> |
 
 </div>
 
