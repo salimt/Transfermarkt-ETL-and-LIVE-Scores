@@ -390,6 +390,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Druga Liga/Druga Liga_icon.png' alt='Druga Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Druga Liga
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vorskla-2/Vorskla-2_icon.png' alt='Vorskla-2' width='30%' height='30%' /> Vorskla-2 | **0:1** | Chernigiv <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chernigiv/Chernigiv_icon.png' alt='Chernigiv' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Challenge League/Challenge League_icon.png' alt='Challenge League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Challenge League
 
 <div align='center'>
@@ -534,6 +544,9 @@
 |:------|:----------|:-----:|:----------|
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cambodia U20/Cambodia U20_icon.png' alt='Cambodia U20' width='30%' height='30%' /> Cambodia U20 | **0:7** | Uzbekistan U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Uzbekistan U20/Uzbekistan U20_icon.png' alt='Uzbekistan U20' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guam U20/Guam U20_icon.png' alt='Guam U20' width='30%' height='30%' /> Guam U20 | **2:2** | Bangladesh U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bangladesh U20/Bangladesh U20_icon.png' alt='Bangladesh U20' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nepal U20/Nepal U20_icon.png' alt='Nepal U20' width='30%' height='30%' /> Nepal U20 | **3:1** | C. Taipei U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/C. Taipei U20/C. Taipei U20_icon.png' alt='C. Taipei U20' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bhutan U20/Bhutan U20_icon.png' alt='Bhutan U20' width='30%' height='30%' /> Bhutan U20 | **0:5** | Vietnam U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vietnam U20/Vietnam U20_icon.png' alt='Vietnam U20' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/North Korea U20/North Korea U20_icon.png' alt='North Korea U20' width='30%' height='30%' /> North Korea U20 | **0:0** | Malaysia U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malaysia U20/Malaysia U20_icon.png' alt='Malaysia U20' width='25%' height='25%' /> |
 
 </div>
 
@@ -566,7 +579,7 @@
 |:------|:----------|:-----:|:----------|
 | matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIS/PERSIS_icon.png' alt='PERSIS' width='30%' height='30%' /> PERSIS | **0:1** | Persik <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persik/Persik_icon.png' alt='Persik' width='25%' height='25%' /> |
 | matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIB/PERSIB_icon.png' alt='PERSIB' width='30%' height='30%' /> PERSIB | **2:0** | Persija <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persija/Persija_icon.png' alt='Persija' width='25%' height='25%' /> |
-| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barito Putera/Barito Putera_icon.png' alt='Barito Putera' width='30%' height='30%' /> Barito Putera | **2:00 PM** | Borneo FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Borneo FC/Borneo FC_icon.png' alt='Borneo FC' width='25%' height='25%' /> |
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barito Putera/Barito Putera_icon.png' alt='Barito Putera' width='30%' height='30%' /> Barito Putera | **1:1** | Borneo FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Borneo FC/Borneo FC_icon.png' alt='Borneo FC' width='25%' height='25%' /> |
 
 </div>
 
