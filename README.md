@@ -370,6 +370,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U19 Premier Liga/U19 Premier Liga_icon.png' alt='U19 Premier Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> U19 Premier Liga
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shakhtar U19/Shakhtar U19_icon.png' alt='Shakhtar U19' width='30%' height='30%' /> Shakhtar U19 | **0:0** | Obolon U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Obolon U19/Obolon U19_icon.png' alt='Obolon U19' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Challenge League/Challenge League_icon.png' alt='Challenge League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Challenge League
 
 <div align='center'>
@@ -503,6 +513,17 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CS Emelec/CS Emelec_icon.png' alt='CS Emelec' width='30%' height='30%' /> CS Emelec | **3:1** | Técnico U. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Técnico U./Técnico U._icon.png' alt='Técnico U.' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AFC U20 Asian Cup qualification/AFC U20 Asian Cup qualification_icon.png' alt='AFC U20 Asian Cup qualification' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> AFC U20 Asian Cup qualification
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cambodia U20/Cambodia U20_icon.png' alt='Cambodia U20' width='30%' height='30%' /> Cambodia U20 | **0:7** | Uzbekistan U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Uzbekistan U20/Uzbekistan U20_icon.png' alt='Uzbekistan U20' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guam U20/Guam U20_icon.png' alt='Guam U20' width='30%' height='30%' /> Guam U20 | **2:2** | Bangladesh U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bangladesh U20/Bangladesh U20_icon.png' alt='Bangladesh U20' width='25%' height='25%' /> |
 
 </div>
 
