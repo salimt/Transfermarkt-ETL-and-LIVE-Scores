@@ -28,7 +28,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 73' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Criciúma EC/Criciúma EC_icon.png' alt='Criciúma EC' width='30%' height='30%' /> Criciúma EC | **0:0** | Athletico-PR <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Athletico-PR/Athletico-PR_icon.png' alt='Athletico-PR' width='25%' height='25%' /> |
+| matchday 27 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Criciúma EC/Criciúma EC_icon.png' alt='Criciúma EC' width='30%' height='30%' /> Criciúma EC | **0:0** | Athletico-PR <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Athletico-PR/Athletico-PR_icon.png' alt='Athletico-PR' width='25%' height='25%' /> |
 
 </div>
 
@@ -169,8 +169,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos Laguna/Santos Laguna_icon.png' alt='Santos Laguna' width='30%' height='30%' /> Santos Laguna | **3:05 AM** | Toluca <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Toluca/Toluca_icon.png' alt='Toluca' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Juárez/FC Juárez_icon.png' alt='FC Juárez' width='30%' height='30%' /> FC Juárez | **3:10 AM** | Tigres UANL <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tigres UANL/Tigres UANL_icon.png' alt='Tigres UANL' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos Laguna/Santos Laguna_icon.png' alt='Santos Laguna' width='30%' height='30%' /> Santos Laguna | **1:0 HT** | Toluca <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Toluca/Toluca_icon.png' alt='Toluca' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Juárez/FC Juárez_icon.png' alt='FC Juárez' width='30%' height='30%' /> FC Juárez | **0:0 HT** | Tigres UANL <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tigres UANL/Tigres UANL_icon.png' alt='Tigres UANL' width='25%' height='25%' /> |
 
 </div>
 
@@ -201,8 +201,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 53' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza FC/Alianza FC_icon.png' alt='Alianza FC' width='30%' height='30%' /> Alianza FC | **0:0** | CD América <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD América/CD América_icon.png' alt='CD América' width='25%' height='25%' /> |
-| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Junior FC/Junior FC_icon.png' alt='Junior FC' width='30%' height='30%' /> Junior FC | **3:30 AM** | Rionegro Águila <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rionegro Águila/Rionegro Águila_icon.png' alt='Rionegro Águila' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza FC/Alianza FC_icon.png' alt='Alianza FC' width='30%' height='30%' /> Alianza FC | **0:1** | CD América <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD América/CD América_icon.png' alt='CD América' width='25%' height='25%' /> |
+| 37' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Junior FC/Junior FC_icon.png' alt='Junior FC' width='30%' height='30%' /> Junior FC | **0:2** | Rionegro Águila <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rionegro Águila/Rionegro Águila_icon.png' alt='Rionegro Águila' width='25%' height='25%' /> |
 
 </div>
 
@@ -212,7 +212,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/The Strongest/The Strongest_icon.png' alt='The Strongest' width='30%' height='30%' /> The Strongest | **0:0 HT** | Club Blooming <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Club Blooming/Club Blooming_icon.png' alt='Club Blooming' width='25%' height='25%' /> |
+| matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/The Strongest/The Strongest_icon.png' alt='The Strongest' width='30%' height='30%' /> The Strongest | **1:1** | Club Blooming <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Club Blooming/Club Blooming_icon.png' alt='Club Blooming' width='25%' height='25%' /> |
 
 </div>
 
@@ -274,7 +274,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guaraní/Guaraní_icon.png' alt='Guaraní' width='30%' height='30%' /> Guaraní | **1:30 AM** | Olimpia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olimpia/Olimpia_icon.png' alt='Olimpia' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guaraní/Guaraní_icon.png' alt='Guaraní' width='30%' height='30%' /> Guaraní | **0:0** | Olimpia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olimpia/Olimpia_icon.png' alt='Olimpia' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2 de Mayo/2 de Mayo_icon.png' alt='2 de Mayo' width='30%' height='30%' /> 2 de Mayo | **11:30 PM** | Sol de América <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sol de América/Sol de América_icon.png' alt='Sol de América' width='25%' height='25%' /> |
 
 </div>
@@ -307,7 +307,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Universitario/Universitario_icon.png' alt='Universitario' width='30%' height='30%' /> Universitario | **1:0** | Unión Comercio <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Unión Comercio/Unión Comercio_icon.png' alt='Unión Comercio' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/César Vallejo/César Vallejo_icon.png' alt='César Vallejo' width='30%' height='30%' /> César Vallejo | **3:00 AM** | AD Tarma <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD Tarma/AD Tarma_icon.png' alt='AD Tarma' width='25%' height='25%' /> |
+| 48' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/César Vallejo/César Vallejo_icon.png' alt='César Vallejo' width='30%' height='30%' /> César Vallejo | **0:0** | AD Tarma <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD Tarma/AD Tarma_icon.png' alt='AD Tarma' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza Atl./Alianza Atl._icon.png' alt='Alianza Atl.' width='30%' height='30%' /> Alianza Atl. | **8:00 PM** | Comerciantes <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Comerciantes/Comerciantes_icon.png' alt='Comerciantes' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UTC/UTC_icon.png' alt='UTC' width='30%' height='30%' /> UTC | **10:15 PM** | CA Mannucci <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CA Mannucci/CA Mannucci_icon.png' alt='CA Mannucci' width='25%' height='25%' /> |
 
@@ -640,8 +640,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 65' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lobos UPNFM/Lobos UPNFM_icon.png' alt='Lobos UPNFM' width='30%' height='30%' /> Lobos UPNFM | **0:0** | Real España <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real España/Real España_icon.png' alt='Real España' width='25%' height='25%' /> |
-| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Marathón/Marathón_icon.png' alt='Marathón' width='30%' height='30%' /> Marathón | **3:30 AM** | Olancho FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olancho FC/Olancho FC_icon.png' alt='Olancho FC' width='25%' height='25%' /> |
+| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lobos UPNFM/Lobos UPNFM_icon.png' alt='Lobos UPNFM' width='30%' height='30%' /> Lobos UPNFM | **1:0** | Real España <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real España/Real España_icon.png' alt='Real España' width='25%' height='25%' /> |
+| 39' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Marathón/Marathón_icon.png' alt='Marathón' width='30%' height='30%' /> Marathón | **2:0** | Olancho FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olancho FC/Olancho FC_icon.png' alt='Olancho FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -651,7 +651,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Veraguas United/Veraguas United_icon.png' alt='Veraguas United' width='30%' height='30%' /> Veraguas United | **2:00 AM** | Potros del Este <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Potros del Este/Potros del Este_icon.png' alt='Potros del Este' width='25%' height='25%' /> |
+| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Veraguas United/Veraguas United_icon.png' alt='Veraguas United' width='30%' height='30%' /> Veraguas United | **4:0** | Potros del Este <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Potros del Este/Potros del Este_icon.png' alt='Potros del Este' width='25%' height='25%' /> |
 
 </div>
 
@@ -661,7 +661,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guanacasteca/Guanacasteca_icon.png' alt='Guanacasteca' width='30%' height='30%' /> Guanacasteca | **3:00 AM** | Sporting FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sporting FC/Sporting FC_icon.png' alt='Sporting FC' width='25%' height='25%' /> |
+| 53' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guanacasteca/Guanacasteca_icon.png' alt='Guanacasteca' width='30%' height='30%' /> Guanacasteca | **0:1** | Sporting FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sporting FC/Sporting FC_icon.png' alt='Sporting FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -698,7 +698,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 72' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CS Emelec/CS Emelec_icon.png' alt='CS Emelec' width='30%' height='30%' /> CS Emelec | **3:1** | Técnico U. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Técnico U./Técnico U._icon.png' alt='Técnico U.' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CS Emelec/CS Emelec_icon.png' alt='CS Emelec' width='30%' height='30%' /> CS Emelec | **3:1** | Técnico U. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Técnico U./Técnico U._icon.png' alt='Técnico U.' width='25%' height='25%' /> |
 
 </div>
 
