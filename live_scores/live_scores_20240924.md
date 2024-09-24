@@ -705,7 +705,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD San Carlos/AD San Carlos_icon.png' alt='AD San Carlos' width='30%' height='30%' /> AD San Carlos | **3:00 AM** | Santos FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos FC/Santos FC_icon.png' alt='Santos FC' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD San Carlos/AD San Carlos_icon.png' alt='AD San Carlos' width='30%' height='30%' /> AD San Carlos | **2:2** | Santos FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos FC/Santos FC_icon.png' alt='Santos FC' width='25%' height='25%' /> |
 
 </div>
 
