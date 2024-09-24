@@ -249,9 +249,9 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chungnam Asan/Chungnam Asan_icon.png' alt='Chungnam Asan' width='30%' height='30%' /> Chungnam Asan | **12:30 PM** | Cheonan City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cheonan City/Cheonan City_icon.png' alt='Cheonan City' width='25%' height='25%' /> |
-| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Seoul E-Land/Seoul E-Land_icon.png' alt='Seoul E-Land' width='30%' height='30%' /> Seoul E-Land | **12:30 PM** | FC Anyang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Anyang/FC Anyang_icon.png' alt='FC Anyang' width='25%' height='25%' /> |
-| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ansan Greeners/Ansan Greeners_icon.png' alt='Ansan Greeners' width='30%' height='30%' /> Ansan Greeners | **12:30 PM** | Cheongju FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cheongju FC/Cheongju FC_icon.png' alt='Cheongju FC' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chungnam Asan/Chungnam Asan_icon.png' alt='Chungnam Asan' width='30%' height='30%' /> Chungnam Asan | **12:30 PM** | Cheonan City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cheonan City/Cheonan City_icon.png' alt='Cheonan City' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Seoul E-Land/Seoul E-Land_icon.png' alt='Seoul E-Land' width='30%' height='30%' /> Seoul E-Land | **12:30 PM** | FC Anyang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Anyang/FC Anyang_icon.png' alt='FC Anyang' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ansan Greeners/Ansan Greeners_icon.png' alt='Ansan Greeners' width='30%' height='30%' /> Ansan Greeners | **12:30 PM** | Cheongju FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cheongju FC/Cheongju FC_icon.png' alt='Cheongju FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -580,7 +580,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dinaz Vyshgorod/Dinaz Vyshgorod_icon.png' alt='Dinaz Vyshgorod' width='30%' height='30%' /> Dinaz Vyshgorod | **12:00 PM** | Viktoriya <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Viktoriya/Viktoriya_icon.png' alt='Viktoriya' width='25%' height='25%' /> |
+| 5' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dinaz Vyshgorod/Dinaz Vyshgorod_icon.png' alt='Dinaz Vyshgorod' width='30%' height='30%' /> Dinaz Vyshgorod | **1:0** | Viktoriya <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Viktoriya/Viktoriya_icon.png' alt='Viktoriya' width='25%' height='25%' /> |
 
 </div>
 
