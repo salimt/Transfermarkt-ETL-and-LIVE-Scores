@@ -99,6 +99,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landespokal Niederrhein/Landespokal Niederrhein_icon.png' alt='Landespokal Niederrhein' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Landespokal Niederrhein
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Adler Frintrop/Adler Frintrop_icon.png' alt='Adler Frintrop' width='30%' height='30%' /> Adler Frintrop | **0:3** | RW Oberhausen <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/RW Oberhausen/RW Oberhausen_icon.png' alt='RW Oberhausen' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera Nacional/Primera Nacional_icon.png' alt='Primera Nacional' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Primera Nacional
 
 <div align='center'>
@@ -140,7 +150,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CBJ Cali/CBJ Cali_icon.png' alt='CBJ Cali' width='30%' height='30%' /> CBJ Cali | **4:3** | Real Santander <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real Santander/Real Santander_icon.png' alt='Real Santander' width='25%' height='25%' /> |
-| 75' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Orsomarso SC/Orsomarso SC_icon.png' alt='Orsomarso SC' width='30%' height='30%' /> Orsomarso SC | **1:0** | Llaneros FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Llaneros FC/Llaneros FC_icon.png' alt='Llaneros FC' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Orsomarso SC/Orsomarso SC_icon.png' alt='Orsomarso SC' width='30%' height='30%' /> Orsomarso SC | **1:1** | Llaneros FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Llaneros FC/Llaneros FC_icon.png' alt='Llaneros FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -495,7 +505,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 25 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Palestino/Palestino_icon.png' alt='Palestino' width='30%' height='30%' /> Palestino | **2:0** | CD Iquique <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Iquique/CD Iquique_icon.png' alt='CD Iquique' width='25%' height='25%' /> |
-| 70' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cobreloa/Cobreloa_icon.png' alt='Cobreloa' width='30%' height='30%' /> Cobreloa | **0:0** | Ñublense <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ñublense/Ñublense_icon.png' alt='Ñublense' width='25%' height='25%' /> |
+| matchday 25 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cobreloa/Cobreloa_icon.png' alt='Cobreloa' width='30%' height='30%' /> Cobreloa | **0:1** | Ñublense <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ñublense/Ñublense_icon.png' alt='Ñublense' width='25%' height='25%' /> |
 
 </div>
 
@@ -753,6 +763,17 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hamburg U19/Hamburg U19_icon.png' alt='Hamburg U19' width='30%' height='30%' /> Hamburg U19 | **3:0** | St. Pauli U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/St. Pauli U19/St. Pauli U19_icon.png' alt='St. Pauli U19' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landesliga Steiermark/Landesliga Steiermark_icon.png' alt='Landesliga Steiermark' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Landesliga Steiermark
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Schladming/Schladming_icon.png' alt='Schladming' width='30%' height='30%' /> Schladming | **1:0** | Heiligenkreuz <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Heiligenkreuz/Heiligenkreuz_icon.png' alt='Heiligenkreuz' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Allerheiligen/Allerheiligen_icon.png' alt='Allerheiligen' width='30%' height='30%' /> Allerheiligen | **1:2** | Bad Waltersdorf <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bad Waltersdorf/Bad Waltersdorf_icon.png' alt='Bad Waltersdorf' width='25%' height='25%' /> |
 
 </div>
 
