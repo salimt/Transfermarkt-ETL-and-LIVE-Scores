@@ -43,6 +43,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CONCACAF Central American Cup/CONCACAF Central American Cup_icon.png' alt='CONCACAF Central American Cup' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> CONCACAF Central American Cup
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| Quarter-Finals | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Antigua GFC/Antigua GFC_icon.png' alt='Antigua GFC' width='30%' height='30%' /> Antigua GFC | **0:0** | Saprissa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Saprissa/Saprissa_icon.png' alt='Saprissa' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/3. Liga/3. Liga_icon.png' alt='3. Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> 3. Liga
 
 <div align='center'>
