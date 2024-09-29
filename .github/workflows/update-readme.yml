@@ -2,7 +2,7 @@ name: Update Live Scores
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # Runs every day at 1 AM UTC
+    ## - cron: '0 1 * * *'  # Runs every day at 1 AM UTC
   workflow_dispatch:  # Allows manual trigger of the workflow
 
 jobs:
