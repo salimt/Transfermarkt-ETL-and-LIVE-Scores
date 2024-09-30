@@ -213,7 +213,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 89' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ferro/Ferro_icon.png' alt='Ferro' width='30%' height='30%' /> Ferro | **3:2** | Dep. Maipú <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dep. Maipú/Dep. Maipú_icon.png' alt='Dep. Maipú' width='25%' height='25%' /> |
+| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ferro/Ferro_icon.png' alt='Ferro' width='30%' height='30%' /> Ferro | **2:2** | Dep. Maipú <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dep. Maipú/Dep. Maipú_icon.png' alt='Dep. Maipú' width='25%' height='25%' /> |
 
 </div>
 
@@ -245,7 +245,7 @@
 |:------|:----------|:-----:|:----------|
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Deportes Tolima/Deportes Tolima_icon.png' alt='Deportes Tolima' width='30%' height='30%' /> Deportes Tolima | **0:0** | Indep. Santa Fe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indep. Santa Fe/Indep. Santa Fe_icon.png' alt='Indep. Santa Fe' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Deportivo Pasto/Deportivo Pasto_icon.png' alt='Deportivo Pasto' width='30%' height='30%' /> Deportivo Pasto | **1:0** | Alianza FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza FC/Alianza FC_icon.png' alt='Alianza FC' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Patriotas/Patriotas_icon.png' alt='Patriotas' width='30%' height='30%' /> Patriotas | **0:1 HT** | Deportivo Cali <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Deportivo Cali/Deportivo Cali_icon.png' alt='Deportivo Cali' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Patriotas/Patriotas_icon.png' alt='Patriotas' width='30%' height='30%' /> Patriotas | **2:2** | Deportivo Cali <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Deportivo Cali/Deportivo Cali_icon.png' alt='Deportivo Cali' width='25%' height='25%' /> |
 
 </div>
 
@@ -464,7 +464,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 26 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U. Católica/U. Católica_icon.png' alt='U. Católica' width='30%' height='30%' /> U. Católica | **0:2** | Union Española <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Union Española/Union Española_icon.png' alt='Union Española' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Huachipato/Huachipato_icon.png' alt='Huachipato' width='30%' height='30%' /> Huachipato | **1:0 HT** | Coquimbo Unido <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Coquimbo Unido/Coquimbo Unido_icon.png' alt='Coquimbo Unido' width='25%' height='25%' /> |
+| matchday 26 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Huachipato/Huachipato_icon.png' alt='Huachipato' width='30%' height='30%' /> Huachipato | **3:2** | Coquimbo Unido <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Coquimbo Unido/Coquimbo Unido_icon.png' alt='Coquimbo Unido' width='25%' height='25%' /> |
 
 </div>
 
@@ -669,6 +669,17 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Leumit/Liga Leumit_icon.png' alt='Liga Leumit' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga Leumit
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Afula/Hapoel Afula_icon.png' alt='Hapoel Afula' width='30%' height='30%' /> Hapoel Afula | **2:2** | Bnei Yehuda <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bnei Yehuda/Bnei Yehuda_icon.png' alt='Bnei Yehuda' width='25%' height='25%' /> |
+| matchday 21 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Raanana/Hapoel Raanana_icon.png' alt='Hapoel Raanana' width='30%' height='30%' /> Hapoel Raanana | **2:1** | Hapoel Acre <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hapoel Acre/Hapoel Acre_icon.png' alt='Hapoel Acre' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ligat ha/Ligat ha_Al_icon.png' alt='Ligat haAl' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Ligat haAl
 
 <div align='center'>
@@ -761,7 +772,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barcelona SC/Barcelona SC_icon.png' alt='Barcelona SC' width='30%' height='30%' /> Barcelona SC | **0:0** | Libertad FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Libertad FC/Libertad FC_icon.png' alt='Libertad FC' width='25%' height='25%' /> |
-| 68' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Técnico U./Técnico U._icon.png' alt='Técnico U.' width='30%' height='30%' /> Técnico U. | **2:2** | Mushuc Runa SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mushuc Runa SC/Mushuc Runa SC_icon.png' alt='Mushuc Runa SC' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Técnico U./Técnico U._icon.png' alt='Técnico U.' width='30%' height='30%' /> Técnico U. | **2:2** | Mushuc Runa SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mushuc Runa SC/Mushuc Runa SC_icon.png' alt='Mushuc Runa SC' width='25%' height='25%' /> |
 
 </div>
 
