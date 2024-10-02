@@ -116,7 +116,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 28' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rosario Central/Rosario Central_icon.png' alt='Rosario Central' width='30%' height='30%' /> Rosario Central | **0:0** | Vélez Sarsfield <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vélez Sarsfield/Vélez Sarsfield_icon.png' alt='Vélez Sarsfield' width='25%' height='25%' /> |
+| 68' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rosario Central/Rosario Central_icon.png' alt='Rosario Central' width='30%' height='30%' /> Rosario Central | **1:0** | Vélez Sarsfield <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vélez Sarsfield/Vélez Sarsfield_icon.png' alt='Vélez Sarsfield' width='25%' height='25%' /> |
 
 </div>
 
@@ -149,7 +149,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Round of 16 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Millonarios/Millonarios_icon.png' alt='Millonarios' width='30%' height='30%' /> Millonarios | **3:00 AM** | A. Bucaramanga <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/A. Bucaramanga/A. Bucaramanga_icon.png' alt='A. Bucaramanga' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Millonarios/Millonarios_icon.png' alt='Millonarios' width='30%' height='30%' /> Millonarios | **3:00 AM** | A. Bucaramanga <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/A. Bucaramanga/A. Bucaramanga_icon.png' alt='A. Bucaramanga' width='25%' height='25%' /> |
 
 </div>
 
@@ -255,7 +255,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 64' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Knoxville/Knoxville_icon.png' alt='Knoxville' width='30%' height='30%' /> Knoxville | **1:1** | Forward Madison <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Forward Madison/Forward Madison_icon.png' alt='Forward Madison' width='25%' height='25%' /> |
+| matchday 25 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Knoxville/Knoxville_icon.png' alt='Knoxville' width='30%' height='30%' /> Knoxville | **1:1** | Forward Madison <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Forward Madison/Forward Madison_icon.png' alt='Forward Madison' width='25%' height='25%' /> |
 | matchday 25 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Union Omaha/Union Omaha_icon.png' alt='Union Omaha' width='30%' height='30%' /> Union Omaha | **7:00 PM** | Spokane <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Spokane/Spokane_icon.png' alt='Spokane' width='25%' height='25%' /> |
 
 </div>
