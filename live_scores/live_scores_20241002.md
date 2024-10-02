@@ -893,6 +893,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Grenades FC/Grenades FC_icon.png' alt='Grenades FC' width='30%' height='30%' /> Grenades FC | **1:2** | Moca FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Moca FC/Moca FC_icon.png' alt='Moca FC' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cibao FC/Cibao FC_icon.png' alt='Cibao FC' width='30%' height='30%' /> Cibao FC | **4:1** | Ouanaminthe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ouanaminthe/Ouanaminthe_icon.png' alt='Ouanaminthe' width='25%' height='25%' /> |
 
 </div>
 
