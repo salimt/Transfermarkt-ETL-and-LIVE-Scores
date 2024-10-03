@@ -96,6 +96,23 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landesliga Bayern Nordost/Landesliga Bayern Nordost_icon.png' alt='Landesliga Bayern Nordost' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Landesliga Bayern Nordost
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Mitterteich/SV Mitterteich_icon.png' alt='SV Mitterteich' width='30%' height='30%' /> SV Mitterteich | **4:1** | 1.FC Trogen <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1.FC Trogen/1.FC Trogen_icon.png' alt='1.FC Trogen' width='25%' height='25%' /> |
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quelle Fürth/Quelle Fürth_icon.png' alt='Quelle Fürth' width='30%' height='30%' /> Quelle Fürth | **0:1** | SC Groß\\lohe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Groß/SC Groß__lohe_icon.png' alt='SC Groß\\lohe' width='25%' height='25%' /> |
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FSV Stadeln/FSV Stadeln_icon.png' alt='FSV Stadeln' width='30%' height='30%' /> FSV Stadeln | **1:3** | SV Buckenhofen <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Buckenhofen/SV Buckenhofen_icon.png' alt='SV Buckenhofen' width='25%' height='25%' /> |
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Lauterhofen/SV Lauterhofen_icon.png' alt='SV Lauterhofen' width='30%' height='30%' /> SV Lauterhofen | **1:3** | Jahn Forchheim <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jahn Forchheim/Jahn Forchheim_icon.png' alt='Jahn Forchheim' width='25%' height='25%' /> |
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Gutenstetten/SV Gutenstetten_icon.png' alt='SV Gutenstetten' width='30%' height='30%' /> SV Gutenstetten | **6:1** | Baiersdorfer SV <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Baiersdorfer SV/Baiersdorfer SV_icon.png' alt='Baiersdorfer SV' width='25%' height='25%' /> |
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Schwaig/SV Schwaig_icon.png' alt='SV Schwaig' width='30%' height='30%' /> SV Schwaig | **5:0** | SV Unterreich. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Unterreich./SV Unterreich._icon.png' alt='SV Unterreich.' width='25%' height='25%' /> |
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Weisendorf/Weisendorf_icon.png' alt='Weisendorf' width='30%' height='30%' /> Weisendorf | **2:0** | TSV Weißenburg <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TSV Weißenburg/TSV Weißenburg_icon.png' alt='TSV Weißenburg' width='25%' height='25%' /> |
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FSV Erlangen-B./FSV Erlangen-B._icon.png' alt='FSV Erlangen-B.' width='30%' height='30%' /> FSV Erlangen-B. | **3:1** | SC 04 Schwabach <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC 04 Schwabach/SC 04 Schwabach_icon.png' alt='SC 04 Schwabach' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landesliga Niederrhein - Gruppe 1/Landesliga Niederrhein - Gruppe 1_icon.png' alt='Landesliga Niederrhein - Gruppe 1' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Landesliga Niederrhein - Gruppe 1
 
 <div align='center'>
@@ -136,6 +153,17 @@
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/W. Mannheim U21/W. Mannheim U21_icon.png' alt='W. Mannheim U21' width='30%' height='30%' /> W. Mannheim U21 | **1:3** | 1.FC Mühlhausen <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1.FC Mühlhausen/1.FC Mühlhausen_icon.png' alt='1.FC Mühlhausen' width='25%' height='25%' /> |
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Spielberg/SV Spielberg_icon.png' alt='SV Spielberg' width='30%' height='30%' /> SV Spielberg | **5:4** | FCA Walldorf II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FCA Walldorf II/FCA Walldorf II_icon.png' alt='FCA Walldorf II' width='25%' height='25%' /> |
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/F. Heddesheim/F. Heddesheim_icon.png' alt='F. Heddesheim' width='30%' height='30%' /> F. Heddesheim | **2:4** | 1.FC Bruchsal <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/1.FC Bruchsal/1.FC Bruchsal_icon.png' alt='1.FC Bruchsal' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Verbandsliga Sachsen-Anhalt/Verbandsliga Sachsen-Anhalt_icon.png' alt='Verbandsliga Sachsen-Anhalt' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Verbandsliga Sachsen-Anhalt
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/VfB Merseburg/VfB Merseburg_icon.png' alt='VfB Merseburg' width='30%' height='30%' /> VfB Merseburg | **4:1** | SV Westerhausen <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SV Westerhausen/SV Westerhausen_icon.png' alt='SV Westerhausen' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lok Stendal/Lok Stendal_icon.png' alt='Lok Stendal' width='30%' height='30%' /> Lok Stendal | **3:0** | Blau-Weiß Dölau <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Blau-Weiß Dölau/Blau-Weiß Dölau_icon.png' alt='Blau-Weiß Dölau' width='25%' height='25%' /> |
 
 </div>
 
@@ -673,8 +701,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guayaquil City/Guayaquil City_icon.png' alt='Guayaquil City' width='30%' height='30%' /> Guayaquil City | **10:30 PM** | Ind. Jrs. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ind. Jrs./Ind. Jrs._icon.png' alt='Ind. Jrs.' width='25%' height='25%' /> |
-| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Manta FC/Manta FC_icon.png' alt='Manta FC' width='30%' height='30%' /> Manta FC | **10:30 PM** | AD 9 de Octubre <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD 9 de Octubre/AD 9 de Octubre_icon.png' alt='AD 9 de Octubre' width='25%' height='25%' /> |
+| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guayaquil City/Guayaquil City_icon.png' alt='Guayaquil City' width='30%' height='30%' /> Guayaquil City | **0:0** | Ind. Jrs. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ind. Jrs./Ind. Jrs._icon.png' alt='Ind. Jrs.' width='25%' height='25%' /> |
+| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Manta FC/Manta FC_icon.png' alt='Manta FC' width='30%' height='30%' /> Manta FC | **2:1** | AD 9 de Octubre <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AD 9 de Octubre/AD 9 de Octubre_icon.png' alt='AD 9 de Octubre' width='25%' height='25%' /> |
 
 </div>
 
