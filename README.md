@@ -60,7 +60,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Criciúma EC/Criciúma EC_icon.png' alt='Criciúma EC' width='30%' height='30%' /> Criciúma EC | **2:0** | Atlético-GO <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atlético-GO/Atlético-GO_icon.png' alt='Atlético-GO' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fluminense/Fluminense_icon.png' alt='Fluminense' width='30%' height='30%' /> Fluminense | **2:30 AM** | Cruzeiro <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cruzeiro/Cruzeiro_icon.png' alt='Cruzeiro' width='25%' height='25%' /> |
+| 30' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fluminense/Fluminense_icon.png' alt='Fluminense' width='30%' height='30%' /> Fluminense | **0:0** | Cruzeiro <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cruzeiro/Cruzeiro_icon.png' alt='Cruzeiro' width='25%' height='25%' /> |
 
 </div>
 
@@ -70,7 +70,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Operário-PR/Operário-PR_icon.png' alt='Operário-PR' width='30%' height='30%' /> Operário-PR | **2:30 AM** | Chapecoense <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chapecoense/Chapecoense_icon.png' alt='Chapecoense' width='25%' height='25%' /> |
+| 29' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Operário-PR/Operário-PR_icon.png' alt='Operário-PR' width='30%' height='30%' /> Operário-PR | **0:1** | Chapecoense <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chapecoense/Chapecoense_icon.png' alt='Chapecoense' width='25%' height='25%' /> |
 
 </div>
 
@@ -303,7 +303,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quindío/Quindío_icon.png' alt='Quindío' width='30%' height='30%' /> Quindío | **0:0 HT** | Atlético Huila <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atlético Huila/Atlético Huila_icon.png' alt='Atlético Huila' width='25%' height='25%' /> |
+| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quindío/Quindío_icon.png' alt='Quindío' width='30%' height='30%' /> Quindío | **1:00 AM** | Atlético Huila <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atlético Huila/Atlético Huila_icon.png' alt='Atlético Huila' width='25%' height='25%' /> |
 
 </div>
 
@@ -313,7 +313,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indep. Santa Fe/Indep. Santa Fe_icon.png' alt='Indep. Santa Fe' width='30%' height='30%' /> Indep. Santa Fe | **3:10 AM** | Pereira <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pereira/Pereira_icon.png' alt='Pereira' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indep. Santa Fe/Indep. Santa Fe_icon.png' alt='Indep. Santa Fe' width='30%' height='30%' /> Indep. Santa Fe | **3:10 AM** | Pereira <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pereira/Pereira_icon.png' alt='Pereira' width='25%' height='25%' /> |
 
 </div>
 
@@ -658,7 +658,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colo-Colo/Colo-Colo_icon.png' alt='Colo-Colo' width='30%' height='30%' /> Colo-Colo | **0:0 HT** | U. Católica <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U. Católica/U. Católica_icon.png' alt='U. Católica' width='25%' height='25%' /> |
+| matchday 24 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colo-Colo/Colo-Colo_icon.png' alt='Colo-Colo' width='30%' height='30%' /> Colo-Colo | **1:00 AM** | U. Católica <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U. Católica/U. Católica_icon.png' alt='U. Católica' width='25%' height='25%' /> |
 
 </div>
 
