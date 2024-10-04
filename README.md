@@ -1460,6 +1460,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Arnett Gardens/Arnett Gardens_icon.png' alt='Arnett Gardens' width='30%' height='30%' /> Arnett Gardens | **1:4** | Cavalier FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cavalier FC/Cavalier FC_icon.png' alt='Cavalier FC' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mount Pleasant/Mount Pleasant_icon.png' alt='Mount Pleasant' width='30%' height='30%' /> Mount Pleasant | **0:2** | Real Hope FA <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real Hope FA/Real Hope FA_icon.png' alt='Real Hope FA' width='25%' height='25%' /> |
 
 </div>
 
