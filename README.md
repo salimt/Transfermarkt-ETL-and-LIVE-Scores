@@ -60,7 +60,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 29 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Criciúma EC/Criciúma EC_icon.png' alt='Criciúma EC' width='30%' height='30%' /> Criciúma EC | **2:0** | Atlético-GO <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atlético-GO/Atlético-GO_icon.png' alt='Atlético-GO' width='25%' height='25%' /> |
-| 30' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fluminense/Fluminense_icon.png' alt='Fluminense' width='30%' height='30%' /> Fluminense | **0:0** | Cruzeiro <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cruzeiro/Cruzeiro_icon.png' alt='Cruzeiro' width='25%' height='25%' /> |
+| 69' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fluminense/Fluminense_icon.png' alt='Fluminense' width='30%' height='30%' /> Fluminense | **1:0** | Cruzeiro <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cruzeiro/Cruzeiro_icon.png' alt='Cruzeiro' width='25%' height='25%' /> |
 
 </div>
 
@@ -70,7 +70,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 29' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Operário-PR/Operário-PR_icon.png' alt='Operário-PR' width='30%' height='30%' /> Operário-PR | **0:1** | Chapecoense <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chapecoense/Chapecoense_icon.png' alt='Chapecoense' width='25%' height='25%' /> |
+| 70' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Operário-PR/Operário-PR_icon.png' alt='Operário-PR' width='30%' height='30%' /> Operário-PR | **1:1** | Chapecoense <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chapecoense/Chapecoense_icon.png' alt='Chapecoense' width='25%' height='25%' /> |
 
 </div>
 
@@ -277,6 +277,17 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Copa LPF Proyección Final/Copa LPF Proyección Final_icon.png' alt='Copa LPF Proyección Final' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Copa LPF Proyección Final
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atl. Tucumán II/Atl. Tucumán II_icon.png' alt='Atl. Tucumán II' width='30%' height='30%' /> Atl. Tucumán II | **1:0** | Barracas C. II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barracas C. II/Barracas C. II_icon.png' alt='Barracas C. II' width='25%' height='25%' /> |
+| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indep/Indep__te II_icon.png' alt='Indep\\te II' width='30%' height='30%' /> Indep\\te II | **1:1** | Lanús II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lanús II/Lanús II_icon.png' alt='Lanús II' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera Nacional/Primera Nacional_icon.png' alt='Primera Nacional' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Primera Nacional
 
 <div align='center'>
@@ -293,7 +304,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza FC/Alianza FC_icon.png' alt='Alianza FC' width='30%' height='30%' /> Alianza FC | **3:00 AM** | CD Cacahuatique <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Cacahuatique/CD Cacahuatique_icon.png' alt='CD Cacahuatique' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza FC/Alianza FC_icon.png' alt='Alianza FC' width='30%' height='30%' /> Alianza FC | **0:1 HT** | CD Cacahuatique <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Cacahuatique/CD Cacahuatique_icon.png' alt='CD Cacahuatique' width='25%' height='25%' /> |
 
 </div>
 
@@ -313,7 +324,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indep. Santa Fe/Indep. Santa Fe_icon.png' alt='Indep. Santa Fe' width='30%' height='30%' /> Indep. Santa Fe | **3:10 AM** | Pereira <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pereira/Pereira_icon.png' alt='Pereira' width='25%' height='25%' /> |
+| 49' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indep. Santa Fe/Indep. Santa Fe_icon.png' alt='Indep. Santa Fe' width='30%' height='30%' /> Indep. Santa Fe | **1:1** | Pereira <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pereira/Pereira_icon.png' alt='Pereira' width='25%' height='25%' /> |
 
 </div>
 
@@ -658,7 +669,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 24 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colo-Colo/Colo-Colo_icon.png' alt='Colo-Colo' width='30%' height='30%' /> Colo-Colo | **1:00 AM** | U. Católica <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U. Católica/U. Católica_icon.png' alt='U. Católica' width='25%' height='25%' /> |
+| matchday 24 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colo-Colo/Colo-Colo_icon.png' alt='Colo-Colo' width='30%' height='30%' /> Colo-Colo | **1:0** | U. Católica <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U. Católica/U. Católica_icon.png' alt='U. Católica' width='25%' height='25%' /> |
 
 </div>
 
@@ -1429,16 +1440,6 @@
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Nassaji M./FC Nassaji M._icon.png' alt='FC Nassaji M.' width='30%' height='30%' /> FC Nassaji M. | **4:45 PM** | Malavan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malavan/Malavan_icon.png' alt='Malavan' width='25%' height='25%' /> |
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zob Ahan/Zob Ahan_icon.png' alt='Zob Ahan' width='30%' height='30%' /> Zob Ahan | **5:00 PM** | Aluminium Arak <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Aluminium Arak/Aluminium Arak_icon.png' alt='Aluminium Arak' width='25%' height='25%' /> |
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kheybar FC/Kheybar FC_icon.png' alt='Kheybar FC' width='30%' height='30%' /> Kheybar FC | **5:00 PM** | Gol Gohar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gol Gohar/Gol Gohar_icon.png' alt='Gol Gohar' width='25%' height='25%' /> |
-
-</div>
-
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CONCACAF Caribbean Cup/CONCACAF Caribbean Cup_icon.png' alt='CONCACAF Caribbean Cup' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> CONCACAF Caribbean Cup
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mount Pleasant/Mount Pleasant_icon.png' alt='Mount Pleasant' width='30%' height='30%' /> Mount Pleasant | **2:00 AM** | Real Hope FA <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real Hope FA/Real Hope FA_icon.png' alt='Real Hope FA' width='25%' height='25%' /> |
 
 </div>
 
