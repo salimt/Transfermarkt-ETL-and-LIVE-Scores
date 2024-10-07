@@ -10,6 +10,7 @@
 |:------|:----------|:-----:|:----------|
 | matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Diagoras/Diagoras_icon.png' alt='Diagoras' width='30%' height='30%' /> Diagoras | **0:1** | Kampaniakos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kampaniakos/Kampaniakos_icon.png' alt='Kampaniakos' width='25%' height='25%' /> |
 | matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Asteras Aktor B/Asteras Aktor B_icon.png' alt='Asteras Aktor B' width='30%' height='30%' /> Asteras Aktor B | **1:1** | PAE Chania <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PAE Chania/PAE Chania_icon.png' alt='PAE Chania' width='25%' height='25%' /> |
+| matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/GS Ilioupolis/GS Ilioupolis_icon.png' alt='GS Ilioupolis' width='30%' height='30%' /> GS Ilioupolis | **2:1** | Panachaiki <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Panachaiki/Panachaiki_icon.png' alt='Panachaiki' width='25%' height='25%' /> |
 
 </div>
 
@@ -178,6 +179,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
+| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Bihor/FC Bihor_icon.png' alt='FC Bihor' width='30%' height='30%' /> FC Bihor | **1:1** | FC U Craiova <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC U Craiova/FC U Craiova_icon.png' alt='FC U Craiova' width='25%' height='25%' /> |
 | matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Csikszereda/Csikszereda_icon.png' alt='Csikszereda' width='30%' height='30%' /> Csikszereda | **7:00 PM** | CSM Focsani <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CSM Focsani/CSM Focsani_icon.png' alt='CSM Focsani' width='25%' height='25%' /> |
 
 </div>
@@ -249,16 +251,6 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 24 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Åssiden IF/Åssiden IF_icon.png' alt='Åssiden IF' width='30%' height='30%' /> Åssiden IF | **7:00 PM** | Sarpsborg 08 II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sarpsborg 08 II/Sarpsborg 08 II_icon.png' alt='Sarpsborg 08 II' width='25%' height='25%' /> |
-
-</div>
-
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prva liga Srbije/Prva liga Srbije_icon.png' alt='Prva liga Srbije' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Prva liga Srbije
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Smederevo 1924/Smederevo 1924_icon.png' alt='Smederevo 1924' width='30%' height='30%' /> Smederevo 1924 | **4:00 PM** | FK Indjija <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FK Indjija/FK Indjija_icon.png' alt='FK Indjija' width='25%' height='25%' /> |
 
 </div>
 
@@ -347,7 +339,10 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
+| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC KIA/FC KIA_icon.png' alt='FC KIA' width='30%' height='30%' /> FC KIA | **5:6 on pens** | Shahid Ghandi <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shahid Ghandi/Shahid Ghandi_icon.png' alt='Shahid Ghandi' width='25%' height='25%' /> |
+| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kesht va Sanat/Kesht va Sanat_icon.png' alt='Kesht va Sanat' width='30%' height='30%' /> Kesht va Sanat | **0:1** | FC Yasa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Yasa/FC Yasa_icon.png' alt='FC Yasa' width='25%' height='25%' /> |
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Newroz Boukan/Newroz Boukan_icon.png' alt='Newroz Boukan' width='30%' height='30%' /> Newroz Boukan | **1:5** | Shahin Tehran <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shahin Tehran/Shahin Tehran_icon.png' alt='Shahin Tehran' width='25%' height='25%' /> |
+| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fard Alborz/Fard Alborz_icon.png' alt='Fard Alborz' width='30%' height='30%' /> Fard Alborz | **2:0 AET** | FC Nikapars <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Nikapars/FC Nikapars_icon.png' alt='FC Nikapars' width='25%' height='25%' /> |
 
 </div>
 
