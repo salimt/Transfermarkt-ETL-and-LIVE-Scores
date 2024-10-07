@@ -20,7 +20,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 17 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Platense/Platense_icon.png' alt='Platense' width='30%' height='30%' /> Platense | **0:0** | River Plate <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/River Plate/River Plate_icon.png' alt='River Plate' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Boca Juniors/Boca Juniors_icon.png' alt='Boca Juniors' width='30%' height='30%' /> Boca Juniors | **1:0 HT** | Argentinos Jrs. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Argentinos Jrs./Argentinos Jrs._icon.png' alt='Argentinos Jrs.' width='25%' height='25%' /> |
+| matchday 17 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Boca Juniors/Boca Juniors_icon.png' alt='Boca Juniors' width='30%' height='30%' /> Boca Juniors | **1:0** | Argentinos Jrs. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Argentinos Jrs./Argentinos Jrs._icon.png' alt='Argentinos Jrs.' width='25%' height='25%' /> |
 | matchday 17 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barracas C./Barracas C._icon.png' alt='Barracas C.' width='30%' height='30%' /> Barracas C. | **8:00 PM** | Ind. Rivadavia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ind. Rivadavia/Ind. Rivadavia_icon.png' alt='Ind. Rivadavia' width='25%' height='25%' /> |
 | matchday 17 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Banfield/Banfield_icon.png' alt='Banfield' width='30%' height='30%' /> Banfield | **11:00 PM** | Estudiantes LP <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Estudiantes LP/Estudiantes LP_icon.png' alt='Estudiantes LP' width='25%' height='25%' /> |
 | matchday 17 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Defensa/Defensa_icon.png' alt='Defensa' width='30%' height='30%' /> Defensa | **11:45 PM** | Rosario Central <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rosario Central/Rosario Central_icon.png' alt='Rosario Central' width='25%' height='25%' /> |
@@ -33,7 +33,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos Laguna/Santos Laguna_icon.png' alt='Santos Laguna' width='30%' height='30%' /> Santos Laguna | **4:05 AM** | FC Juárez <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Juárez/FC Juárez_icon.png' alt='FC Juárez' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos Laguna/Santos Laguna_icon.png' alt='Santos Laguna' width='30%' height='30%' /> Santos Laguna | **4:05 AM** | FC Juárez <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Juárez/FC Juárez_icon.png' alt='FC Juárez' width='25%' height='25%' /> |
 
 </div>
 
@@ -43,7 +43,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 36 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Portland/Portland_icon.png' alt='Portland' width='30%' height='30%' /> Portland | **1:00 AM** | Dallas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dallas/Dallas_icon.png' alt='Dallas' width='25%' height='25%' /> |
+| matchday 36 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Portland/Portland_icon.png' alt='Portland' width='30%' height='30%' /> Portland | **0:0** | Dallas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dallas/Dallas_icon.png' alt='Dallas' width='25%' height='25%' /> |
 
 </div>
 
@@ -53,8 +53,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indep. Santa Fe/Indep. Santa Fe_icon.png' alt='Indep. Santa Fe' width='30%' height='30%' /> Indep. Santa Fe | **12:10 AM** | Rionegro Águila <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rionegro Águila/Rionegro Águila_icon.png' alt='Rionegro Águila' width='25%' height='25%' /> |
-| 38' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Junior FC/Junior FC_icon.png' alt='Junior FC' width='30%' height='30%' /> Junior FC | **0:1** | Patriotas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Patriotas/Patriotas_icon.png' alt='Patriotas' width='25%' height='25%' /> |
+| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Indep. Santa Fe/Indep. Santa Fe_icon.png' alt='Indep. Santa Fe' width='30%' height='30%' /> Indep. Santa Fe | **0:0** | Rionegro Águila <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rionegro Águila/Rionegro Águila_icon.png' alt='Rionegro Águila' width='25%' height='25%' /> |
+| 73' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Junior FC/Junior FC_icon.png' alt='Junior FC' width='30%' height='30%' /> Junior FC | **1:1** | Patriotas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Patriotas/Patriotas_icon.png' alt='Patriotas' width='25%' height='25%' /> |
 
 </div>
 
@@ -86,7 +86,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Caracas FC/Caracas FC_icon.png' alt='Caracas FC' width='30%' height='30%' /> Caracas FC | **1:00 AM** | Metropolitanos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Metropolitanos/Metropolitanos_icon.png' alt='Metropolitanos' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Caracas FC/Caracas FC_icon.png' alt='Caracas FC' width='30%' height='30%' /> Caracas FC | **2:1** | Metropolitanos <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Metropolitanos/Metropolitanos_icon.png' alt='Metropolitanos' width='25%' height='25%' /> |
 
 </div>
 
@@ -279,8 +279,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Motagua/FC Motagua_icon.png' alt='FC Motagua' width='30%' height='30%' /> FC Motagua | **1:00 AM** | Real España <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real España/Real España_icon.png' alt='Real España' width='25%' height='25%' /> |
-| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Marathón/Marathón_icon.png' alt='Marathón' width='30%' height='30%' /> Marathón | **3:30 AM** | CD Olimpia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Olimpia/CD Olimpia_icon.png' alt='CD Olimpia' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Motagua/FC Motagua_icon.png' alt='FC Motagua' width='30%' height='30%' /> FC Motagua | **0:4** | Real España <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real España/Real España_icon.png' alt='Real España' width='25%' height='25%' /> |
+| 29' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Marathón/Marathón_icon.png' alt='Marathón' width='30%' height='30%' /> Marathón | **0:0** | CD Olimpia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Olimpia/CD Olimpia_icon.png' alt='CD Olimpia' width='25%' height='25%' /> |
 
 </div>
 
