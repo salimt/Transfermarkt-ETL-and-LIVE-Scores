@@ -13,17 +13,6 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vtora Liga/Vtora Liga_icon.png' alt='Vtora Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Vtora Liga
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dob. Dobrich/Dob. Dobrich_icon.png' alt='Dob. Dobrich' width='30%' height='30%' /> Dob. Dobrich | **3:00 PM** | Etar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Etar/Etar_icon.png' alt='Etar' width='25%' height='25%' /> |
-| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ludogorets II/Ludogorets II_icon.png' alt='Ludogorets II' width='30%' height='30%' /> Ludogorets II | **3:00 PM** | Montana <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Montana/Montana_icon.png' alt='Montana' width='25%' height='25%' /> |
-
-</div>
-
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Professional Football League/Professional Football League_icon.png' alt='Professional Football League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Professional Football League
 
 <div align='center'>
@@ -189,7 +178,6 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Bihor/FC Bihor_icon.png' alt='FC Bihor' width='30%' height='30%' /> FC Bihor | **3:00 PM** | FC U Craiova <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC U Craiova/FC U Craiova_icon.png' alt='FC U Craiova' width='25%' height='25%' /> |
 | matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Csikszereda/Csikszereda_icon.png' alt='Csikszereda' width='30%' height='30%' /> Csikszereda | **7:00 PM** | CSM Focsani <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CSM Focsani/CSM Focsani_icon.png' alt='CSM Focsani' width='25%' height='25%' /> |
 
 </div>
@@ -220,7 +208,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Viking FK II/Viking FK II_icon.png' alt='Viking FK II' width='30%' height='30%' /> Viking FK II | **0:1 HT** | Eik Tønsberg <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eik Tønsberg/Eik Tønsberg_icon.png' alt='Eik Tønsberg' width='25%' height='25%' /> |
+| matchday 24 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Viking FK II/Viking FK II_icon.png' alt='Viking FK II' width='30%' height='30%' /> Viking FK II | **1:2** | Eik Tønsberg <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eik Tønsberg/Eik Tønsberg_icon.png' alt='Eik Tønsberg' width='25%' height='25%' /> |
 
 </div>
 
@@ -350,16 +338,6 @@
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persela/Persela_icon.png' alt='Persela' width='30%' height='30%' /> Persela | **1:1** | RANS FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/RANS FC/RANS FC_icon.png' alt='RANS FC' width='25%' height='25%' /> |
 | matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bhayangkara FC/Bhayangkara FC_icon.png' alt='Bhayangkara FC' width='30%' height='30%' /> Bhayangkara FC | **1:0** | Adhyaksa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Adhyaksa/Adhyaksa_icon.png' alt='Adhyaksa' width='25%' height='25%' /> |
 | matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bekasi City/Bekasi City_icon.png' alt='Bekasi City' width='30%' height='30%' /> Bekasi City | **1:0** | PSKC Cimahi <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSKC Cimahi/PSKC Cimahi_icon.png' alt='PSKC Cimahi' width='25%' height='25%' /> |
-
-</div>
-
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Serie D - Girone H/Serie D - Girone H_icon.png' alt='Serie D - Girone H' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Serie D - Girone H
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Matera/Matera_icon.png' alt='Matera' width='30%' height='30%' /> Matera | **3:00 PM** | Gravina <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gravina/Gravina_icon.png' alt='Gravina' width='25%' height='25%' /> |
 
 </div>
 
