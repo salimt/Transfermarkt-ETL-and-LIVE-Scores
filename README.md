@@ -33,7 +33,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos Laguna/Santos Laguna_icon.png' alt='Santos Laguna' width='30%' height='30%' /> Santos Laguna | **0:0 HT** | FC Juárez <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Juárez/FC Juárez_icon.png' alt='FC Juárez' width='25%' height='25%' /> |
+| 94' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos Laguna/Santos Laguna_icon.png' alt='Santos Laguna' width='30%' height='30%' /> Santos Laguna | **0:2** | FC Juárez <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Juárez/FC Juárez_icon.png' alt='FC Juárez' width='25%' height='25%' /> |
 
 </div>
 
@@ -270,7 +270,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Motagua/FC Motagua_icon.png' alt='FC Motagua' width='30%' height='30%' /> FC Motagua | **0:4** | Real España <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real España/Real España_icon.png' alt='Real España' width='25%' height='25%' /> |
-| 69' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Marathón/Marathón_icon.png' alt='Marathón' width='30%' height='30%' /> Marathón | **0:0** | CD Olimpia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Olimpia/CD Olimpia_icon.png' alt='CD Olimpia' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Marathón/Marathón_icon.png' alt='Marathón' width='30%' height='30%' /> Marathón | **0:0** | CD Olimpia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Olimpia/CD Olimpia_icon.png' alt='CD Olimpia' width='25%' height='25%' /> |
 
 </div>
 
@@ -281,16 +281,6 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Potros del Este/Potros del Este_icon.png' alt='Potros del Este' width='30%' height='30%' /> Potros del Este | **2:0** | Alianza FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Alianza FC/Alianza FC_icon.png' alt='Alianza FC' width='25%' height='25%' /> |
-
-</div>
-
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Primera de Nicaragua Apertura/Liga Primera de Nicaragua Apertura_icon.png' alt='Liga Primera de Nicaragua Apertura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga Primera de Nicaragua Apertura
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Walter Ferretti/Walter Ferretti_icon.png' alt='Walter Ferretti' width='30%' height='30%' /> Walter Ferretti | **4:00 AM** | CS Sébaco <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CS Sébaco/CS Sébaco_icon.png' alt='CS Sébaco' width='25%' height='25%' /> |
 
 </div>
 
