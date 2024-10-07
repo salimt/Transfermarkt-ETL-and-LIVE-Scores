@@ -259,7 +259,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Smederevo 1924/Smederevo 1924_icon.png' alt='Smederevo 1924' width='30%' height='30%' /> Smederevo 1924 | **6:00 PM** | FK Indjija <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FK Indjija/FK Indjija_icon.png' alt='FK Indjija' width='25%' height='25%' /> |
+| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Smederevo 1924/Smederevo 1924_icon.png' alt='Smederevo 1924' width='30%' height='30%' /> Smederevo 1924 | **4:00 PM** | FK Indjija <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FK Indjija/FK Indjija_icon.png' alt='FK Indjija' width='25%' height='25%' /> |
 
 </div>
 
