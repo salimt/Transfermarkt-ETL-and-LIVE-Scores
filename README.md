@@ -93,8 +93,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 25' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quindío/Quindío_icon.png' alt='Quindío' width='30%' height='30%' /> Quindío | **1:1** | CBJ Cali <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CBJ Cali/CBJ Cali_icon.png' alt='CBJ Cali' width='25%' height='25%' /> |
-| 24' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Orsomarso SC/Orsomarso SC_icon.png' alt='Orsomarso SC' width='30%' height='30%' /> Orsomarso SC | **0:1** | Atlético Huila <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atlético Huila/Atlético Huila_icon.png' alt='Atlético Huila' width='25%' height='25%' /> |
+| 58' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Quindío/Quindío_icon.png' alt='Quindío' width='30%' height='30%' /> Quindío | **2:1** | CBJ Cali <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CBJ Cali/CBJ Cali_icon.png' alt='CBJ Cali' width='25%' height='25%' /> |
+| 67' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Orsomarso SC/Orsomarso SC_icon.png' alt='Orsomarso SC' width='30%' height='30%' /> Orsomarso SC | **0:1** | Atlético Huila <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atlético Huila/Atlético Huila_icon.png' alt='Atlético Huila' width='25%' height='25%' /> |
 
 </div>
 
@@ -152,6 +152,16 @@
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bolton/Bolton_icon.png' alt='Bolton' width='30%' height='30%' /> Bolton | **2:5 on pens** | Aston Villa U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Aston Villa U21/Aston Villa U21_icon.png' alt='Aston Villa U21' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Crewe Alexandra/Crewe Alexandra_icon.png' alt='Crewe Alexandra' width='30%' height='30%' /> Crewe Alexandra | **1:0** | Harrogate Town <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Harrogate Town/Harrogate Town_icon.png' alt='Harrogate Town' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Huddersfield/Huddersfield_icon.png' alt='Huddersfield' width='30%' height='30%' /> Huddersfield | **2:0** | Barnsley FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barnsley FC/Barnsley FC_icon.png' alt='Barnsley FC' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Leinster Senior Cup/Leinster Senior Cup_icon.png' alt='Leinster Senior Cup' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Leinster Senior Cup
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| Final | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/St. Pat/St. Pat__s_icon.png' alt='St. Pat\\s' width='30%' height='30%' /> St. Pat\\s | **2:1** | St. Mochta\\s <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/St. Mochta/St. Mochta__s_icon.png' alt='St. Mochta\\s' width='25%' height='25%' /> |
 
 </div>
 
