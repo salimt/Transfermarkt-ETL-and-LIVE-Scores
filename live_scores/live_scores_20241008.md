@@ -2,6 +2,16 @@
 
 [See yesterday's scores (2024-10-07)](https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/tree/main/live_scores/live_scores_20241007.md)
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/International Friendlies/International Friendlies_icon.png' alt='International Friendlies' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> International Friendlies
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+|  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cyprus U19/Cyprus U19_icon.png' alt='Cyprus U19' width='30%' height='30%' /> Cyprus U19 | **0:3** | Israel U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Israel U19/Israel U19_icon.png' alt='Israel U19' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Campeonato Brasileiro Série B/Campeonato Brasileiro Série B_icon.png' alt='Campeonato Brasileiro Série B' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Campeonato Brasileiro Série B
 
 <div align='center'>
@@ -21,7 +31,7 @@
 |:------|:----------|:-----:|:----------|
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kilis Belediye/Kilis Belediye_icon.png' alt='Kilis Belediye' width='30%' height='30%' /> Kilis Belediye | **2:0** | Balikesirspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Balikesirspor/Balikesirspor_icon.png' alt='Balikesirspor' width='25%' height='25%' /> |
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zonguldak Spor/Zonguldak Spor_icon.png' alt='Zonguldak Spor' width='30%' height='30%' /> Zonguldak Spor | **2:4 AET** | Kirikkale FK <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kirikkale FK/Kirikkale FK_icon.png' alt='Kirikkale FK' width='25%' height='25%' /> |
-| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fethiyespor/Fethiyespor_icon.png' alt='Fethiyespor' width='30%' height='30%' /> Fethiyespor | **6:00 PM** | Düzcespor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Düzcespor/Düzcespor_icon.png' alt='Düzcespor' width='25%' height='25%' /> |
+| 1' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fethiyespor/Fethiyespor_icon.png' alt='Fethiyespor' width='30%' height='30%' /> Fethiyespor | **0:0** | Düzcespor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Düzcespor/Düzcespor_icon.png' alt='Düzcespor' width='25%' height='25%' /> |
 
 </div>
 
@@ -98,16 +108,6 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Druga Liga/Druga Liga_icon.png' alt='Druga Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Druga Liga
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/ND Bilje/ND Bilje_icon.png' alt='ND Bilje' width='30%' height='30%' /> ND Bilje | **3:30 PM** | Brinje <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Brinje/Brinje_icon.png' alt='Brinje' width='25%' height='25%' /> |
-
-</div>
-
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/National League South/National League South_icon.png' alt='National League South' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> National League South
 
 <div align='center'>
@@ -124,12 +124,6 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vasalemma U19/Vasalemma U19_icon.png' alt='Vasalemma U19' width='30%' height='30%' /> Vasalemma U19 | **N/A** | JK Tammeka U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/JK Tammeka U19/JK Tammeka U19_icon.png' alt='JK Tammeka U19' width='25%' height='25%' /> |
-| matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Levadia U19/Levadia U19_icon.png' alt='Levadia U19' width='30%' height='30%' /> Levadia U19 | **4:00 PM** | Tabasalu U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tabasalu U19/Tabasalu U19_icon.png' alt='Tabasalu U19' width='25%' height='25%' /> |
-| matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paide U19/Paide U19_icon.png' alt='Paide U19' width='30%' height='30%' /> Paide U19 | **4:00 PM** | FC Nomme U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Nomme U19/FC Nomme U19_icon.png' alt='FC Nomme U19' width='25%' height='25%' /> |
-| matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TJK Legion U19/TJK Legion U19_icon.png' alt='TJK Legion U19' width='30%' height='30%' /> TJK Legion U19 | **4:00 PM** | Läänemaa U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Läänemaa U19/Läänemaa U19_icon.png' alt='Läänemaa U19' width='25%' height='25%' /> |
-| matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Olymp U19/FC Olymp U19_icon.png' alt='FC Olymp U19' width='30%' height='30%' /> FC Olymp U19 | **4:00 PM** | Trans Narva U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Trans Narva U19/Trans Narva U19_icon.png' alt='Trans Narva U19' width='25%' height='25%' /> |
-| matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/K-J LM U19/K-J LM U19_icon.png' alt='K-J LM U19' width='30%' height='30%' /> K-J LM U19 | **4:00 PM** | Harju JK U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Harju JK U19/Harju JK U19_icon.png' alt='Harju JK U19' width='25%' height='25%' /> |
 | matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tammeka U18/Tammeka U18_icon.png' alt='Tammeka U18' width='30%' height='30%' /> Tammeka U18 | **6:30 PM** | Kalju FC U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kalju FC U19/Kalju FC U19_icon.png' alt='Kalju FC U19' width='25%' height='25%' /> |
 
 </div>
@@ -218,6 +212,16 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 24 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mjøndalen IF II/Mjøndalen IF II_icon.png' alt='Mjøndalen IF II' width='30%' height='30%' /> Mjøndalen IF II | **7:00 PM** | Ullern <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ullern/Ullern_icon.png' alt='Ullern' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Uzbekistan Pro Liga/Uzbekistan Pro Liga_icon.png' alt='Uzbekistan Pro Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Uzbekistan Pro Liga
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kokand 1912/Kokand 1912_icon.png' alt='Kokand 1912' width='30%' height='30%' /> Kokand 1912 | **1:1** | Mash\\al <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mash/Mash__al_icon.png' alt='Mash\\al' width='25%' height='25%' /> |
 
 </div>
 
@@ -322,6 +326,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
+| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oghab Tehran/Oghab Tehran_icon.png' alt='Oghab Tehran' width='30%' height='30%' /> Oghab Tehran | **10:0** | Oghab Ilam <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oghab Ilam/Oghab Ilam_icon.png' alt='Oghab Ilam' width='25%' height='25%' /> |
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PAS Hamedan/PAS Hamedan_icon.png' alt='PAS Hamedan' width='30%' height='30%' /> PAS Hamedan | **4:0** | Parseh Sari <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Parseh Sari/Parseh Sari_icon.png' alt='Parseh Sari' width='25%' height='25%' /> |
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Est. Zeydon/Est. Zeydon_icon.png' alt='Est. Zeydon' width='30%' height='30%' /> Est. Zeydon | **3:0** | Navad Urmia FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Navad Urmia FC/Navad Urmia FC_icon.png' alt='Navad Urmia FC' width='25%' height='25%' /> |
 
