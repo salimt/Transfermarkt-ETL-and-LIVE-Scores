@@ -20,7 +20,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kilis Belediye/Kilis Belediye_icon.png' alt='Kilis Belediye' width='30%' height='30%' /> Kilis Belediye | **2:0** | Balikesirspor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Balikesirspor/Balikesirspor_icon.png' alt='Balikesirspor' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zonguldak Spor/Zonguldak Spor_icon.png' alt='Zonguldak Spor' width='30%' height='30%' /> Zonguldak Spor | **0:2 HT** | Kirikkale FK <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kirikkale FK/Kirikkale FK_icon.png' alt='Kirikkale FK' width='25%' height='25%' /> |
+| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zonguldak Spor/Zonguldak Spor_icon.png' alt='Zonguldak Spor' width='30%' height='30%' /> Zonguldak Spor | **2:00 PM** | Kirikkale FK <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kirikkale FK/Kirikkale FK_icon.png' alt='Kirikkale FK' width='25%' height='25%' /> |
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fethiyespor/Fethiyespor_icon.png' alt='Fethiyespor' width='30%' height='30%' /> Fethiyespor | **6:00 PM** | Düzcespor <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Düzcespor/Düzcespor_icon.png' alt='Düzcespor' width='25%' height='25%' /> |
 
 </div>
@@ -312,7 +312,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 26' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Brunei/Brunei_icon.png' alt='Brunei' width='30%' height='30%' /> Brunei | **0:0** | Timor-Leste <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Timor-Leste/Timor-Leste_icon.png' alt='Timor-Leste' width='25%' height='25%' /> |
+| 68' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Brunei/Brunei_icon.png' alt='Brunei' width='30%' height='30%' /> Brunei | **0:1** | Timor-Leste <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Timor-Leste/Timor-Leste_icon.png' alt='Timor-Leste' width='25%' height='25%' /> |
 
 </div>
 
