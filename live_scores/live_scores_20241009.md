@@ -46,16 +46,6 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Verbandsliga Südwest/Verbandsliga Südwest_icon.png' alt='Verbandsliga Südwest' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Verbandsliga Südwest
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| matchday 9 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TuS Steinbach/TuS Steinbach_icon.png' alt='TuS Steinbach' width='30%' height='30%' /> TuS Steinbach | **7:15 PM** | TuS Rüssingen <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/TuS Rüssingen/TuS Rüssingen_icon.png' alt='TuS Rüssingen' width='25%' height='25%' /> |
-
-</div>
-
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Landespokal Westfalen/Landespokal Westfalen_icon.png' alt='Landespokal Westfalen' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Landespokal Westfalen
 
 <div align='center'>
