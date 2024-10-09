@@ -10,6 +10,8 @@
 |:------|:----------|:-----:|:----------|
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vietnam/Vietnam_icon.png' alt='Vietnam' width='30%' height='30%' /> Vietnam | **1:00 PM** | India <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/India/India_icon.png' alt='India' width='25%' height='25%' /> |
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/England U19/England U19_icon.png' alt='England U19' width='30%' height='30%' /> England U19 | **3:00 PM** | Portugal U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Portugal U19/Portugal U19_icon.png' alt='Portugal U19' width='25%' height='25%' /> |
+|  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Egypt U18/Egypt U18_icon.png' alt='Egypt U18' width='30%' height='30%' /> Egypt U18 | **1:2** | Russia U18 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Russia U18/Russia U18_icon.png' alt='Russia U18' width='25%' height='25%' /> |
+|  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Greece U19/Greece U19_icon.png' alt='Greece U19' width='30%' height='30%' /> Greece U19 | **2:2** | Ireland U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ireland U19/Ireland U19_icon.png' alt='Ireland U19' width='25%' height='25%' /> |
 
 </div>
 
@@ -159,6 +161,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Magyar Kupa/Magyar Kupa_icon.png' alt='Magyar Kupa' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Magyar Kupa
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mezőörs/Mezőörs_icon.png' alt='Mezőörs' width='30%' height='30%' /> Mezőörs | **0:3** | Paksi FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paksi FC/Paksi FC_icon.png' alt='Paksi FC' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Esiliiga/Esiliiga_icon.png' alt='Esiliiga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Esiliiga
 
 <div align='center'>
@@ -233,26 +245,13 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Moravskoslezska fotbalova liga/Moravskoslezska fotbalova liga_icon.png' alt='Moravskoslezska fotbalova liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Moravskoslezska fotbalova liga
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Betclic 3 Liga - Group IV/Betclic 3 Liga - Group IV_icon.png' alt='Betclic 3 Liga - Group IV' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Betclic 3 Liga - Group IV
 
 <div align='center'>
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hodonin/Hodonin_icon.png' alt='Hodonin' width='30%' height='30%' /> Hodonin | **3:30 PM** | Zlin B <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zlin B/Zlin B_icon.png' alt='Zlin B' width='25%' height='25%' /> |
-
-</div>
-
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ceska fotbalova liga/Ceska fotbalova liga_icon.png' alt='Ceska fotbalova liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Ceska fotbalova liga
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Taborsko B/Taborsko B_icon.png' alt='Taborsko B' width='30%' height='30%' /> Taborsko B | **4:00 PM** | Slovan Velvary <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Slovan Velvary/Slovan Velvary_icon.png' alt='Slovan Velvary' width='25%' height='25%' /> |
-| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chlumec n/Chlumec n_Cidl._icon.png' alt='Chlumec n/Cidl.' width='30%' height='30%' /> Chlumec n/Cidl. | **4:00 PM** | Benatky n/Jiz <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Benatky n/Benatky n_Jiz_icon.png' alt='Benatky n/Jiz' width='25%' height='25%' /> |
-| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zivanice/Zivanice_icon.png' alt='Zivanice' width='30%' height='30%' /> Zivanice | **N/A** | Pardubice B <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pardubice B/Pardubice B_icon.png' alt='Pardubice B' width='25%' height='25%' /> |
-| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sparta Kolin/Sparta Kolin_icon.png' alt='Sparta Kolin' width='30%' height='30%' /> Sparta Kolin | **4:00 PM** | Usti nad Orlici <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Usti nad Orlici/Usti nad Orlici_icon.png' alt='Usti nad Orlici' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/W. Skawina/W. Skawina_icon.png' alt='W. Skawina' width='30%' height='30%' /> W. Skawina | **3:1** | Siarka T. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Siarka T./Siarka T._icon.png' alt='Siarka T.' width='25%' height='25%' /> |
 
 </div>
 
@@ -410,6 +409,7 @@
 | matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rīgas FS U19/Rīgas FS U19_icon.png' alt='Rīgas FS U19' width='30%' height='30%' /> Rīgas FS U19 | **2:2** | Riga FC U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Riga FC U19/Riga FC U19_icon.png' alt='Riga FC U19' width='25%' height='25%' /> |
 | matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Skanste U19/Skanste U19_icon.png' alt='Skanste U19' width='30%' height='30%' /> Skanste U19 | **2:1** | JDFS AlbertsU19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/JDFS AlbertsU19/JDFS AlbertsU19_icon.png' alt='JDFS AlbertsU19' width='25%' height='25%' /> |
 | matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Daugavpils U19/Daugavpils U19_icon.png' alt='Daugavpils U19' width='30%' height='30%' /> Daugavpils U19 | **5:0** | RFS U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/RFS U19/RFS U19_icon.png' alt='RFS U19' width='25%' height='25%' /> |
+| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liepājas FS U19/Liepājas FS U19_icon.png' alt='Liepājas FS U19' width='30%' height='30%' /> Liepājas FS U19 | **0:4** | FS Jelgava U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FS Jelgava U19/FS Jelgava U19_icon.png' alt='FS Jelgava U19' width='25%' height='25%' /> |
 
 </div>
 
@@ -460,6 +460,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Padena Meymand/Padena Meymand_icon.png' alt='Padena Meymand' width='30%' height='30%' /> Padena Meymand | **5:1** | Talaeeposhan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Talaeeposhan/Talaeeposhan_icon.png' alt='Talaeeposhan' width='25%' height='25%' /> |
+| Second Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Omid Tehran/Omid Tehran_icon.png' alt='Omid Tehran' width='30%' height='30%' /> Omid Tehran | **3:5 on pens** | Ebrahim Hadi <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ebrahim Hadi/Ebrahim Hadi_icon.png' alt='Ebrahim Hadi' width='25%' height='25%' /> |
 
 </div>
 
@@ -474,9 +475,9 @@
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kosovo U17/Kosovo U17_icon.png' alt='Kosovo U17' width='30%' height='30%' /> Kosovo U17 | **2:4** | Ukraine U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ukraine U17/Ukraine U17_icon.png' alt='Ukraine U17' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Albania U17/Albania U17_icon.png' alt='Albania U17' width='30%' height='30%' /> Albania U17 | **1:1** | Croatia U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Croatia U17/Croatia U17_icon.png' alt='Croatia U17' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Belarus U17/Belarus U17_icon.png' alt='Belarus U17' width='30%' height='30%' /> Belarus U17 | **0:3** | Czechia U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Czechia U17/Czechia U17_icon.png' alt='Czechia U17' width='25%' height='25%' /> |
-| 72' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Poland U17/Poland U17_icon.png' alt='Poland U17' width='30%' height='30%' /> Poland U17 | **7:0** | Armenia U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Armenia U17/Armenia U17_icon.png' alt='Armenia U17' width='25%' height='25%' /> |
-| 73' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Georgia U17/Georgia U17_icon.png' alt='Georgia U17' width='30%' height='30%' /> Georgia U17 | **1:2** | Slovenia U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Slovenia U17/Slovenia U17_icon.png' alt='Slovenia U17' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Luxembourg U17/Luxembourg U17_icon.png' alt='Luxembourg U17' width='30%' height='30%' /> Luxembourg U17 | **0:2 HT** | Denmark U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Denmark U17/Denmark U17_icon.png' alt='Denmark U17' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Poland U17/Poland U17_icon.png' alt='Poland U17' width='30%' height='30%' /> Poland U17 | **8:0** | Armenia U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Armenia U17/Armenia U17_icon.png' alt='Armenia U17' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Georgia U17/Georgia U17_icon.png' alt='Georgia U17' width='30%' height='30%' /> Georgia U17 | **1:2** | Slovenia U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Slovenia U17/Slovenia U17_icon.png' alt='Slovenia U17' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Luxembourg U17/Luxembourg U17_icon.png' alt='Luxembourg U17' width='30%' height='30%' /> Luxembourg U17 | **0:3** | Denmark U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Denmark U17/Denmark U17_icon.png' alt='Denmark U17' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Belgium U17/Belgium U17_icon.png' alt='Belgium U17' width='30%' height='30%' /> Belgium U17 | **7:00 PM** | Kazakhstan U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kazakhstan U17/Kazakhstan U17_icon.png' alt='Kazakhstan U17' width='25%' height='25%' /> |
 
 </div>
@@ -489,7 +490,7 @@
 |:------|:----------|:-----:|:----------|
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Türkiye U19/Türkiye U19_icon.png' alt='Türkiye U19' width='30%' height='30%' /> Türkiye U19 | **7:0** | Gibraltar U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gibraltar U19/Gibraltar U19_icon.png' alt='Gibraltar U19' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Czechia U19/Czechia U19_icon.png' alt='Czechia U19' width='30%' height='30%' /> Czechia U19 | **2:0** | San Marino U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Marino U19/San Marino U19_icon.png' alt='San Marino U19' width='25%' height='25%' /> |
-| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Switzerland U19/Switzerland U19_icon.png' alt='Switzerland U19' width='30%' height='30%' /> Switzerland U19 | **5:00 PM** | Finland U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Finland U19/Finland U19_icon.png' alt='Finland U19' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Switzerland U19/Switzerland U19_icon.png' alt='Switzerland U19' width='30%' height='30%' /> Switzerland U19 | **0:0 HT** | Finland U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Finland U19/Finland U19_icon.png' alt='Finland U19' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malta U19/Malta U19_icon.png' alt='Malta U19' width='30%' height='30%' /> Malta U19 | **6:00 PM** | Poland U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Poland U19/Poland U19_icon.png' alt='Poland U19' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Slovakia U19/Slovakia U19_icon.png' alt='Slovakia U19' width='30%' height='30%' /> Slovakia U19 | **6:00 PM** | Luxembourg U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Luxembourg U19/Luxembourg U19_icon.png' alt='Luxembourg U19' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Macedonia U19/Macedonia U19_icon.png' alt='Macedonia U19' width='30%' height='30%' /> Macedonia U19 | **6:00 PM** | Latvia U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Latvia U19/Latvia U19_icon.png' alt='Latvia U19' width='25%' height='25%' /> |
