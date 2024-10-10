@@ -9,8 +9,8 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bolivia/Bolivia_icon.png' alt='Bolivia' width='30%' height='30%' /> Bolivia | **1:0** | Colombia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colombia/Colombia_icon.png' alt='Colombia' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ecuador/Ecuador_icon.png' alt='Ecuador' width='30%' height='30%' /> Ecuador | **0:0 HT** | Paraguay <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paraguay/Paraguay_icon.png' alt='Paraguay' width='25%' height='25%' /> |
-| 29' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Venezuela/Venezuela_icon.png' alt='Venezuela' width='30%' height='30%' /> Venezuela | **0:1** | Argentina <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Argentina/Argentina_icon.png' alt='Argentina' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ecuador/Ecuador_icon.png' alt='Ecuador' width='30%' height='30%' /> Ecuador | **0:0** | Paraguay <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paraguay/Paraguay_icon.png' alt='Paraguay' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Venezuela/Venezuela_icon.png' alt='Venezuela' width='30%' height='30%' /> Venezuela | **11:00 PM** | Argentina <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Argentina/Argentina_icon.png' alt='Argentina' width='25%' height='25%' /> |
 
 </div>
 
@@ -176,6 +176,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Berrechid/Berrechid_icon.png' alt='Berrechid' width='30%' height='30%' /> Berrechid | **0:2** | RCA Zemamra <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/RCA Zemamra/RCA Zemamra_icon.png' alt='RCA Zemamra' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ittihad Tanger/Ittihad Tanger_icon.png' alt='Ittihad Tanger' width='30%' height='30%' /> Ittihad Tanger | **0:2** | Union Touarga <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Union Touarga/Union Touarga_icon.png' alt='Union Touarga' width='25%' height='25%' /> |
 
 </div>
 
@@ -200,6 +201,16 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 26 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CV Fuego FC/CV Fuego FC_icon.png' alt='CV Fuego FC' width='30%' height='30%' /> CV Fuego FC | **1:0** | Spokane <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Spokane/Spokane_icon.png' alt='Spokane' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Revelação U23/Liga Revelação U23_icon.png' alt='Liga Revelação U23' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga Revelação U23
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santa Clara 23/Santa Clara 23_icon.png' alt='Santa Clara 23' width='30%' height='30%' /> Santa Clara 23 | **1:1** | SC Farense U23 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Farense U23/SC Farense U23_icon.png' alt='SC Farense U23' width='25%' height='25%' /> |
 
 </div>
 
