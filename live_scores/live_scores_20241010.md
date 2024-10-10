@@ -8,9 +8,9 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bolivia/Bolivia_icon.png' alt='Bolivia' width='30%' height='30%' /> Bolivia | **0:0 HT** | Colombia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colombia/Colombia_icon.png' alt='Colombia' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ecuador/Ecuador_icon.png' alt='Ecuador' width='30%' height='30%' /> Ecuador | **11:00 PM** | Paraguay <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paraguay/Paraguay_icon.png' alt='Paraguay' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Venezuela/Venezuela_icon.png' alt='Venezuela' width='30%' height='30%' /> Venezuela | **11:00 PM** | Argentina <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Argentina/Argentina_icon.png' alt='Argentina' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bolivia/Bolivia_icon.png' alt='Bolivia' width='30%' height='30%' /> Bolivia | **1:0** | Colombia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colombia/Colombia_icon.png' alt='Colombia' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ecuador/Ecuador_icon.png' alt='Ecuador' width='30%' height='30%' /> Ecuador | **0:0 HT** | Paraguay <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Paraguay/Paraguay_icon.png' alt='Paraguay' width='25%' height='25%' /> |
+| 29' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Venezuela/Venezuela_icon.png' alt='Venezuela' width='30%' height='30%' /> Venezuela | **0:1** | Argentina <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Argentina/Argentina_icon.png' alt='Argentina' width='25%' height='25%' /> |
 
 </div>
 
@@ -45,7 +45,7 @@
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Spain U18/Spain U18_icon.png' alt='Spain U18' width='30%' height='30%' /> Spain U18 | **4:0** | Romania U18 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Romania U18/Romania U18_icon.png' alt='Romania U18' width='25%' height='25%' /> |
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Belgium U18/Belgium U18_icon.png' alt='Belgium U18' width='30%' height='30%' /> Belgium U18 | **5:1** | S. Arabia U18 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/S. Arabia U18/S. Arabia U18_icon.png' alt='S. Arabia U18' width='25%' height='25%' /> |
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Morocco U17/Morocco U17_icon.png' alt='Morocco U17' width='30%' height='30%' /> Morocco U17 | **0:0** | S. Arabia U17 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/S. Arabia U17/S. Arabia U17_icon.png' alt='S. Arabia U17' width='25%' height='25%' /> |
-|  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malta/Malta_icon.png' alt='Malta' width='30%' height='30%' /> Malta | **7:00 PM** | Turkmenistan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Turkmenistan/Turkmenistan_icon.png' alt='Turkmenistan' width='25%' height='25%' /> |
+|  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Portugal U18/Portugal U18_icon.png' alt='Portugal U18' width='30%' height='30%' /> Portugal U18 | **4:0** | Türkiye U18 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Türkiye U18/Türkiye U18_icon.png' alt='Türkiye U18' width='25%' height='25%' /> |
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liechtenstein/Liechtenstein_icon.png' alt='Liechtenstein' width='30%' height='30%' /> Liechtenstein | **1:0** | Hong Kong <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hong Kong/Hong Kong_icon.png' alt='Hong Kong' width='25%' height='25%' /> |
 
 </div>
@@ -81,7 +81,7 @@
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cape Verde/Cape Verde_icon.png' alt='Cape Verde' width='30%' height='30%' /> Cape Verde | **0:1** | Botswana <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Botswana/Botswana_icon.png' alt='Botswana' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ghana/Ghana_icon.png' alt='Ghana' width='30%' height='30%' /> Ghana | **0:0** | Sudan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sudan/Sudan_icon.png' alt='Sudan' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/DR Congo/DR Congo_icon.png' alt='DR Congo' width='30%' height='30%' /> DR Congo | **1:0** | Tanzania <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tanzania/Tanzania_icon.png' alt='Tanzania' width='25%' height='25%' /> |
-| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Burkina Faso/Burkina Faso_icon.png' alt='Burkina Faso' width='30%' height='30%' /> Burkina Faso | **9:00 PM** | Burundi <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Burundi/Burundi_icon.png' alt='Burundi' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Burkina Faso/Burkina Faso_icon.png' alt='Burkina Faso' width='30%' height='30%' /> Burkina Faso | **4:1** | Burundi <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Burundi/Burundi_icon.png' alt='Burundi' width='25%' height='25%' /> |
 
 </div>
 
@@ -268,6 +268,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Iceland U21/Iceland U21_icon.png' alt='Iceland U21' width='30%' height='30%' /> Iceland U21 | **0:2** | Lithuania U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lithuania U21/Lithuania U21_icon.png' alt='Lithuania U21' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Spain U21/Spain U21_icon.png' alt='Spain U21' width='30%' height='30%' /> Spain U21 | **4:3** | Kazakhstan U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kazakhstan U21/Kazakhstan U21_icon.png' alt='Kazakhstan U21' width='25%' height='25%' /> |
 
 </div>
 
