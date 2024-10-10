@@ -230,16 +230,6 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Copa de Costa Rica/Copa de Costa Rica_icon.png' alt='Copa de Costa Rica' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Copa de Costa Rica
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| Semi-Finals | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos FC/Santos FC_icon.png' alt='Santos FC' width='30%' height='30%' /> Santos FC | **0:0 on pens** | LD Alajuelense <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/LD Alajuelense/LD Alajuelense_icon.png' alt='LD Alajuelense' width='25%' height='25%' /> |
-
-</div>
-
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Azadegan League/Azadegan League_icon.png' alt='Azadegan League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Azadegan League
 
 <div align='center'>
