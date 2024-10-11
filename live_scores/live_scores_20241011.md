@@ -20,6 +20,7 @@
 |:------|:----------|:-----:|:----------|
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/USA U19/USA U19_icon.png' alt='USA U19' width='30%' height='30%' /> USA U19 | **-** | Sweden U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sweden U19/Sweden U19_icon.png' alt='Sweden U19' width='25%' height='25%' /> |
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/France U20/France U20_icon.png' alt='France U20' width='30%' height='30%' /> France U20 | **-** | Morocco U20 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Morocco U20/Morocco U20_icon.png' alt='Morocco U20' width='25%' height='25%' /> |
+|  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/China U21/China U21_icon.png' alt='China U21' width='30%' height='30%' /> China U21 | **0:6** | Russia U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Russia U21/Russia U21_icon.png' alt='Russia U21' width='25%' height='25%' /> |
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cambodia/Cambodia_icon.png' alt='Cambodia' width='30%' height='30%' /> Cambodia | **2:00 PM** | C. Taipei <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/C. Taipei/C. Taipei_icon.png' alt='C. Taipei' width='25%' height='25%' /> |
 |  | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Slovenia U19/Slovenia U19_icon.png' alt='Slovenia U19' width='30%' height='30%' /> Slovenia U19 | **3:00 PM** | Austria U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Austria U19/Austria U19_icon.png' alt='Austria U19' width='25%' height='25%' /> |
 
@@ -790,6 +791,16 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rzeszow U19/Rzeszow U19_icon.png' alt='Rzeszow U19' width='30%' height='30%' /> Rzeszow U19 | **12:00 PM** | Escola V. U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Escola V. U19/Escola V. U19_icon.png' alt='Escola V. U19' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CONCACAF Nations League A/CONCACAF Nations League A_icon.png' alt='CONCACAF Nations League A' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> CONCACAF Nations League A
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nicaragua/Nicaragua_icon.png' alt='Nicaragua' width='30%' height='30%' /> Nicaragua | **0:2** | Jamaica <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jamaica/Jamaica_icon.png' alt='Jamaica' width='25%' height='25%' /> |
 
 </div>
 
