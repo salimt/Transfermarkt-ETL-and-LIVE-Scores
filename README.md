@@ -42,7 +42,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 30' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Novorizontino/Novorizontino_icon.png' alt='Novorizontino' width='30%' height='30%' /> Novorizontino | **0:0** | Sport Recife <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sport Recife/Sport Recife_icon.png' alt='Sport Recife' width='25%' height='25%' /> |
+| 69' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Novorizontino/Novorizontino_icon.png' alt='Novorizontino' width='30%' height='30%' /> Novorizontino | **1:2** | Sport Recife <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sport Recife/Sport Recife_icon.png' alt='Sport Recife' width='25%' height='25%' /> |
 
 </div>
 
@@ -123,6 +123,16 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 4 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kampaniakos/Kampaniakos_icon.png' alt='Kampaniakos' width='30%' height='30%' /> Kampaniakos | **1:3** | PAOK Saloniki B <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PAOK Saloniki B/PAOK Saloniki B_icon.png' alt='PAOK Saloniki B' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2de Nationale VV B/2de Nationale VV B_icon.png' alt='2de Nationale VV B' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> 2de Nationale VV B
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eendr. Termien/Eendr. Termien_icon.png' alt='Eendr. Termien' width='30%' height='30%' /> Eendr. Termien | **1:2** | Jong KVM <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jong KVM/Jong KVM_icon.png' alt='Jong KVM' width='25%' height='25%' /> |
 
 </div>
 
@@ -434,6 +444,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prva liga Srbije/Prva liga Srbije_icon.png' alt='Prva liga Srbije' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Prva liga Srbije
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Javor-Matis/Javor-Matis_icon.png' alt='Javor-Matis' width='30%' height='30%' /> Javor-Matis | **0:0** | Radnik <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Radnik/Radnik_icon.png' alt='Radnik' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prva Nogometna Liga/Prva Nogometna Liga_icon.png' alt='Prva Nogometna Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Prva Nogometna Liga
 
 <div align='center'>
@@ -564,6 +584,18 @@
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Neusiedl/SC Neusiedl_See_icon.png' alt='SC Neusiedl/See' width='30%' height='30%' /> SC Neusiedl/See | **1:0** | Traiskirchen <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Traiskirchen/Traiskirchen_icon.png' alt='Traiskirchen' width='25%' height='25%' /> |
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mauerwerk/Mauerwerk_icon.png' alt='Mauerwerk' width='30%' height='30%' /> Mauerwerk | **0:3** | Kremser SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kremser SC/Kremser SC_icon.png' alt='Kremser SC' width='25%' height='25%' /> |
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Siegendorf/Siegendorf_icon.png' alt='Siegendorf' width='30%' height='30%' /> Siegendorf | **1:3** | FC Marchfeld <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Marchfeld/FC Marchfeld_icon.png' alt='FC Marchfeld' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/2.Division/2.Division_icon.png' alt='2.Division' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> 2.Division
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fremad Amager/Fremad Amager_icon.png' alt='Fremad Amager' width='30%' height='30%' /> Fremad Amager | **1:0** | Naestved BK <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Naestved BK/Naestved BK_icon.png' alt='Naestved BK' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Skive IK/Skive IK_icon.png' alt='Skive IK' width='30%' height='30%' /> Skive IK | **1:1** | Thisted FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Thisted FC/Thisted FC_icon.png' alt='Thisted FC' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Hellerup IK/Hellerup IK_icon.png' alt='Hellerup IK' width='30%' height='30%' /> Hellerup IK | **1:2** | BK Frem <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/BK Frem/BK Frem_icon.png' alt='BK Frem' width='25%' height='25%' /> |
 
 </div>
 
@@ -726,6 +758,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga de Ascenso - Fase Regular/Liga de Ascenso - Fase Regular_icon.png' alt='Liga de Ascenso - Fase Regular' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga de Ascenso - Fase Regular
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/La Luz/La Luz_icon.png' alt='La Luz' width='30%' height='30%' /> La Luz | **0:0** | Rentistas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rentistas/Rentistas_icon.png' alt='Rentistas' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Central Youth League/Central Youth League_icon.png' alt='Central Youth League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Central Youth League
 
 <div align='center'>
@@ -752,8 +794,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 33 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Manta FC/Manta FC_icon.png' alt='Manta FC' width='30%' height='30%' /> Manta FC | **10:30 PM** | Gualaceo SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gualaceo SC/Gualaceo SC_icon.png' alt='Gualaceo SC' width='25%' height='25%' /> |
-| matchday 33 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ind. Jrs./Ind. Jrs._icon.png' alt='Ind. Jrs.' width='30%' height='30%' /> Ind. Jrs. | **10:30 PM** | Vargas Torres <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vargas Torres/Vargas Torres_icon.png' alt='Vargas Torres' width='25%' height='25%' /> |
+| matchday 33 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Manta FC/Manta FC_icon.png' alt='Manta FC' width='30%' height='30%' /> Manta FC | **1:0** | Gualaceo SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gualaceo SC/Gualaceo SC_icon.png' alt='Gualaceo SC' width='25%' height='25%' /> |
+| matchday 33 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ind. Jrs./Ind. Jrs._icon.png' alt='Ind. Jrs.' width='30%' height='30%' /> Ind. Jrs. | **2:0** | Vargas Torres <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vargas Torres/Vargas Torres_icon.png' alt='Vargas Torres' width='25%' height='25%' /> |
 
 </div>
 
