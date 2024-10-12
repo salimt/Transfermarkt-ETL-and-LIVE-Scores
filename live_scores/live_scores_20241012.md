@@ -329,8 +329,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 1' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Imabari/FC Imabari_icon.png' alt='FC Imabari' width='30%' height='30%' /> FC Imabari | **0:0** | Yokohama SCC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Yokohama SCC/Yokohama SCC_icon.png' alt='Yokohama SCC' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gir. Kitakyushu/Gir. Kitakyushu_icon.png' alt='Gir. Kitakyushu' width='30%' height='30%' /> Gir. Kitakyushu | **6:00 AM** | Vanr. Hachinohe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vanr. Hachinohe/Vanr. Hachinohe_icon.png' alt='Vanr. Hachinohe' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Imabari/FC Imabari_icon.png' alt='FC Imabari' width='30%' height='30%' /> FC Imabari | **0:1 HT** | Yokohama SCC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Yokohama SCC/Yokohama SCC_icon.png' alt='Yokohama SCC' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gir. Kitakyushu/Gir. Kitakyushu_icon.png' alt='Gir. Kitakyushu' width='30%' height='30%' /> Gir. Kitakyushu | **0:1 HT** | Vanr. Hachinohe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vanr. Hachinohe/Vanr. Hachinohe_icon.png' alt='Vanr. Hachinohe' width='25%' height='25%' /> |
 | matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Teg. Miyazaki/Teg. Miyazaki_icon.png' alt='Teg. Miyazaki' width='30%' height='30%' /> Teg. Miyazaki | **9:00 AM** | Kataller Toyama <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kataller Toyama/Kataller Toyama_icon.png' alt='Kataller Toyama' width='25%' height='25%' /> |
 | matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Ryukyu/FC Ryukyu_icon.png' alt='FC Ryukyu' width='30%' height='30%' /> FC Ryukyu | **10:00 AM** | SC Sagamihara <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Sagamihara/SC Sagamihara_icon.png' alt='SC Sagamihara' width='25%' height='25%' /> |
 
@@ -603,6 +603,18 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera División Clausura/Primera División Clausura_icon.png' alt='Primera División Clausura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Primera División Clausura
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Progreso/Progreso_icon.png' alt='Progreso' width='30%' height='30%' /> Progreso | **5:30 PM** | Danubio FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Danubio FC/Danubio FC_icon.png' alt='Danubio FC' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rampla Jrs/Rampla Jrs_icon.png' alt='Rampla Jrs' width='30%' height='30%' /> Rampla Jrs | **8:00 PM** | CA Cerro <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CA Cerro/CA Cerro_icon.png' alt='CA Cerro' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Defensor SC/Defensor SC_icon.png' alt='Defensor SC' width='30%' height='30%' /> Defensor SC | **10:30 PM** | Boston River <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Boston River/Boston River_icon.png' alt='Boston River' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Esiliiga B/Esiliiga B_icon.png' alt='Esiliiga B' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Esiliiga B
 
 <div align='center'>
@@ -619,6 +631,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
+| matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olympic/Olympic_icon.png' alt='Olympic' width='30%' height='30%' /> Olympic | **4:1** | Eastern Suburbs <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eastern Suburbs/Eastern Suburbs_icon.png' alt='Eastern Suburbs' width='25%' height='25%' /> |
 | matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Western Springs/Western Springs_icon.png' alt='Western Springs' width='30%' height='30%' /> Western Springs | **8:30 AM** | Birkenhead <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Birkenhead/Birkenhead_icon.png' alt='Birkenhead' width='25%' height='25%' /> |
 
 </div>
