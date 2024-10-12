@@ -8,7 +8,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 30' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Peru/Peru_icon.png' alt='Peru' width='30%' height='30%' /> Peru | **0:0** | Uruguay <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Uruguay/Uruguay_icon.png' alt='Uruguay' width='25%' height='25%' /> |
+| 73' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Peru/Peru_icon.png' alt='Peru' width='30%' height='30%' /> Peru | **0:0** | Uruguay <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Uruguay/Uruguay_icon.png' alt='Uruguay' width='25%' height='25%' /> |
 
 </div>
 
@@ -31,7 +31,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 31 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Avaí FC/Avaí FC_icon.png' alt='Avaí FC' width='30%' height='30%' /> Avaí FC | **2:00 AM** | América-MG <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/América-MG/América-MG_icon.png' alt='América-MG' width='25%' height='25%' /> |
+| matchday 31 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Avaí FC/Avaí FC_icon.png' alt='Avaí FC' width='30%' height='30%' /> Avaí FC | **2:2** | América-MG <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/América-MG/América-MG_icon.png' alt='América-MG' width='25%' height='25%' /> |
 | matchday 31 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ceará SC/Ceará SC_icon.png' alt='Ceará SC' width='30%' height='30%' /> Ceará SC | **10:00 PM** | Ponte Preta <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ponte Preta/Ponte Preta_icon.png' alt='Ponte Preta' width='25%' height='25%' /> |
 | matchday 31 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Santos/Santos_icon.png' alt='Santos' width='30%' height='30%' /> Santos | **11:30 PM** | Mirassol-SP <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mirassol-SP/Mirassol-SP_icon.png' alt='Mirassol-SP' width='25%' height='25%' /> |
 
@@ -265,6 +265,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Copa LPF Proyección Final/Copa LPF Proyección Final_icon.png' alt='Copa LPF Proyección Final' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Copa LPF Proyección Final
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/River Plate II/River Plate II_icon.png' alt='River Plate II' width='30%' height='30%' /> River Plate II | **2:1** | Riestra II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Riestra II/Riestra II_icon.png' alt='Riestra II' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera Nacional/Primera Nacional_icon.png' alt='Primera Nacional' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Primera Nacional
 
 <div align='center'>
@@ -280,7 +290,7 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Federal A - Fase Revalida Playoff/Federal A - Fase Revalida Playoff_icon.png' alt='Federal A - Fase Revalida Playoff' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Federal A - Fase Revalida Playoff
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Federal A - Fase Reválida Playoff/Federal A - Fase Reválida Playoff_icon.png' alt='Federal A - Fase Reválida Playoff' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Federal A - Fase Reválida Playoff
 
 <div align='center'>
 
@@ -309,7 +319,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 66' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD América/CD América_icon.png' alt='CD América' width='30%' height='30%' /> CD América | **1:1** | Millonarios <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Millonarios/Millonarios_icon.png' alt='Millonarios' width='25%' height='25%' /> |
+| matchday 5 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD América/CD América_icon.png' alt='CD América' width='30%' height='30%' /> CD América | **2:1** | Millonarios <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Millonarios/Millonarios_icon.png' alt='Millonarios' width='25%' height='25%' /> |
 
 </div>
 
@@ -320,7 +330,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Imabari/FC Imabari_icon.png' alt='FC Imabari' width='30%' height='30%' /> FC Imabari | **5:55 AM** | Yokohama SCC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Yokohama SCC/Yokohama SCC_icon.png' alt='Yokohama SCC' width='25%' height='25%' /> |
-| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gir. Kitakyushu/Gir. Kitakyushu_icon.png' alt='Gir. Kitakyushu' width='30%' height='30%' /> Gir. Kitakyushu | **6:00 AM** | Vanr. Hachinohe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vanr. Hachinohe/Vanr. Hachinohe_icon.png' alt='Vanr. Hachinohe' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gir. Kitakyushu/Gir. Kitakyushu_icon.png' alt='Gir. Kitakyushu' width='30%' height='30%' /> Gir. Kitakyushu | **6:00 AM** | Vanr. Hachinohe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vanr. Hachinohe/Vanr. Hachinohe_icon.png' alt='Vanr. Hachinohe' width='25%' height='25%' /> |
 | matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Teg. Miyazaki/Teg. Miyazaki_icon.png' alt='Teg. Miyazaki' width='30%' height='30%' /> Teg. Miyazaki | **9:00 AM** | Kataller Toyama <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kataller Toyama/Kataller Toyama_icon.png' alt='Kataller Toyama' width='25%' height='25%' /> |
 | matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Ryukyu/FC Ryukyu_icon.png' alt='FC Ryukyu' width='30%' height='30%' /> FC Ryukyu | **10:00 AM** | SC Sagamihara <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Sagamihara/SC Sagamihara_icon.png' alt='SC Sagamihara' width='25%' height='25%' /> |
 
@@ -345,7 +355,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tepatitlán/Tepatitlán_icon.png' alt='Tepatitlán' width='30%' height='30%' /> Tepatitlán | **1:0 HT** | Tampico Madero <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tampico Madero/Tampico Madero_icon.png' alt='Tampico Madero' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tepatitlán/Tepatitlán_icon.png' alt='Tepatitlán' width='30%' height='30%' /> Tepatitlán | **3:00 AM** | Tampico Madero <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tampico Madero/Tampico Madero_icon.png' alt='Tampico Madero' width='25%' height='25%' /> |
 
 </div>
 
@@ -356,7 +366,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dep. La Guaira/Dep. La Guaira_icon.png' alt='Dep. La Guaira' width='30%' height='30%' /> Dep. La Guaira | **3:2** | Rayo Zuliano <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rayo Zuliano/Rayo Zuliano_icon.png' alt='Rayo Zuliano' width='25%' height='25%' /> |
-| 68' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zamora FC/Zamora FC_icon.png' alt='Zamora FC' width='30%' height='30%' /> Zamora FC | **1:3** | Monagas SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Monagas SC/Monagas SC_icon.png' alt='Monagas SC' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zamora FC/Zamora FC_icon.png' alt='Zamora FC' width='30%' height='30%' /> Zamora FC | **2:4** | Monagas SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Monagas SC/Monagas SC_icon.png' alt='Monagas SC' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Estudiantes/Estudiantes_icon.png' alt='Estudiantes' width='30%' height='30%' /> Estudiantes | **10:00 PM** | Portuguesa FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Portuguesa FC/Portuguesa FC_icon.png' alt='Portuguesa FC' width='25%' height='25%' /> |
 
 </div>
