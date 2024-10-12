@@ -331,8 +331,8 @@
 |:------|:----------|:-----:|:----------|
 | matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Imabari/FC Imabari_icon.png' alt='FC Imabari' width='30%' height='30%' /> FC Imabari | **3:1** | Yokohama SCC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Yokohama SCC/Yokohama SCC_icon.png' alt='Yokohama SCC' width='25%' height='25%' /> |
 | matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gir. Kitakyushu/Gir. Kitakyushu_icon.png' alt='Gir. Kitakyushu' width='30%' height='30%' /> Gir. Kitakyushu | **0:3** | Vanr. Hachinohe <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vanr. Hachinohe/Vanr. Hachinohe_icon.png' alt='Vanr. Hachinohe' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Teg. Miyazaki/Teg. Miyazaki_icon.png' alt='Teg. Miyazaki' width='30%' height='30%' /> Teg. Miyazaki | **0:0 HT** | Kataller Toyama <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kataller Toyama/Kataller Toyama_icon.png' alt='Kataller Toyama' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Ryukyu/FC Ryukyu_icon.png' alt='FC Ryukyu' width='30%' height='30%' /> FC Ryukyu | **10:00 AM** | SC Sagamihara <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Sagamihara/SC Sagamihara_icon.png' alt='SC Sagamihara' width='25%' height='25%' /> |
+| matchday 32 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Teg. Miyazaki/Teg. Miyazaki_icon.png' alt='Teg. Miyazaki' width='30%' height='30%' /> Teg. Miyazaki | **9:00 AM** | Kataller Toyama <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kataller Toyama/Kataller Toyama_icon.png' alt='Kataller Toyama' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Ryukyu/FC Ryukyu_icon.png' alt='FC Ryukyu' width='30%' height='30%' /> FC Ryukyu | **0:1 HT** | SC Sagamihara <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/SC Sagamihara/SC Sagamihara_icon.png' alt='SC Sagamihara' width='25%' height='25%' /> |
 
 </div>
 
@@ -356,6 +356,16 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shohei HS/Shohei HS_icon.png' alt='Shohei HS' width='30%' height='30%' /> Shohei HS | **1:0** | Omiya U18 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Omiya U18/Omiya U18_icon.png' alt='Omiya U18' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Prince Takamado U18 Premier League West/Prince Takamado U18 Premier League West_icon.png' alt='Prince Takamado U18 Premier League West' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Prince Takamado U18 Premier League West
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 18 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vissel U18/Vissel U18_icon.png' alt='Vissel U18' width='30%' height='30%' /> Vissel U18 | **2:1** | Sagan U18 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sagan U18/Sagan U18_icon.png' alt='Sagan U18' width='25%' height='25%' /> |
 
 </div>
 
@@ -673,7 +683,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Olympic/Olympic_icon.png' alt='Olympic' width='30%' height='30%' /> Olympic | **4:1** | Eastern Suburbs <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Eastern Suburbs/Eastern Suburbs_icon.png' alt='Eastern Suburbs' width='25%' height='25%' /> |
-| matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Western Springs/Western Springs_icon.png' alt='Western Springs' width='30%' height='30%' /> Western Springs | **8:30 AM** | Birkenhead <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Birkenhead/Birkenhead_icon.png' alt='Birkenhead' width='25%' height='25%' /> |
+| matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Western Springs/Western Springs_icon.png' alt='Western Springs' width='30%' height='30%' /> Western Springs | **1:3** | Birkenhead <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Birkenhead/Birkenhead_icon.png' alt='Birkenhead' width='25%' height='25%' /> |
 
 </div>
 
@@ -1695,7 +1705,6 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rangers/Rangers_icon.png' alt='Rangers' width='30%' height='30%' /> Rangers | **9:00 AM** | Lee Man <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lee Man/Lee Man_icon.png' alt='Lee Man' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Southern/Southern_icon.png' alt='Southern' width='30%' height='30%' /> Southern | **12:00 PM** | Kowloon City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kowloon City/Kowloon City_icon.png' alt='Kowloon City' width='25%' height='25%' /> |
 
 </div>
