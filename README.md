@@ -35,8 +35,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kenya/Kenya_icon.png' alt='Kenya' width='30%' height='30%' /> Kenya | **0:0 HT** | Cameroon <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cameroon/Cameroon_icon.png' alt='Cameroon' width='25%' height='25%' /> |
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/The Gambia/The Gambia_icon.png' alt='The Gambia' width='30%' height='30%' /> The Gambia | **4:00 PM** | Madagascar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Madagascar/Madagascar_icon.png' alt='Madagascar' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kenya/Kenya_icon.png' alt='Kenya' width='30%' height='30%' /> Kenya | **0:1** | Cameroon <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cameroon/Cameroon_icon.png' alt='Cameroon' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/The Gambia/The Gambia_icon.png' alt='The Gambia' width='30%' height='30%' /> The Gambia | **0:0 HT** | Madagascar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Madagascar/Madagascar_icon.png' alt='Madagascar' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liberia/Liberia_icon.png' alt='Liberia' width='30%' height='30%' /> Liberia | **6:00 PM** | Equat. Guinea <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Equat. Guinea/Equat. Guinea_icon.png' alt='Equat. Guinea' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zimbabwe/Zimbabwe_icon.png' alt='Zimbabwe' width='30%' height='30%' /> Zimbabwe | **6:00 PM** | Namibia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Namibia/Namibia_icon.png' alt='Namibia' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Togo/Togo_icon.png' alt='Togo' width='30%' height='30%' /> Togo | **6:00 PM** | Algeria <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Algeria/Algeria_icon.png' alt='Algeria' width='25%' height='25%' /> |
@@ -156,16 +156,6 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 24 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Okinawa SV/Okinawa SV_icon.png' alt='Okinawa SV' width='30%' height='30%' /> Okinawa SV | **0:1** | Maru. Okazaki <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Maru. Okazaki/Maru. Okazaki_icon.png' alt='Maru. Okazaki' width='25%' height='25%' /> |
-
-</div>
-
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga FUTVE Clausura/Liga FUTVE Clausura_icon.png' alt='Liga FUTVE Clausura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga FUTVE Clausura
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/UCV FC/UCV FC_icon.png' alt='UCV FC' width='30%' height='30%' /> UCV FC | **1:3** | Caracas FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Caracas FC/Caracas FC_icon.png' alt='Caracas FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -291,7 +281,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 69' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bursa Nilüfer/Bursa Nilüfer_icon.png' alt='Bursa Nilüfer' width='30%' height='30%' /> Bursa Nilüfer | **1:1** | Izmir Coruhlu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Izmir Coruhlu/Izmir Coruhlu_icon.png' alt='Izmir Coruhlu' width='25%' height='25%' /> |
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bursa Nilüfer/Bursa Nilüfer_icon.png' alt='Bursa Nilüfer' width='30%' height='30%' /> Bursa Nilüfer | **1:1** | Izmir Coruhlu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Izmir Coruhlu/Izmir Coruhlu_icon.png' alt='Izmir Coruhlu' width='25%' height='25%' /> |
 
 </div>
 
@@ -302,17 +292,10 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Navad Urmia FC/Navad Urmia FC_icon.png' alt='Navad Urmia FC' width='30%' height='30%' /> Navad Urmia FC | **2:0** | Bahman Javan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bahman Javan/Bahman Javan_icon.png' alt='Bahman Javan' width='25%' height='25%' /> |
+| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shahid Ghandi/Shahid Ghandi_icon.png' alt='Shahid Ghandi' width='30%' height='30%' /> Shahid Ghandi | **1:1** | Fard Alborz <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fard Alborz/Fard Alborz_icon.png' alt='Fard Alborz' width='25%' height='25%' /> |
+| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chooka Talesh/Chooka Talesh_icon.png' alt='Chooka Talesh' width='30%' height='30%' /> Chooka Talesh | **1:1** | Shenavar Sazi <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shenavar Sazi/Shenavar Sazi_icon.png' alt='Shenavar Sazi' width='25%' height='25%' /> |
+| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC KIA/FC KIA_icon.png' alt='FC KIA' width='30%' height='30%' /> FC KIA | **0:0** | Kesht va Sanat <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kesht va Sanat/Kesht va Sanat_icon.png' alt='Kesht va Sanat' width='25%' height='25%' /> |
 | matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oghab Tehran/Oghab Tehran_icon.png' alt='Oghab Tehran' width='30%' height='30%' /> Oghab Tehran | **3:0** | Sh. Babolsar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sh. Babolsar/Sh. Babolsar_icon.png' alt='Sh. Babolsar' width='25%' height='25%' /> |
-
-</div>
-
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/MONACObet liga/MONACObet liga_icon.png' alt='MONACObet liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> MONACObet liga
-
-<div align='center'>
-
-| Round | Home Team | Score | Away Team |
-|:------|:----------|:-----:|:----------|
-| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Slovan B/Slovan B_icon.png' alt='Slovan B' width='30%' height='30%' /> Slovan B | **3:00 PM** | FC ViOn <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC ViOn/FC ViOn_icon.png' alt='FC ViOn' width='25%' height='25%' /> |
 
 </div>
 
@@ -326,13 +309,23 @@
 
 </div>
 
-## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga de Ascenso - Fase Regular/Liga de Ascenso - Fase Regular_icon.png' alt='Liga de Ascenso - Fase Regular' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga de Ascenso - Fase Regular
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U-19 Elites Grupa/U-19 Elites Grupa_icon.png' alt='U-19 Elites Grupa' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> U-19 Elites Grupa
 
 <div align='center'>
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 22 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mvd City Torque/Mvd City Torque_icon.png' alt='Mvd City Torque' width='30%' height='30%' /> Mvd City Torque | **3:00 PM** | Club Oriental <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Club Oriental/Club Oriental_icon.png' alt='Club Oriental' width='25%' height='25%' /> |
+| matchday 19 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Riga FC U19/Riga FC U19_icon.png' alt='Riga FC U19' width='30%' height='30%' /> Riga FC U19 | **1:1** | Valmiera U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Valmiera U19/Valmiera U19_icon.png' alt='Valmiera U19' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Azerbaycan Kuboku/Azerbaycan Kuboku_icon.png' alt='Azerbaycan Kuboku' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Azerbaycan Kuboku
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FK Dinamo Baku/FK Dinamo Baku_icon.png' alt='FK Dinamo Baku' width='30%' height='30%' /> FK Dinamo Baku | **4:0** | FK Füzuli <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FK Füzuli/FK Füzuli_icon.png' alt='FK Füzuli' width='25%' height='25%' /> |
 
 </div>
 
