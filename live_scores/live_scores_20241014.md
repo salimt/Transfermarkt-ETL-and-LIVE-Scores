@@ -250,6 +250,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Guate Apertura/Liga Guate Apertura_icon.png' alt='Liga Guate Apertura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga Guate Apertura
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Xinabajul/Xinabajul_icon.png' alt='Xinabajul' width='30%' height='30%' /> Xinabajul | **3:1** | Malacateco <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malacateco/Malacateco_icon.png' alt='Malacateco' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Panameña de Fútbol Clausura/Liga Panameña de Fútbol Clausura_icon.png' alt='Liga Panameña de Fútbol Clausura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga Panameña de Fútbol Clausura
 
 <div align='center'>
