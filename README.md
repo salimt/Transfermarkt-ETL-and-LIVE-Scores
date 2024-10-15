@@ -8,7 +8,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 67' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colombia/Colombia_icon.png' alt='Colombia' width='30%' height='30%' /> Colombia | **2:0** | Chile <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chile/Chile_icon.png' alt='Chile' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colombia/Colombia_icon.png' alt='Colombia' width='30%' height='30%' /> Colombia | **4:0** | Chile <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chile/Chile_icon.png' alt='Chile' width='25%' height='25%' /> |
 
 </div>
 
@@ -141,7 +141,6 @@
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tigre II/Tigre II_icon.png' alt='Tigre II' width='30%' height='30%' /> Tigre II | **0:3** | Estudiantes II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Estudiantes II/Estudiantes II_icon.png' alt='Estudiantes II' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sarmiento II/Sarmiento II_icon.png' alt='Sarmiento II' width='30%' height='30%' /> Sarmiento II | **0:1** | Platense II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Platense II/Platense II_icon.png' alt='Platense II' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Instituto II/Instituto II_icon.png' alt='Instituto II' width='30%' height='30%' /> Instituto II | **4:0** | Atl. Tucumán II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atl. Tucumán II/Atl. Tucumán II_icon.png' alt='Atl. Tucumán II' width='25%' height='25%' /> |
-| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/C. Córdoba II/C. Córdoba II_icon.png' alt='C. Córdoba II' width='30%' height='30%' /> C. Córdoba II | **11:00 PM** | Godoy Cruz II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Godoy Cruz II/Godoy Cruz II_icon.png' alt='Godoy Cruz II' width='25%' height='25%' /> |
 
 </div>
 
