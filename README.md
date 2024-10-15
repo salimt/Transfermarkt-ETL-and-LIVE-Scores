@@ -8,7 +8,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 28' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colombia/Colombia_icon.png' alt='Colombia' width='30%' height='30%' /> Colombia | **0:0** | Chile <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chile/Chile_icon.png' alt='Chile' width='25%' height='25%' /> |
+| 67' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Colombia/Colombia_icon.png' alt='Colombia' width='30%' height='30%' /> Colombia | **2:0** | Chile <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chile/Chile_icon.png' alt='Chile' width='25%' height='25%' /> |
 
 </div>
 
@@ -138,6 +138,9 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tigre II/Tigre II_icon.png' alt='Tigre II' width='30%' height='30%' /> Tigre II | **0:3** | Estudiantes II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Estudiantes II/Estudiantes II_icon.png' alt='Estudiantes II' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sarmiento II/Sarmiento II_icon.png' alt='Sarmiento II' width='30%' height='30%' /> Sarmiento II | **0:1** | Platense II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Platense II/Platense II_icon.png' alt='Platense II' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Instituto II/Instituto II_icon.png' alt='Instituto II' width='30%' height='30%' /> Instituto II | **4:0** | Atl. Tucumán II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atl. Tucumán II/Atl. Tucumán II_icon.png' alt='Atl. Tucumán II' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/C. Córdoba II/C. Córdoba II_icon.png' alt='C. Córdoba II' width='30%' height='30%' /> C. Córdoba II | **11:00 PM** | Godoy Cruz II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Godoy Cruz II/Godoy Cruz II_icon.png' alt='Godoy Cruz II' width='25%' height='25%' /> |
 
 </div>
@@ -414,6 +417,7 @@
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Norway U21/Norway U21_icon.png' alt='Norway U21' width='30%' height='30%' /> Norway U21 | **5:1** | Türkiye U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Türkiye U21/Türkiye U21_icon.png' alt='Türkiye U21' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Marino U21/San Marino U21_icon.png' alt='San Marino U21' width='30%' height='30%' /> San Marino U21 | **0:3** | Latvia U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Latvia U21/Latvia U21_icon.png' alt='Latvia U21' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/France U21/France U21_icon.png' alt='France U21' width='30%' height='30%' /> France U21 | **1:2** | Austria U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Austria U21/Austria U21_icon.png' alt='Austria U21' width='25%' height='25%' /> |
+| Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/England U21/England U21_icon.png' alt='England U21' width='30%' height='30%' /> England U21 | **7:0** | Azerbaijan U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Azerbaijan U21/Azerbaijan U21_icon.png' alt='Azerbaijan U21' width='25%' height='25%' /> |
 | Group Stage | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Serbia U21/Serbia U21_icon.png' alt='Serbia U21' width='30%' height='30%' /> Serbia U21 | **1:0** | Ukraine U21 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ukraine U21/Ukraine U21_icon.png' alt='Ukraine U21' width='25%' height='25%' /> |
 
 </div>
