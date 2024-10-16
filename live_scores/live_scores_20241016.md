@@ -453,7 +453,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 16 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Taipei Vikings/Taipei Vikings_icon.png' alt='Taipei Vikings' width='30%' height='30%' /> Taipei Vikings | **12:30 PM** | Ming Chuan Univ <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ming Chuan Univ/Ming Chuan Univ_icon.png' alt='Ming Chuan Univ' width='25%' height='25%' /> |
+| matchday 16 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tainan City/Tainan City_icon.png' alt='Tainan City' width='30%' height='30%' /> Tainan City | **4:0** | AC Taipei <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/AC Taipei/AC Taipei_icon.png' alt='AC Taipei' width='25%' height='25%' /> |
 
 </div>
 
@@ -488,7 +488,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Marino/San Marino_icon.png' alt='San Marino' width='30%' height='30%' /> San Marino | **3:00 PM** | Lentigione <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lentigione/Lentigione_icon.png' alt='Lentigione' width='25%' height='25%' /> |
+| matchday 6 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Marino/San Marino_icon.png' alt='San Marino' width='30%' height='30%' /> San Marino | **0:0** | Lentigione <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lentigione/Lentigione_icon.png' alt='Lentigione' width='25%' height='25%' /> |
 
 </div>
 
