@@ -108,7 +108,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/River Plate/River Plate_icon.png' alt='River Plate' width='30%' height='30%' /> River Plate | **0:1** | Defensor SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Defensor SC/Defensor SC_icon.png' alt='Defensor SC' width='25%' height='25%' /> |
-| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cerro Largo/Cerro Largo_icon.png' alt='Cerro Largo' width='30%' height='30%' /> Cerro Largo | **6:30 PM** | Maldonado <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Maldonado/Maldonado_icon.png' alt='Maldonado' width='25%' height='25%' /> |
+| 28' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cerro Largo/Cerro Largo_icon.png' alt='Cerro Largo' width='30%' height='30%' /> Cerro Largo | **0:0** | Maldonado <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Maldonado/Maldonado_icon.png' alt='Maldonado' width='25%' height='25%' /> |
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CA Fénix/CA Fénix_icon.png' alt='CA Fénix' width='30%' height='30%' /> CA Fénix | **9:00 PM** | CA Cerro <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CA Cerro/CA Cerro_icon.png' alt='CA Cerro' width='25%' height='25%' /> |
 
 </div>
@@ -119,7 +119,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Fifth Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chaika Pes./Chaika Pes._icon.png' alt='Chaika Pes.' width='30%' height='30%' /> Chaika Pes. | **6:00 PM** | Znamya Truda <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Znamya Truda/Znamya Truda_icon.png' alt='Znamya Truda' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chaika Pes./Chaika Pes._icon.png' alt='Chaika Pes.' width='30%' height='30%' /> Chaika Pes. | **1:0 HT** | Znamya Truda <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Znamya Truda/Znamya Truda_icon.png' alt='Znamya Truda' width='25%' height='25%' /> |
 
 </div>
 
@@ -248,7 +248,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 28 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/RFS/RFS_icon.png' alt='RFS' width='30%' height='30%' /> RFS | **1:0** | Auda <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Auda/Auda_icon.png' alt='Auda' width='25%' height='25%' /> |
+| matchday 28 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/RFS/RFS_icon.png' alt='RFS' width='30%' height='30%' /> RFS | **1:2** | Auda <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Auda/Auda_icon.png' alt='Auda' width='25%' height='25%' /> |
 
 </div>
 
@@ -258,7 +258,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shirak Gyumri/Shirak Gyumri_icon.png' alt='Shirak Gyumri' width='30%' height='30%' /> Shirak Gyumri | **1:0 HT** | West Armenia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='25%' height='25%' /> |
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shirak Gyumri/Shirak Gyumri_icon.png' alt='Shirak Gyumri' width='30%' height='30%' /> Shirak Gyumri | **5:00 PM** | West Armenia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='25%' height='25%' /> |
 
 </div>
 
@@ -268,11 +268,11 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bendel Ins./Bendel Ins._icon.png' alt='Bendel Ins.' width='30%' height='30%' /> Bendel Ins. | **4:00 PM** | Bayelsa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bayelsa/Bayelsa_icon.png' alt='Bayelsa' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Heartland/FC Heartland_icon.png' alt='FC Heartland' width='30%' height='30%' /> FC Heartland | **0:1 HT** | Ikorodu City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ikorodu City/Ikorodu City_icon.png' alt='Ikorodu City' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Plateau United/Plateau United_icon.png' alt='Plateau United' width='30%' height='30%' /> Plateau United | **1:0 HT** | Remo Stars FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Remo Stars FC/Remo Stars FC_icon.png' alt='Remo Stars FC' width='25%' height='25%' /> |
-| 48' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Katsina Utd./Katsina Utd._icon.png' alt='Katsina Utd.' width='30%' height='30%' /> Katsina Utd. | **1:0** | Akwa United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Akwa United/Akwa United_icon.png' alt='Akwa United' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rivers United/Rivers United_icon.png' alt='Rivers United' width='30%' height='30%' /> Rivers United | **0:0 HT** | Shooting Stars <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shooting Stars/Shooting Stars_icon.png' alt='Shooting Stars' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bendel Ins./Bendel Ins._icon.png' alt='Bendel Ins.' width='30%' height='30%' /> Bendel Ins. | **3:0** | Bayelsa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bayelsa/Bayelsa_icon.png' alt='Bayelsa' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Heartland/FC Heartland_icon.png' alt='FC Heartland' width='30%' height='30%' /> FC Heartland | **5:00 PM** | Ikorodu City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ikorodu City/Ikorodu City_icon.png' alt='Ikorodu City' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Plateau United/Plateau United_icon.png' alt='Plateau United' width='30%' height='30%' /> Plateau United | **3:1** | Remo Stars FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Remo Stars FC/Remo Stars FC_icon.png' alt='Remo Stars FC' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Katsina Utd./Katsina Utd._icon.png' alt='Katsina Utd.' width='30%' height='30%' /> Katsina Utd. | **5:00 PM** | Akwa United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Akwa United/Akwa United_icon.png' alt='Akwa United' width='25%' height='25%' /> |
+| matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Rivers United/Rivers United_icon.png' alt='Rivers United' width='30%' height='30%' /> Rivers United | **2:0** | Shooting Stars <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shooting Stars/Shooting Stars_icon.png' alt='Shooting Stars' width='25%' height='25%' /> |
 
 </div>
 
@@ -293,11 +293,11 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| 70' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chadormalu SC/Chadormalu SC_icon.png' alt='Chadormalu SC' width='30%' height='30%' /> Chadormalu SC | **1:0** | Kheybar FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kheybar FC/Kheybar FC_icon.png' alt='Kheybar FC' width='25%' height='25%' /> |
-| 66' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shams Azar/Shams Azar_icon.png' alt='Shams Azar' width='30%' height='30%' /> Shams Azar | **1:1** | Havadar SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Havadar SC/Havadar SC_icon.png' alt='Havadar SC' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chadormalu SC/Chadormalu SC_icon.png' alt='Chadormalu SC' width='30%' height='30%' /> Chadormalu SC | **1:0** | Kheybar FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kheybar FC/Kheybar FC_icon.png' alt='Kheybar FC' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shams Azar/Shams Azar_icon.png' alt='Shams Azar' width='30%' height='30%' /> Shams Azar | **1:1** | Havadar SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Havadar SC/Havadar SC_icon.png' alt='Havadar SC' width='25%' height='25%' /> |
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sepahan/Sepahan_icon.png' alt='Sepahan' width='30%' height='30%' /> Sepahan | **N/A** | FC Nassaji M. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Nassaji M./FC Nassaji M._icon.png' alt='FC Nassaji M.' width='25%' height='25%' /> |
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Malavan/Malavan_icon.png' alt='Malavan' width='30%' height='30%' /> Malavan | **N/A** | Persepolis <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persepolis/Persepolis_icon.png' alt='Persepolis' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Esteghlal Khz./Esteghlal Khz._icon.png' alt='Esteghlal Khz.' width='30%' height='30%' /> Esteghlal Khz. | **2:1 HT** | Mes Rafsanjan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mes Rafsanjan/Mes Rafsanjan_icon.png' alt='Mes Rafsanjan' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Esteghlal Khz./Esteghlal Khz._icon.png' alt='Esteghlal Khz.' width='30%' height='30%' /> Esteghlal Khz. | **5:00 PM** | Mes Rafsanjan <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mes Rafsanjan/Mes Rafsanjan_icon.png' alt='Mes Rafsanjan' width='25%' height='25%' /> |
 
 </div>
 
