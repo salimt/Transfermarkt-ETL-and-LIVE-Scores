@@ -67,7 +67,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Leones FC/Leones FC_icon.png' alt='Leones FC' width='30%' height='30%' /> Leones FC | **1:0** | Real C. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Real C./Real C._icon.png' alt='Real C.' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barranquilla FC/Barranquilla FC_icon.png' alt='Barranquilla FC' width='30%' height='30%' /> Barranquilla FC | **2:2 HT** | Bogotá FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bogotá FC/Bogotá FC_icon.png' alt='Bogotá FC' width='25%' height='25%' /> |
+| matchday 15 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Barranquilla FC/Barranquilla FC_icon.png' alt='Barranquilla FC' width='30%' height='30%' /> Barranquilla FC | **4:2** | Bogotá FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bogotá FC/Bogotá FC_icon.png' alt='Bogotá FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -140,7 +140,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Unión Comercio/Unión Comercio_icon.png' alt='Unión Comercio' width='30%' height='30%' /> Unión Comercio | **3:2** | Comerciantes <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Comerciantes/Comerciantes_icon.png' alt='Comerciantes' width='25%' height='25%' /> |
-| 87' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cusco FC/Cusco FC_icon.png' alt='Cusco FC' width='30%' height='30%' /> Cusco FC | **2:1** | Los Chankas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Los Chankas/Los Chankas_icon.png' alt='Los Chankas' width='25%' height='25%' /> |
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cusco FC/Cusco FC_icon.png' alt='Cusco FC' width='30%' height='30%' /> Cusco FC | **2:1** | Los Chankas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Los Chankas/Los Chankas_icon.png' alt='Los Chankas' width='25%' height='25%' /> |
 
 </div>
 
@@ -247,8 +247,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vargas Torres/Vargas Torres_icon.png' alt='Vargas Torres' width='30%' height='30%' /> Vargas Torres | **10:30 PM** | Chacaritas FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chacaritas FC/Chacaritas FC_icon.png' alt='Chacaritas FC' width='25%' height='25%' /> |
-| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Antonio FC/San Antonio FC_icon.png' alt='San Antonio FC' width='30%' height='30%' /> San Antonio FC | **10:30 PM** | Manta FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Manta FC/Manta FC_icon.png' alt='Manta FC' width='25%' height='25%' /> |
+| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vargas Torres/Vargas Torres_icon.png' alt='Vargas Torres' width='30%' height='30%' /> Vargas Torres | **4:2** | Chacaritas FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chacaritas FC/Chacaritas FC_icon.png' alt='Chacaritas FC' width='25%' height='25%' /> |
+| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Antonio FC/San Antonio FC_icon.png' alt='San Antonio FC' width='30%' height='30%' /> San Antonio FC | **1:2** | Manta FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Manta FC/Manta FC_icon.png' alt='Manta FC' width='25%' height='25%' /> |
 
 </div>
 
@@ -269,6 +269,18 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shirak Gyumri/Shirak Gyumri_icon.png' alt='Shirak Gyumri' width='30%' height='30%' /> Shirak Gyumri | **2:0** | West Armenia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/West Armenia/West Armenia_icon.png' alt='West Armenia' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Armenian First League/Armenian First League_icon.png' alt='Armenian First League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Armenian First League
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Artsakh/Artsakh_icon.png' alt='Artsakh' width='30%' height='30%' /> Artsakh | **2:1** | FC Syunik <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Syunik/FC Syunik_icon.png' alt='FC Syunik' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Nikarm/FC Nikarm_icon.png' alt='FC Nikarm' width='30%' height='30%' /> FC Nikarm | **1:6** | Ararat-Arm. II <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ararat-Arm. II/Ararat-Arm. II_icon.png' alt='Ararat-Arm. II' width='25%' height='25%' /> |
+| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ararat II/Ararat II_icon.png' alt='Ararat II' width='30%' height='30%' /> Ararat II | **1:2** | Andranik <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Andranik/Andranik_icon.png' alt='Andranik' width='25%' height='25%' /> |
 
 </div>
 
