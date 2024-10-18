@@ -273,7 +273,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Central Coast/Central Coast_icon.png' alt='Central Coast' width='30%' height='30%' /> Central Coast | **10:35 AM** | Melbourne <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Melbourne/Melbourne_icon.png' alt='Melbourne' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Central Coast/Central Coast_icon.png' alt='Central Coast' width='30%' height='30%' /> Central Coast | **10:35 AM** | Melbourne <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Melbourne/Melbourne_icon.png' alt='Melbourne' width='25%' height='25%' /> |
 
 </div>
 
@@ -553,6 +553,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Druga Liga/Druga Liga_icon.png' alt='Druga Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Druga Liga
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 11 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Lokomotyv Kyiv/Lokomotyv Kyiv_icon.png' alt='Lokomotyv Kyiv' width='30%' height='30%' /> Lokomotyv Kyiv | **12:00 PM** | Oleksandriya-2 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oleksandriya-2/Oleksandriya-2_icon.png' alt='Oleksandriya-2' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Challenge League/Challenge League_icon.png' alt='Challenge League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Challenge League
 
 <div align='center'>
@@ -727,8 +737,8 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSBS Biak/PSBS Biak_icon.png' alt='PSBS Biak' width='30%' height='30%' /> PSBS Biak | **10:30 AM** | Semen Padang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='25%' height='25%' /> |
-| matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIB/PERSIB_icon.png' alt='PERSIB' width='30%' height='30%' /> PERSIB | **10:30 AM** | Persebaya <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persebaya/Persebaya_icon.png' alt='Persebaya' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSBS Biak/PSBS Biak_icon.png' alt='PSBS Biak' width='30%' height='30%' /> PSBS Biak | **10:30 AM** | Semen Padang <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Semen Padang/Semen Padang_icon.png' alt='Semen Padang' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PERSIB/PERSIB_icon.png' alt='PERSIB' width='30%' height='30%' /> PERSIB | **10:30 AM** | Persebaya <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Persebaya/Persebaya_icon.png' alt='Persebaya' width='25%' height='25%' /> |
 | matchday 8 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/PSM Makassar/PSM Makassar_icon.png' alt='PSM Makassar' width='30%' height='30%' /> PSM Makassar | **2:00 PM** | Madura United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Madura United/Madura United_icon.png' alt='Madura United' width='25%' height='25%' /> |
 
 </div>
