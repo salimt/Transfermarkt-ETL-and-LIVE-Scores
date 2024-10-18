@@ -543,6 +543,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/U19 Premier Liga/U19 Premier Liga_icon.png' alt='U19 Premier Liga' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> U19 Premier Liga
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 10 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Polissya U19/Polissya U19_icon.png' alt='Polissya U19' width='30%' height='30%' /> Polissya U19 | **11:00 AM** | Livyi Bereg U19 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Livyi Bereg U19/Livyi Bereg U19_icon.png' alt='Livyi Bereg U19' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Challenge League/Challenge League_icon.png' alt='Challenge League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Challenge League
 
 <div align='center'>
