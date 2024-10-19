@@ -479,8 +479,8 @@
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pachuca/Pachuca_icon.png' alt='Pachuca' width='30%' height='30%' /> Pachuca | **1:00 AM** | Chivas <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chivas/Chivas_icon.png' alt='Chivas' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atlas/Atlas_icon.png' alt='Atlas' width='30%' height='30%' /> Atlas | **0:0** | Mazatlán FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mazatlán FC/Mazatlán FC_icon.png' alt='Mazatlán FC' width='25%' height='25%' /> |
 | matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Querétaro FC/Querétaro FC_icon.png' alt='Querétaro FC' width='30%' height='30%' /> Querétaro FC | **0:1** | Toluca <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Toluca/Toluca_icon.png' alt='Toluca' width='25%' height='25%' /> |
-| 49' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Necaxa/Necaxa_icon.png' alt='Necaxa' width='30%' height='30%' /> Necaxa | **1:2** | Club Tijuana <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Club Tijuana/Club Tijuana_icon.png' alt='Club Tijuana' width='25%' height='25%' /> |
-| 55' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Puebla FC/Puebla FC_icon.png' alt='Puebla FC' width='30%' height='30%' /> Puebla FC | **1:1** | CD Cruz Azul <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Cruz Azul/CD Cruz Azul_icon.png' alt='CD Cruz Azul' width='25%' height='25%' /> |
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Necaxa/Necaxa_icon.png' alt='Necaxa' width='30%' height='30%' /> Necaxa | **5:00 AM** | Club Tijuana <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Club Tijuana/Club Tijuana_icon.png' alt='Club Tijuana' width='25%' height='25%' /> |
+| 89' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Puebla FC/Puebla FC_icon.png' alt='Puebla FC' width='30%' height='30%' /> Puebla FC | **1:2** | CD Cruz Azul <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/CD Cruz Azul/CD Cruz Azul_icon.png' alt='CD Cruz Azul' width='25%' height='25%' /> |
 
 </div>
 
@@ -513,10 +513,10 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kashima Antlers/Kashima Antlers_icon.png' alt='Kashima Antlers' width='30%' height='30%' /> Kashima Antlers | **7:00 AM** | Avispa Fukuoka <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Avispa Fukuoka/Avispa Fukuoka_icon.png' alt='Avispa Fukuoka' width='25%' height='25%' /> |
-| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kashiwa Reysol/Kashiwa Reysol_icon.png' alt='Kashiwa Reysol' width='30%' height='30%' /> Kashiwa Reysol | **7:00 AM** | Machida Zelvia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Machida Zelvia/Machida Zelvia_icon.png' alt='Machida Zelvia' width='25%' height='25%' /> |
-| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nagoya Grampus/Nagoya Grampus_icon.png' alt='Nagoya Grampus' width='30%' height='30%' /> Nagoya Grampus | **7:00 AM** | H. C. Sapporo <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. C. Sapporo/H. C. Sapporo_icon.png' alt='H. C. Sapporo' width='25%' height='25%' /> |
-| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kyoto Sanga/Kyoto Sanga_icon.png' alt='Kyoto Sanga' width='30%' height='30%' /> Kyoto Sanga | **7:00 AM** | Sagan Tosu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sagan Tosu/Sagan Tosu_icon.png' alt='Sagan Tosu' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kashima Antlers/Kashima Antlers_icon.png' alt='Kashima Antlers' width='30%' height='30%' /> Kashima Antlers | **7:00 AM** | Avispa Fukuoka <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Avispa Fukuoka/Avispa Fukuoka_icon.png' alt='Avispa Fukuoka' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kashiwa Reysol/Kashiwa Reysol_icon.png' alt='Kashiwa Reysol' width='30%' height='30%' /> Kashiwa Reysol | **7:00 AM** | Machida Zelvia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Machida Zelvia/Machida Zelvia_icon.png' alt='Machida Zelvia' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nagoya Grampus/Nagoya Grampus_icon.png' alt='Nagoya Grampus' width='30%' height='30%' /> Nagoya Grampus | **7:00 AM** | H. C. Sapporo <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. C. Sapporo/H. C. Sapporo_icon.png' alt='H. C. Sapporo' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kyoto Sanga/Kyoto Sanga_icon.png' alt='Kyoto Sanga' width='30%' height='30%' /> Kyoto Sanga | **7:00 AM** | Sagan Tosu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sagan Tosu/Sagan Tosu_icon.png' alt='Sagan Tosu' width='25%' height='25%' /> |
 | matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shonan Bellmare/Shonan Bellmare_icon.png' alt='Shonan Bellmare' width='30%' height='30%' /> Shonan Bellmare | **8:00 AM** | Sanf. Hiroshima <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sanf. Hiroshima/Sanf. Hiroshima_icon.png' alt='Sanf. Hiroshima' width='25%' height='25%' /> |
 | matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cerezo Osaka/Cerezo Osaka_icon.png' alt='Cerezo Osaka' width='30%' height='30%' /> Cerezo Osaka | **8:00 AM** | Júbilo Iwata <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Júbilo Iwata/Júbilo Iwata_icon.png' alt='Júbilo Iwata' width='25%' height='25%' /> |
 | matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tokyo Verdy/Tokyo Verdy_icon.png' alt='Tokyo Verdy' width='30%' height='30%' /> Tokyo Verdy | **10:00 AM** | Urawa Reds <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Urawa Reds/Urawa Reds_icon.png' alt='Urawa Reds' width='25%' height='25%' /> |
@@ -529,7 +529,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kagoshima Utd./Kagoshima Utd._icon.png' alt='Kagoshima Utd.' width='30%' height='30%' /> Kagoshima Utd. | **6:55 AM** | Ehime FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ehime FC/Ehime FC_icon.png' alt='Ehime FC' width='25%' height='25%' /> |
+| 1' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Kagoshima Utd./Kagoshima Utd._icon.png' alt='Kagoshima Utd.' width='30%' height='30%' /> Kagoshima Utd. | **0:0** | Ehime FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ehime FC/Ehime FC_icon.png' alt='Ehime FC' width='25%' height='25%' /> |
 | Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vegalta Sendai/Vegalta Sendai_icon.png' alt='Vegalta Sendai' width='30%' height='30%' /> Vegalta Sendai | **7:00 AM** | Yokohama FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Yokohama FC/Yokohama FC_icon.png' alt='Yokohama FC' width='25%' height='25%' /> |
 | Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/JEF Utd. Chiba/JEF Utd. Chiba_icon.png' alt='JEF Utd. Chiba' width='30%' height='30%' /> JEF Utd. Chiba | **7:00 AM** | Ventforet Kofu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ventforet Kofu/Ventforet Kofu_icon.png' alt='Ventforet Kofu' width='25%' height='25%' /> |
 
@@ -541,9 +541,9 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Osaka/FC Osaka_icon.png' alt='FC Osaka' width='30%' height='30%' /> FC Osaka | **6:00 AM** | Gir. Kitakyushu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gir. Kitakyushu/Gir. Kitakyushu_icon.png' alt='Gir. Kitakyushu' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Osaka/FC Osaka_icon.png' alt='FC Osaka' width='30%' height='30%' /> FC Osaka | **1:0 HT** | Gir. Kitakyushu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gir. Kitakyushu/Gir. Kitakyushu_icon.png' alt='Gir. Kitakyushu' width='25%' height='25%' /> |
 | Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Omiya Ardija/Omiya Ardija_icon.png' alt='Omiya Ardija' width='30%' height='30%' /> Omiya Ardija | **7:00 AM** | FC Imabari <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Imabari/FC Imabari_icon.png' alt='FC Imabari' width='25%' height='25%' /> |
-| matchday 33 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nagano Parceiro/Nagano Parceiro_icon.png' alt='Nagano Parceiro' width='30%' height='30%' /> Nagano Parceiro | **8:00 AM** | FC Ryukyu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Ryukyu/FC Ryukyu_icon.png' alt='FC Ryukyu' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Nagano Parceiro/Nagano Parceiro_icon.png' alt='Nagano Parceiro' width='30%' height='30%' /> Nagano Parceiro | **8:00 AM** | FC Ryukyu <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Ryukyu/FC Ryukyu_icon.png' alt='FC Ryukyu' width='25%' height='25%' /> |
 
 </div>
 
@@ -585,6 +585,23 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/All Japan Senior Football Championship/All Japan Senior Football Championship_icon.png' alt='All Japan Senior Football Championship' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> All Japan Senior Football Championship
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/FC Kariya/FC Kariya_icon.png' alt='FC Kariya' width='30%' height='30%' /> FC Kariya | **4:0** | Route11 <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Route11/Route11_icon.png' alt='Route11' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Toho Titanium/Toho Titanium_icon.png' alt='Toho Titanium' width='30%' height='30%' /> Toho Titanium | **5:4 on pens** | Bel. Ros. Iwami <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bel. Ros. Iwami/Bel. Ros. Iwami_icon.png' alt='Bel. Ros. Iwami' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tokyo 23/Tokyo 23_icon.png' alt='Tokyo 23' width='30%' height='30%' /> Tokyo 23 | **4:1** | H. Tokachi SE <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/H. Tokachi SE/H. Tokachi SE_icon.png' alt='H. Tokachi SE' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Laran. Kyoto/Laran. Kyoto_icon.png' alt='Laran. Kyoto' width='30%' height='30%' /> Laran. Kyoto | **0:1** | Veroskr. Tsuno <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Veroskr. Tsuno/Veroskr. Tsuno_icon.png' alt='Veroskr. Tsuno' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Vonds Ichihara/Vonds Ichihara_icon.png' alt='Vonds Ichihara' width='30%' height='30%' /> Vonds Ichihara | **6:7 on pens** | JSC FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/JSC FC/JSC FC_icon.png' alt='JSC FC' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Tadotsu FC/Tadotsu FC_icon.png' alt='Tadotsu FC' width='30%' height='30%' /> Tadotsu FC | **3:2** | MHI Nagasaki SC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/MHI Nagasaki SC/MHI Nagasaki SC_icon.png' alt='MHI Nagasaki SC' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Blanc. Hirosaki/Blanc. Hirosaki_icon.png' alt='Blanc. Hirosaki' width='30%' height='30%' /> Blanc. Hirosaki | **7:6 on pens** | Chukyo Univ. I <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Chukyo Univ. I/Chukyo Univ. I_icon.png' alt='Chukyo Univ. I' width='25%' height='25%' /> |
+| First Round | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Fukuyama City/Fukuyama City_icon.png' alt='Fukuyama City' width='30%' height='30%' /> Fukuyama City | **0:1** | Shibuya City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Shibuya City/Shibuya City_icon.png' alt='Shibuya City' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga de Expansión MX Apertura/Liga de Expansión MX Apertura_icon.png' alt='Liga de Expansión MX Apertura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga de Expansión MX Apertura
 
 <div align='center'>
@@ -592,7 +609,7 @@
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
 | matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Venados FC/Venados FC_icon.png' alt='Venados FC' width='30%' height='30%' /> Venados FC | **4:0** | Dorados Sinaloa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Dorados Sinaloa/Dorados Sinaloa_icon.png' alt='Dorados Sinaloa' width='25%' height='25%' /> |
-| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atlético La Paz/Atlético La Paz_icon.png' alt='Atlético La Paz' width='30%' height='30%' /> Atlético La Paz | **0:1 HT** | Oaxaca <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oaxaca/Oaxaca_icon.png' alt='Oaxaca' width='25%' height='25%' /> |
+| matchday 13 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Atlético La Paz/Atlético La Paz_icon.png' alt='Atlético La Paz' width='30%' height='30%' /> Atlético La Paz | **2:1** | Oaxaca <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Oaxaca/Oaxaca_icon.png' alt='Oaxaca' width='25%' height='25%' /> |
 
 </div>
 
@@ -602,7 +619,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Auckland FC/Auckland FC_icon.png' alt='Auckland FC' width='30%' height='30%' /> Auckland FC | **6:00 AM** | Brisbane Roar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Brisbane Roar/Brisbane Roar_icon.png' alt='Brisbane Roar' width='25%' height='25%' /> |
+| 45' | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Auckland FC/Auckland FC_icon.png' alt='Auckland FC' width='30%' height='30%' /> Auckland FC | **1:0 HT** | Brisbane Roar <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Brisbane Roar/Brisbane Roar_icon.png' alt='Brisbane Roar' width='25%' height='25%' /> |
 | matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Newcastle/Newcastle_icon.png' alt='Newcastle' width='30%' height='30%' /> Newcastle | **8:00 AM** | Melbourne City <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Melbourne City/Melbourne City_icon.png' alt='Melbourne City' width='25%' height='25%' /> |
 | matchday 1 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Western Sydney/Western Sydney_icon.png' alt='Western Sydney' width='30%' height='30%' /> Western Sydney | **10:35 AM** | Sydney FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Sydney FC/Sydney FC_icon.png' alt='Sydney FC' width='25%' height='25%' /> |
 
@@ -692,7 +709,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jeonbuk Hyundai/Jeonbuk Hyundai_icon.png' alt='Jeonbuk Hyundai' width='30%' height='30%' /> Jeonbuk Hyundai | **7:00 AM** | Daejeon Hana C. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Daejeon Hana C./Daejeon Hana C._icon.png' alt='Daejeon Hana C.' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jeonbuk Hyundai/Jeonbuk Hyundai_icon.png' alt='Jeonbuk Hyundai' width='30%' height='30%' /> Jeonbuk Hyundai | **7:00 AM** | Daejeon Hana C. <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Daejeon Hana C./Daejeon Hana C._icon.png' alt='Daejeon Hana C.' width='25%' height='25%' /> |
 | matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Incheon Utd./Incheon Utd._icon.png' alt='Incheon Utd.' width='30%' height='30%' /> Incheon Utd. | **9:30 AM** | Jeju United <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jeju United/Jeju United_icon.png' alt='Jeju United' width='25%' height='25%' /> |
 | matchday 34 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gimcheon Sangmu/Gimcheon Sangmu_icon.png' alt='Gimcheon Sangmu' width='30%' height='30%' /> Gimcheon Sangmu | **9:30 AM** | Ulsan HD <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ulsan HD/Ulsan HD_icon.png' alt='Ulsan HD' width='25%' height='25%' /> |
 
@@ -725,7 +742,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 35 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bucheon FC/Bucheon FC_icon.png' alt='Bucheon FC' width='30%' height='30%' /> Bucheon FC | **7:00 AM** | Suwon Bluewings <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Suwon Bluewings/Suwon Bluewings_icon.png' alt='Suwon Bluewings' width='25%' height='25%' /> |
+| Line-ups | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Bucheon FC/Bucheon FC_icon.png' alt='Bucheon FC' width='30%' height='30%' /> Bucheon FC | **7:00 AM** | Suwon Bluewings <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Suwon Bluewings/Suwon Bluewings_icon.png' alt='Suwon Bluewings' width='25%' height='25%' /> |
 | matchday 35 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Jeonnam Dragons/Jeonnam Dragons_icon.png' alt='Jeonnam Dragons' width='30%' height='30%' /> Jeonnam Dragons | **9:30 AM** | Ansan Greeners <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Ansan Greeners/Ansan Greeners_icon.png' alt='Ansan Greeners' width='25%' height='25%' /> |
 | matchday 35 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Cheongju FC/Cheongju FC_icon.png' alt='Cheongju FC' width='30%' height='30%' /> Cheongju FC | **9:30 AM** | Gimpo FC <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Gimpo FC/Gimpo FC_icon.png' alt='Gimpo FC' width='25%' height='25%' /> |
 
@@ -1497,6 +1514,16 @@
 
 </div>
 
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Liga Guate Apertura/Liga Guate Apertura_icon.png' alt='Liga Guate Apertura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Liga Guate Apertura
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 12 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Zacapa/Zacapa_icon.png' alt='Zacapa' width='30%' height='30%' /> Zacapa | **1:1** | Guastatoya <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Guastatoya/Guastatoya_icon.png' alt='Guastatoya' width='25%' height='25%' /> |
+
+</div>
+
 ## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Primera División Apertura/Primera División Apertura_icon.png' alt='Primera División Apertura' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Primera División Apertura
 
 <div align='center'>
@@ -1513,7 +1540,7 @@
 
 | Round | Home Team | Score | Away Team |
 |:------|:----------|:-----:|:----------|
-| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Independiente/Independiente_icon.png' alt='Independiente' width='30%' height='30%' /> Independiente | **3:30 AM** | San Francisco <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Francisco/San Francisco_icon.png' alt='San Francisco' width='25%' height='25%' /> |
+| matchday 14 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Independiente/Independiente_icon.png' alt='Independiente' width='30%' height='30%' /> Independiente | **1:0** | San Francisco <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/San Francisco/San Francisco_icon.png' alt='San Francisco' width='25%' height='25%' /> |
 
 </div>
 
@@ -1526,6 +1553,16 @@
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Omon. Aradippou/Omon. Aradippou_icon.png' alt='Omon. Aradippou' width='30%' height='30%' /> Omon. Aradippou | **5:00 PM** | APOEL Nicosia <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/APOEL Nicosia/APOEL Nicosia_icon.png' alt='APOEL Nicosia' width='25%' height='25%' /> |
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Omonia Nikosia/Omonia Nikosia_icon.png' alt='Omonia Nikosia' width='30%' height='30%' /> Omonia Nikosia | **5:00 PM** | EN Paralimniou <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/EN Paralimniou/EN Paralimniou_icon.png' alt='EN Paralimniou' width='25%' height='25%' /> |
 | matchday 7 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Pafos FC/Pafos FC_icon.png' alt='Pafos FC' width='30%' height='30%' /> Pafos FC | **6:00 PM** | Karmiotissa <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Karmiotissa/Karmiotissa_icon.png' alt='Karmiotissa' width='25%' height='25%' /> |
+
+</div>
+
+## <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Philippines Football League/Philippines Football League_icon.png' alt='Philippines Football League' style='width:5%; height:5%; display:inline-block; vertical-align:middle;' /> Philippines Football League
+
+<div align='center'>
+
+| Round | Home Team | Score | Away Team |
+|:------|:----------|:-----:|:----------|
+| matchday 3 | <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Mendiola 1991/Mendiola 1991_icon.png' alt='Mendiola 1991' width='30%' height='30%' /> Mendiola 1991 | **9:00 AM** | Loyola <img src='https://github.com/salimt/Transfermarkt-ETL-and-LIVE-Scores/raw/main/live_scores/icons/Loyola/Loyola_icon.png' alt='Loyola' width='25%' height='25%' /> |
 
 </div>
 
